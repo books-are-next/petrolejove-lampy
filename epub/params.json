@@ -9,8 +9,8 @@
       "languageCode": "cs"
     },
     "elements": {
-      "title": "e-booknadpis  \ne-booknadpis1\ne-booknadpis3bezodstrankovani\ne-booknadpis3odsazenipred6b",
-      "subtitle": "",
+      "title": "e-booknadpis  \ne-booknadpis1\ne-booknadpis3bezodstrankovani\n",
+      "subtitle": "e-booknadpis3odsazenipred6b",
       "h2": "",
       "h3": "",
       "h4": "",
@@ -89,7 +89,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "ČÁST PRVNÍ\nLAMPY SVÍTÍ A PROSTÍRÁ SE"
       },
       {
         "filename": "petrolejove_lampy_008.md",
@@ -693,7 +694,7 @@
       "identifier": "9a77d930-5457-47dc-82e0-097ff3ac94cd",
       "author": "Jaroslav Havlíček",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-15T11:25:14.396Z"
+      "modified": "2021-09-15T11:34:10.022Z"
     },
     "chapters": [
       {
@@ -739,193 +740,193 @@
         "xhtml": "petrolejove_lampy_007.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "2",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_008.md",
         "xhtml": "petrolejove_lampy_008.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "3",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_009.md",
         "xhtml": "petrolejove_lampy_009.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "4",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_010.md",
         "xhtml": "petrolejove_lampy_010.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "5",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_011.md",
         "xhtml": "petrolejove_lampy_011.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "6",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_012.md",
         "xhtml": "petrolejove_lampy_012.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "7",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_013.md",
         "xhtml": "petrolejove_lampy_013.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "8",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_014.md",
         "xhtml": "petrolejove_lampy_014.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "9",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_015.md",
         "xhtml": "petrolejove_lampy_015.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "10",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_016.md",
         "xhtml": "petrolejove_lampy_016.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "11",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_017.md",
         "xhtml": "petrolejove_lampy_017.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "12",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_018.md",
         "xhtml": "petrolejove_lampy_018.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "13",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_019.md",
         "xhtml": "petrolejove_lampy_019.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "14",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_020.md",
         "xhtml": "petrolejove_lampy_020.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "15",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_021.md",
         "xhtml": "petrolejove_lampy_021.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "16",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_022.md",
         "xhtml": "petrolejove_lampy_022.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "17",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_023.md",
         "xhtml": "petrolejove_lampy_023.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "18",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_024.md",
         "xhtml": "petrolejove_lampy_024.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "19",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_025.md",
         "xhtml": "petrolejove_lampy_025.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "20",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_026.md",
         "xhtml": "petrolejove_lampy_026.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "21",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_027.md",
         "xhtml": "petrolejove_lampy_027.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "22",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_028.md",
         "xhtml": "petrolejove_lampy_028.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "23",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_029.md",
         "xhtml": "petrolejove_lampy_029.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "24",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_030.md",
         "xhtml": "petrolejove_lampy_030.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "25",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_031.md",
         "xhtml": "petrolejove_lampy_031.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "26",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_032.md",
         "xhtml": "petrolejove_lampy_032.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "27",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_033.md",
         "xhtml": "petrolejove_lampy_033.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "28",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_034.md",
         "xhtml": "petrolejove_lampy_034.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "29",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_035.md",
         "xhtml": "petrolejove_lampy_035.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "30",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_036.md",
         "xhtml": "petrolejove_lampy_036.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "31",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_037.md",
         "xhtml": "petrolejove_lampy_037.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "32",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_038.md",
         "xhtml": "petrolejove_lampy_038.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "33",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_039.md",
         "xhtml": "petrolejove_lampy_039.htm"
@@ -937,127 +938,127 @@
         "xhtml": "petrolejove_lampy_040.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "2",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_041.md",
         "xhtml": "petrolejove_lampy_041.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "3",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_042.md",
         "xhtml": "petrolejove_lampy_042.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "4",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_043.md",
         "xhtml": "petrolejove_lampy_043.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "5",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_044.md",
         "xhtml": "petrolejove_lampy_044.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "6",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_045.md",
         "xhtml": "petrolejove_lampy_045.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "7",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_046.md",
         "xhtml": "petrolejove_lampy_046.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "8",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_047.md",
         "xhtml": "petrolejove_lampy_047.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "9",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_048.md",
         "xhtml": "petrolejove_lampy_048.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "10",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_049.md",
         "xhtml": "petrolejove_lampy_049.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "11",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_050.md",
         "xhtml": "petrolejove_lampy_050.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "12",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_051.md",
         "xhtml": "petrolejove_lampy_051.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "13",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_052.md",
         "xhtml": "petrolejove_lampy_052.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "14",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_053.md",
         "xhtml": "petrolejove_lampy_053.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "15",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_054.md",
         "xhtml": "petrolejove_lampy_054.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "16",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_055.md",
         "xhtml": "petrolejove_lampy_055.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "17",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_056.md",
         "xhtml": "petrolejove_lampy_056.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "18",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_057.md",
         "xhtml": "petrolejove_lampy_057.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "19",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_058.md",
         "xhtml": "petrolejove_lampy_058.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "20",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_059.md",
         "xhtml": "petrolejove_lampy_059.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "21",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_060.md",
         "xhtml": "petrolejove_lampy_060.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "22",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_061.md",
         "xhtml": "petrolejove_lampy_061.htm"
@@ -1069,61 +1070,61 @@
         "xhtml": "petrolejove_lampy_062.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "2",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_063.md",
         "xhtml": "petrolejove_lampy_063.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "3",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_064.md",
         "xhtml": "petrolejove_lampy_064.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "4",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_065.md",
         "xhtml": "petrolejove_lampy_065.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "5",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_066.md",
         "xhtml": "petrolejove_lampy_066.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "6",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_067.md",
         "xhtml": "petrolejove_lampy_067.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "7",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_068.md",
         "xhtml": "petrolejove_lampy_068.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "8",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_069.md",
         "xhtml": "petrolejove_lampy_069.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "9",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_070.md",
         "xhtml": "petrolejove_lampy_070.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "10",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_071.md",
         "xhtml": "petrolejove_lampy_071.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "11",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_072.md",
         "xhtml": "petrolejove_lampy_072.htm"
@@ -1226,6 +1227,6 @@
       "user": "books-are-next",
       "repo": "petrolejove-lampy"
     },
-    "generatedAt": 1631705115620
+    "generatedAt": 1631705650922
   }
 }
