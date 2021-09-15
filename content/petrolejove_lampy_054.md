@@ -1,5 +1,6 @@
 ---
 title: '15'
+subtitle: ''
 ---
 
 Zrno budoucích rozepří, které tak pečlivě zašil podzim a které tak zdárně klíčilo, přece jen nevzešlo.

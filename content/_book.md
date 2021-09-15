@@ -83,7 +83,11 @@ chapters:
   - petrolejove_lampy_071.html
   - petrolejove_lampy_072.html
   - petrolejove_lampy_073.html
-tocBase: []
+tocBase:
+  - link: petrolejove_lampy_007.html
+    title: |-
+      ČÁST PRVNÍ
+      LAMPY SVÍTÍ A PROSTÍRÁ SE
 static:
   - style
   - scripts

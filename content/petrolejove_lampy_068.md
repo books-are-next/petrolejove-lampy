@@ -1,5 +1,6 @@
 ---
 title: '7'
+subtitle: ''
 ---
 
 Pavel Malina se neroznemohl po svém bláznivém výletě, nebylo mu dopřáno tak lidsky umřít. Byl Štěpce zachován k starosti i k hrůze. K hrůze i k starosti, neboť Štěpčin den musil být nyní docela jinak rozdělen. Jak? Matka potřebovala její péči a společnost, ale stejně potřeboval její péči a společnost hejtman. Nezbylo než být neustále na nohou. Neustále mezi městečkem a Vejrychovskem. Neustále u těch dvou pacientů.

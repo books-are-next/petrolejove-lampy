@@ -1,5 +1,6 @@
 ---
 title: '16'
+subtitle: ''
 ---
 
 Zatímco Štěpka na Vejrychovsku kráčela trpkou cestou od zklamání ke zklamání, zatímco ze sebe střásala přeludy bláhových nadějí a plna nezdolnosti se odhodlávala k nové činnosti, zatímco přesvědčovala tupohlavého Jana a sjednávala smlouvy, jiný muž v městečku se horečně snažil, aby pohnul kolem osudu ve svůj prospěch, či lépe řečeno ve prospěch svého synovce. Tento neúnavný, šlechetný strýc nebyl nikdo jiný než Jan Ev. Trakl. Všechny cesty nejsou stejně obtížné, na světě nevládne jen heslo: „Potřebuješ-li pomoci, pomoz si sám!“ Není jen snaha a práce, tvrdé rány a překonávání jich, jsou také ještě dobří, účinliví strýcové, kteří mají z jakýchsi příčin poněkud špatné svědomí.

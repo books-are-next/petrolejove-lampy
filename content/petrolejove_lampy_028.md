@@ -1,5 +1,6 @@
 ---
 title: '22'
+subtitle: ''
 ---
 
 Za týden po výpravě do Mříčné dostala Štěpka od učitele Pavlíka růžové zamilované psaníčko. Bylo doručeno Anně Kiliánové a ta je právem matky otevřela. Psaní od docela neznámého člověka, to bylo vrcholně neslušné, ve stavitelově rodině z toho bylo velké pobouření. Štěpka na ně nesmí odpovědět. Také na ně neodpověděla. Za čtrnáct dní přišlo nové psaníčko a stihl je stejný osud. Štěpka měla teď jiné starosti, v městečku se začalo mluvit o maškarním plese. Bude prý docela jistě uspořádán v příštím masopustním období.
