@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '18'
 ---
-
-## 18
 
 Štěpka byla po celou hospodářskou sezónu příliš zaujata svou prací. Ani nepozorovala, že se s jejím vládcem a velitelem děje něco nedobrého. Teprve když poslední strniště bylo zoráno, poslední ozimy zasety a zválcovány, když v hustých, mokrých vločkách napadl první sníh a nastaly předlouhé zimní večery s praskáním ohně v kachlových kamnech se žlutou září petrolejové lampy, povšimla si, jak nápadně hejtman sešel a jak neuvěřitelně zestárnul.
 

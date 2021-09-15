@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '25'
 ---
-
-## 25
 
 Přes tento slibný začátek se Štěpčině známosti s Gromanem zvlášť dobře nedařilo. Častěji a častěji docházelo mezi milenci k rozmíškám. Bernímu se na Štěpce pořád něco nelíbilo. Vyčítal jí, že se valně nezajímá o jeho politické a filosofické myšlenky, že se zatvrzele vzpírá číst jeho oblíbené knihy, že zůstává těžkopádně trčet na nízkém stupni svého duševního vývoje. Štěpka si zas nepřála být neustále honěna jako pes od problému k problému, chtěla se bavit, chtěla se smát. Vzájemný poměr, v němž bylo mnohem víc hašteření než lásky, je neuspokojoval, ustálená forma maloměstského dvoření se oběma příčila, a vynalézt lepší formu nebyli schopni. Milostné vrkání nebylo pro Štěpku ani pro Gromana, polibků a lichotek se z jakýchsi příčin ostýchali. Berní netoužil po tom, být milován jakousi směsicí lásky a soucitu, nedávný výjev u jeslí na krmení zvěře ho spíš odstrašoval, než rozněžňoval, a Štěpka v skrytu svého srdce snila o bohatýrském odvážlivci, milenci plném bodrosti, o muži rázu Synáčkova. Berní byl příliš pedantský, suchopárný patron, příliš zlostný, nevzhledný a studený.
 

@@ -1,20 +1,18 @@
 ---
-title: ''
+title: '33'
 ---
 
-## 33
-
-„Kdybych já věděl, že letos umru,  
+_„Kdybych já věděl, že letos umru,  
 dal bych si dělat dubovou truhlu.  
 Dubovou truhlu a na ni věnec,  
-aby věděli, že jsem mládenec.“
+aby věděli, že jsem mládenec.“_
 
 Synáček zpíval, potřásaje svou rusou hřívou, nyvě kroutil očima a usmíval se na obecenstvo, rvavě si tiskl ruku na prsa – zřejmě si tropil šašky z té smutné písničky. Když dozpíval, zahučela bouře potlesku. Hned nato spustila Mourkova kapela břeskný pochod.
 
 Potom vstoupil na scénu Kverka. Nikdo by ho byl nepoznal, kdyby v programu vedle tohoto čísla nebylo vepsáno jeho jméno. Měl na sobě naruby obrácený kožich fiakristy Gründla a obličej schovaný v lepenkové medvědí hlavě s čenichem velmi podobným kachnímu zobáku. Přešlapoval nemotorně na všech čtyřech, mával rukama, ozbrojenýma ohromnými drápy, a pobručoval:
 
-„Já jsem medvěd huňatý, huňatý, huňatý,  
-mám pazoury chlupatý, chlupatý, chlupatý!“
+_„Já jsem medvěd huňatý, huňatý, huňatý,  
+mám pazoury chlupatý, chlupatý, chlupatý!“_
 
 Štěpka seděla s otcem u panského stolu ve společnosti manželů Bergrových a rodiny radního Trakla. Pekařka s bílými, jakoby neustále pomoučenými pažemi hleděla na ni úkosem, nebylo jí právě příjemné, že má po svém boku tak nevázanou a nespolehlivou osobu. Štěpka se nechovala ani trochu důstojně, zuřivě tleskala, hlasitě se chechtala, upozorňovala na sebe, pila jako chlap z otcova půllitru. Avšak stará paní Bergrová se jen shovívavě usmívala a povzbuzovala ji, pokyvujíc svou rázovitou hlavou:
 
@@ -22,13 +20,13 @@ mám pazoury chlupatý, chlupatý, chlupatý!“
 
 Štěpka si otírala krajkovým kapesníčkem ovlhlý týl a čelo, orosené krůpějkami potu, hruď se jí bouřlivě vzdouvala. Kilián hleděl chvílemi na ni, chvílemi na purkmistra, pokašlával, výstupů si skoro nevšímal. To nebylo nic pro něj, takové žerty v tuto vážnou chvíli, to tajtrlictví, to křečovité veselí. Ne, ne, to nebylo nic pro mistra Kiliána.
 
-„Medvěd chňapá po medu, po medu, po medu  
-to já taky dovedu, dovedu, dovedu!“
+_„Medvěd chňapá po medu, po medu, po medu  
+to já taky dovedu, dovedu, dovedu!“_
 
 Kverka toužebně vztahoval pazoury po nejblíže sedících dámách. Na medu však seděla včela a nešťastného chlupáče bodla do jazyka.
 
-„Teď mě bodla do huby, do huby, do huby,  
-láska, ta mě zahubí, zahubí, zahubí!“
+_„Teď mě bodla do huby, do huby, do huby,  
+láska, ta mě zahubí, zahubí, zahubí!“_
 
 Medvěd se svíjel, lomil rukama, kňučel, těžkopádně tancoval.
 
@@ -36,14 +34,14 @@ Velký i malý sál byly nabity do posledního místa. Taková senzace jako silv
 
 Po medvědovi přišly na řadu dvě mladé dámy a zpívaly rozladěnými hlasy komické duo. Byly přestrojeny za dráteníky, měly kolem beder navěšeny pastičky, mávaly čapkami a svolávaly všechny hochy
 
-„… z Čech, ze Slezska i z Moravy,  
+_„… z Čech, ze Slezska i z Moravy,  
 s očima modrýma, s očima černýma,  
-se srdci ušlechtilýma.“
+se srdci ušlechtilýma.“_
 
 Bylo to strašně ubohé, ale potlesk proto nebyl o nic menší. Dráteníci se upejpali a ukláněli, nakonec musili ještě jednou zopakovat vlastenecký refrén, zamávat čapkami a rozeslat polibky a pozdravy
 
-„… celé naší krásné české vlasti  
-od dráteníčků, kteří nosí pasti.“
+_„… celé naší krásné české vlasti  
+od dráteníčků, kteří nosí pasti.“_
 
 Pavel Malina se občas naklonil přes zábradlí a se zájmem si prohlížel dívenky v nadýchaných šatečkách, s načechranými kadeřemi, gardedámy, ověšené všemi svými rodinnými šperky, blahobytně vypadající měšťany, všechny ty hlavy tmavé i světlé, vlasaté i lysé, které se dole vlnily jako makové pole.
 
@@ -97,19 +95,19 @@ Jedovatě se ušklíbl. „Byl bych hloupý. Za chvíli se začne tančit a pak
 
 Na jevišti byly postaveny kulisy beznadějné krajiny, daleký obzor, stromy kdesi v dálce, vše zalito modrým světlem měsíce, umělý vítr ponuře hvízdal. Starý rok, nastrojený jako židovský překupník, s obrovským rancem plným veteše na zádech, vstupoval na scénu zleva. Na kaftanu měl nalepena čísla bez ladu a skladu, samé letopočty od 1800 až po 1899. Tento Ahasver představoval umírající století. Lopotně si povzdychl a otřel si čelo kapesníkem se smutečními okraji.
 
-„Sto roků jsem bloudil božím světem!
+_„Sto roků jsem bloudil božím světem!_
 
-Dávno tomu, byl jsem pacholetem,
+_Dávno tomu, byl jsem pacholetem,_
 
-potom junákem, pak mužem, nyní kmetem.
+_potom junákem, pak mužem, nyní kmetem._
 
-Co jsem nashromáždil za ty roky,
+_Co jsem nashromáždil za ty roky,_
 
-povědí vám moje prosté sloky.
+_povědí vám moje prosté sloky._
 
-Ranec je plný, jen tahat z něho s chutí.
+_Ranec je plný, jen tahat z něho s chutí._
 
-Čas prchá již, čas ke spěchu mě nutí.“
+_Čas prchá již, čas ke spěchu mě nutí.“_
 
 „To je Xaver,“ uvědomovala si Štěpka, „v roli nového století vystoupí Synáček, mladý obr, silák, který lehce přemůže starého žida. Xaver to odříkává špatně, není na takové věci, je to přece komik a tohle je na něj trochu vážné.“ Potom se ohlédla ke dveřím. Hejtman tam ještě stál. Plamínek jeho cigarety svítil v temnu jako zlomyslná hvězda.  
 

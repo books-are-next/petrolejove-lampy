@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '10'
 ---
-
-## 10
 
 Pavel přijel domů na Vánoce, ale Štěpka ho vůbec nespatřila. Zima nebyla příznivá návštěvám v zavátém dvoře a pak tu byly jiné radosti: sáňkování, koulovačky, sněhuláci. Pobíhat s ostatními děvčaty v mraze a vánici bylo mnohem zábavnější než se ucházet o přízeň nevěrného Malinova studenta. Velikonoce – Pavel jí přišel sice o pomlázce našlohat, ale stalo se to jen z pouhé příbuzenské povinnosti, nikoli z kamarádské vřelosti. Chlapec se choval velmi povýšeně. Měl svá oblíbená místa na vlhkých ještě mezích, pod rašícími stromy, kde četl knihy, Štěpce nedostupné. Štěpka nečetla nikdy. Nebylo tu, co by je mohlo sblížit. Jejich cesty se rozbíhaly.
 

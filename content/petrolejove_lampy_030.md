@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '24'
 ---
-
-## 24
 
 Neseznámila se s berním Antonínem Gromanem na výletě, nýbrž ve vlastním, kiliánovském domě. Vida, tak přece jen se činžák k něčemu hodil, přece jen bylo ubytování státních úřadů v prvém poschodí k něčemu dobré! Dům byl kolébkou a výlety příležitostí k rozkvětu vzájemné náklonnosti.
 

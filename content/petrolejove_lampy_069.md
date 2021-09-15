@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '8'
 ---
-
-## 8
 
 Stalo se to brzy po pohřbu Anny Kiliánové, když Jan přišel poprvé s tím návrhem:
 

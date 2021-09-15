@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '20'
 ---
-
-## 20
 
 Svatá Anna, to byl pro Štěpku den pouti do městečka, k židli matky Kiliánové obložené peřinami, Štěpka bude lhát úsměvy i slovy plnými naděje a nemocná bude obojí odmítat vzdechy a malátným mávnutím ruky: „Milé dítě, to je už jistě můj poslední svátek, napřesrok tu nebudu.“ Bude nutno ji těšit, přesvědčovat, zoufale vymýšlet kdejaké komické příběhy, nepřetržitě mluvit o statku a o polích, jen aby nenastalo zrádné ticho, v němž by se srdce sevřelo zatajovanou bolestí a z očí vytryskly slzy.
 
@@ -52,7 +50,7 @@ Potkali několik známých paniček, mezi nimi mladou paní Gromanovou. Tu také
 
 Tak se Štěpčina cesta do města na matčin svátek proměnila v cestu křížovou. Bezděčně ukázala celému městečku manžela, jaký teď byl. Vytouženého, vymodleného manžela. Byla to kajícná cesta. Kdysi zpupná Štěpka šla špalírem zlomyslných bližních a její oči pravily: „Jsem zdrcena. Život se mi nepodařil. Jsem potrestána za svou chlubivost. Pamatujete, jaká jsem bývala živá a nezdolná, jak jsem bývala nezpůsobná a jak jsem urážela váš vkus? Pamatujete, jak jsem se nad vámi vypínala a jak jsem hlaholila? Teď jsem pokorná a tichá. Po svém boku vleču cosi nepodobného člověku. Zlý oheň tomu sálá z očí, skřehotá to, poskakuje, je to však ztracené a nekonečně ubohé. A také já jsem ubohá a ztracená.“ Městečko hltalo ta nevyslovená přiznání. Rozumělo dobře. Zažívalo svůj zasloužený triumf.
 
-Od toho dne hejtman Malina podědil přízvisko nebožtíka Machoně a stal se skákavým hejtmanem.
+Od toho dne hejtman Malina podědil přízvisko nebožtíka Machoně a stal se _skákavým_ hejtmanem.
 
 Zatímco Štěpka na prahu nízkých dveří domku u školy sahala chvějící se rukou po rukojeti zvonku, vběhla udýchaná paní Hilmarová do ordinační místnosti svého muže. Ani neodložila klobouk a slunečník, prudce usedla na kraj židle naproti doktorovi, který šlapal kolo zubařského přístroje a brousil umělý chrup. Naštěstí tam byl sám, kdyby tam však byl měl pacienta, také by se asi neostýchala. Spustila:
 
@@ -66,4 +64,4 @@ Doktor ustal v práci, položil chrup na okenní rám, kolo se přestalo točit.
 
 „To je, děvuško, nemoc náramně zlá. Delikátní nemoc. Může se říci – nemoc z lásky. Chudák, měl asi někdy lues, a to hodně časně. Syfilis, víš? Nyní přichází pokračování. Lues je totiž nemoc na pokračování.“
 
-„Ach,“ povzdychla si paní Matylda a cudně se zapýřila. V duchu si umiňovala, že se napříště vyhne širokým obloukem ženě takového člověka.
+„Ach,“ povzdychla si paní Matylda a cudně se zapýřila. V duchu si umiňovala, že se napříště vyhne širokým obloukem ženě _takového_ člověka.

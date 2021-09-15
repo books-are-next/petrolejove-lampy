@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '13'
 ---
-
-## 13
 
 Muž neznal dobře svou ženu. Nebyl by ji asi poznal lépe, ani kdyby se o ni byl ucházel ještě několik měsíců. Neznal míru její paličatosti a nevěděl, jak vytrvale dovede dotírat, vězí-li jí v hlavě nějaká záhada. Ale tahle věc byla příliš závažná, aby ji byla Štěpka mohla pustit z mysli. Pevně se rozhodla, že se dostane k jádru problému za jakoukoli cenu.
 

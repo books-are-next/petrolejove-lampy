@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '5'
 ---
-
-## 5
 
 Štěpka mu přišla otevřít. Žasla, když ho spatřila v celém gala. Usmíval se co nejpřívětivěji, po tvářích se mu rozběhly vrásky, obloukem jí podával ruku v bílé rukavičce.
 

@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '6'
 ---
-
-## 6
 
 Hlavní část Štěpčina zápasu o vyvoleného ženicha se rozpoutala až po hejtmanově odchodu, přesto však i to, co se událo ještě za jeho návštěvy, lze nazvat sveřepým a nemilosrdným bojem. Voják přednesl svou žádost odvážně a po vojensku, ale to věci valně neprospělo. Stavitel nebyl z těch, kteří poklesnou na duchu jen proto, že se na ně někdo nenadále a hezky zhurta oboří. Hejtman počítal s výhodou překvapujícího útoku.
 

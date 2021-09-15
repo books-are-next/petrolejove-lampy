@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '4'
 ---
-
-## 4
 
 Večer prvního září 1870, kdy se schyloval ke konci zoufalý zápas obklíčené francouzské armády u Sedanu, narodila se Anně Kiliánové po čtyřletém manželství dcera Štěpánka.
 

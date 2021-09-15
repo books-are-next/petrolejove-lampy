@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '17'
 ---
-
-### 17
 
 Kdyby byla Štěpka psala kroniku svého života, docela jistě by byla vyznačila rok 1901 jako šťastný, snad ze všech dosavadních za nejšťastnější. Je až ku podivu, jak se jí karta obrátila! Ze zklamané ženy, rmoutící se nad svým osudem, se stala hospodyní, cele zaujatou svou prací na statku. V usilovném snažení a starostech našla náhradu za všechny ztracené iluze o manželství, dovedla při nich zapomenout i na svou největší bolest, na děťátko, které, jak se zdálo, se nikdy nemělo narodit.
 

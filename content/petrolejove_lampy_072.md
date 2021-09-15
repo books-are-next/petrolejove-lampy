@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '11'
 ---
-
-## 11
 
 Hejtman Malina nebude ležet v nádherné kamenné hrobce, ale v obyčejném hrobě, jako si to přál mistr Kilián, Štěpka však na něho nezapomene. Štěpka mu jeho smutný příbytek ve vlhké hlíně ozdobí, jak jen živí dovedou okrášlit hroby svých mrtvých. Bude mít pomník s nápisem, ne jako Vejrych hrob beze jména, bude mít kvítí, svíčky a to všechno, nebude opomíjen, nebude osiřelý, ne, to nebude! Štěpka si to odpřisáhla. Květiny a světlo, slzy a vzpomínky, všechno bude mít jako ostatní slušní nebožtíci. O Dušičkách papírovou podušku s růžemi, nakadeřenými na vlásence, a stuhy z věnců, které mu dnes darovali.
 
@@ -42,7 +40,7 @@ Odložila v kuchyni na služčinu postel svůj smuteční klobouk se závojem a 
 
 Strýc hledí před sebe sivýma, vyhaslýma očima, láme po drobtech bábovku. Znenadání odpovídá na jakési vlastní toulavé myšlenky, které s tím, co se zde mluví a sní, nemají žádnou spojitost: „Co není, může být.“
 
-„Co tím myslí?“ děsí se, diví a vzrušuje Štěpka, náchylná k pověrčivosti, vždycky ochotná k nějaké naději. V starcově blábolení nalézá odpověď na skryté touhy svého nitra. „Co není, může být,“ opakuje si v srdci to, co se odlepilo od malátného mozku jako pavučina z trávy za větrného dne. Co není, může být! Najednou je Štěpce do zpěvu. Vždyť má ještě celý život před sebou, celý dlouhý život! Je ho utracena jen docela malá část. „Co není, bude!“ přislibuje jí její naděje, a nová radost se mísí s jásavými myšlenkami o příští činnosti.
+„Co tím myslí?“ děsí se, diví a vzrušuje Štěpka, náchylná k pověrčivosti, vždycky ochotná k nějaké naději. V starcově blábolení nalézá odpověď na skryté touhy svého nitra. „Co není, může být,“ opakuje si v srdci to, co se odlepilo od malátného mozku jako pavučina z trávy za větrného dne. Co není, může být! Najednou je Štěpce do zpěvu. Vždyť má ještě celý život před sebou, celý dlouhý život! Je ho utracena jen docela malá část. „Co není, _bude_!“ přislibuje jí její naděje, a nová radost se mísí s jásavými myšlenkami o příští činnosti.
 
 „Tváří se blaženě, přespříliš blaženě,“ všímá si jí starostlivě Jan. „Je tu přece ještě jedna věc, která se nesmí pustit ze zřetele, jedna hrozivá věc, která by mohla dvoru ublížit. A v tom jí nelze tak docela důvěřovat. Co když si zamane, že se znovu provdá? Pak by nastaly nové, nečekané zápletky. Ženská plná života – och, v tom je pěkné čertovo kopýtko!“ Jeho čelo se krabí vráskami, prsty zajedou do vlasů, ústa se křiví – obraz usilovného přemýšlení. „Provdá-li se, přijde polovina dvora do cizích rukou. Pak by se mohly objevit také ještě děti. Ne, to se nikdy nesmí stát! Nesmí, pravda, ale jak tomu zabránit?“
 

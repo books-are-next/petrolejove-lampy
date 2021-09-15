@@ -2,6 +2,6 @@
 title: ''
 ---
 
-Kde jsou ti páni?  
+_Kde jsou ti páni?  
 Na hřbitově zakopáni.  
-(BYL JEDNOU…)
+(BYL JEDNOU…)_

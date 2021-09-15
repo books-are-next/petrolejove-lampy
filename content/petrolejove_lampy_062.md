@@ -4,7 +4,7 @@ title: |-
   LAMPY ZHASÍNAJÍ
 ---
 
-## 1
+### 1
 
 Po Hromnicích se dalo do deště a celý týden vytrvale a úporně lilo. Sníh roztál a proměnil se v řídkou, špinavou kaši, po chodnících stružkami tekla voda. Jedenáctého února neočekávaně uhodil mráz, kalužiny se pokryly ledovou korou, u okapů narostly střechýle. Ještě večer se obloha zatáhla pytlovitými mraky a začal se sypat sníh.
 

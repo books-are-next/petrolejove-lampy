@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '12'
 ---
-
-## 12
 
 Štěpka v poslední třídě. Už tam vlastně ani nepatřila, byla to hotová slečna, statná, vyvinutá. Ještě si naposledy zadeklamovala v den rozloučení se školou při rozdávání vysvědčení v tělocvičně a pak pospíchala domů, jako by se byla opozdila, jako by na ni život už netrpělivě čekal. Šla mu v ústrety s dychtivými, masitými rty, s širokými rameny a plnými boky, s vyzývavou bradou.
 
