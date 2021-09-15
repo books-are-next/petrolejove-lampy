@@ -9,9 +9,9 @@
       "languageCode": "cs"
     },
     "elements": {
-      "title": "e-booknadpis",
+      "title": "e-booknadpis  \ne-booknadpis1\ne-booknadpis3bezodstrankovani\ne-booknadpis3odsazenipred6b",
       "subtitle": "",
-      "h2": "e-booknadpis3bezodstrankovani\ne-booknadpis3odsazenipred6b",
+      "h2": "",
       "h3": "",
       "h4": "",
       "hr": "",
@@ -22,8 +22,8 @@
       "brAfter": "",
       "blockquote": "",
       "figure": "",
-      "em": "",
-      "strong": "",
+      "em": "e-bookprozatextuprostredkurziva\ne-booktirazacitacetextkurzivachar\ne-bookversebezpredsazeni6bzakurziva",
+      "strong": "e-booktiraztexttucnechar\ne-booktirazautoradilo",
       "remove": "",
       "ignore": ""
     },
@@ -693,8 +693,7 @@
       "identifier": "9a77d930-5457-47dc-82e0-097ff3ac94cd",
       "author": "Jaroslav Havlíček",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-15T11:19:52.162Z",
-      "languageCode": "cs"
+      "modified": "2021-09-15T11:25:14.396Z"
     },
     "chapters": [
       {
@@ -734,7 +733,7 @@
         "xhtml": "petrolejove_lampy_006.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ČÁST PRVNÍ\nLAMPY SVÍTÍ A PROSTÍRÁ SE",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_007.md",
         "xhtml": "petrolejove_lampy_007.htm"
@@ -932,7 +931,7 @@
         "xhtml": "petrolejove_lampy_039.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ČÁST DRUHÁ\nSYTÝ U STOLU",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_040.md",
         "xhtml": "petrolejove_lampy_040.htm"
@@ -1064,7 +1063,7 @@
         "xhtml": "petrolejove_lampy_061.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ČÁST TŘETÍ\nLAMPY ZHASÍNAJÍ",
         "subtitleSuggest": "",
         "filename": "petrolejove_lampy_062.md",
         "xhtml": "petrolejove_lampy_062.htm"
@@ -1227,6 +1226,6 @@
       "user": "books-are-next",
       "repo": "petrolejove-lampy"
     },
-    "generatedAt": 1631704792739
+    "generatedAt": 1631705115620
   }
 }
