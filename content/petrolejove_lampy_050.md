@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '11'
 ---
-
-## 11
 
 Vedl Štěpku pevně a odhodlaně síní až k dřevěným, fermeží natřeným schodům, potaženým zeleným běhounem, ale tam začalo jeho mužné sevření povážlivě ochabovat. Do ložnice vstoupila již Štěpka sama a on se za ní vlekl mlčky jako stín. Přemožena dojmy klesla do pohovky, až se hrnečky a talířky ve vitrínách roztřásly. Jakýsi kovový psík na červeném polštářku smutně zakýval hlavou, nastrčenou na pružině.
 
@@ -36,7 +34,7 @@ Je věru na čase, aby v těchhle svatbách nastala nějaká změna, nový duch 
 
 „Musíme je nějak jinak postavit, vždyť si člověk stíní, když se do něho dívá!“
 
-Vtom jí připadlo, že z vedlejší postele zaslechla upřímné zachrápání. Trochu se zvedla na lokti a pohlédla svému spolunocležníku do tváře. Měl oči zavřeny, líce smrtelně bledá a plná proláklin, rty malounko pootevřené. Cosi jako zklamání a jako krutá urážka projelo Štěpčiným tělem, které tak dlouho a marně čekalo. „Nu, snad je to tak lepší,“ myslila si. „On je takový rozumný! Sice o tom nemluví, ale ví dobře, co dělá. A byl, chudáček, dnes tak unaven!“ Zdálo se jí, že jeho hlava je v poduškách až příliš hluboko zabořena. Podstrčila pod ní paži a něžně ji nadzvedla. Měla-li to být nevinná ženská lest, pak se nezdařila. Hejtman ani nepohnul brvou a zachrápal spokojeně podruhé.
+Vtom jí připadlo, že z vedlejší postele zaslechla upřímné zachrápání. Trochu se zvedla na lokti a pohlédla svému spolunocležníku do tváře. Měl oči zavřeny, líce smrtelně bledá a plná proláklin, rty malounko pootevřené. Cosi jako zklamání a jako krutá urážka projelo Štěpčiným tělem, které tak dlouho a marně čekalo. „Nu, snad je to tak lepší,“ myslila si. „On je takový _rozumný!_ Sice o tom nemluví, ale ví dobře, co dělá. A byl, chudáček, dnes tak unaven!“ Zdálo se jí, že jeho hlava je v poduškách až příliš hluboko zabořena. Podstrčila pod ní paži a něžně ji nadzvedla. Měla-li to být nevinná ženská lest, pak se nezdařila. Hejtman ani nepohnul brvou a zachrápal spokojeně podruhé.
 
 Štěpka, novopečená manželka, již bylo sotva možno po právu nazvat ženou, se s těžkými povzdechy pokoušela o spánek, který nepřicházel. Nemohla ovšem tušit, že muž po jejím boku zachovává nehybnou tvář jen s největším sebezapřením a že se mu koutky úst potají škubou zlomyslným a vítězným smíchem.
 

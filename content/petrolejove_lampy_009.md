@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '3'
 ---
-
-## 3
 
 Anna Kiliánová pocházela ze dvora zvaného Vejrychovsko a byla sestra sedláka Jana Maliny.
 

@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '7'
 ---
-
-## 7
 
 Štěpka zjistila, že se octla v romantickém postavení dívky, která má nehodnou lásku a jíž rodiče zbraňují. Nic jí nemohlo víc lahodit, nic jí nemohlo být vítanější. Mít takovou zakázanou lásku v třiceti letech, není-liž pak to nádherné? A ihned se do této sladké a bojovné skutečnosti vžila.
 
@@ -10,7 +8,7 @@ Již při obědě, po hejtmanově odchodu, zahájila útok. Držela se jako klí
 
 „Jaká ostuda,“ hořekovala, „jestli se o tom bude po městě vypravovat a jistěže bude, co si o nás kdo pomyslí? Když už jsme ho chtěli odmítnout,“ (rozumí se, že jsme nechtěli), „mohlo se to stát vhodnějším způsobem. Ať již kdy udělal, co chtěl a komu chtěl, je to muž, který kdysi něco znamenal. Tak by ho byli nevyhodili ani ve Špitálku. Nemáme být na co hrdí, opravdu! To všechno tatínek. Já se stydím, hrozně se stydím! Měli bychom se mu nějak omluvit.“
 
-„Omluvit se – jemu! To tak!“ Stavitel jedl polévku a posupně pofrkával. „Takovému není třeba se omlouvat. Já prošel hezký kus světa, jednal s všelijakými lidmi. Před tímhle se necítím vinen. Má, co zasloužil. Připadal mi jako zloděj. Také to zloděj byl, poněvadž chtěl ukrást peníze. Vyhodil jsem ho. Zloději bych se za vyhození také neomlouval.“
+„Omluvit se – jemu! To tak!“ Stavitel jedl polévku a posupně pofrkával. „Takovému není třeba se omlouvat. Já prošel hezký kus světa, jednal s všelijakými lidmi. Před _tímhle_ se necítím vinen. Má, co zasloužil. Připadal mi jako zloděj. Také to zloděj byl, poněvadž chtěl ukrást peníze. Vyhodil jsem ho. Zloději bych se za vyhození také neomlouval.“
 
 Nepěkné zacházení s hostem přikusoval Kilián ještě k pečeni, připíjel je k černé kávě. Když sáhl po novinách, změnila Štěpka taktiku. Obrátila se k matce, jako by otec ani ve světnici neseděl.
 

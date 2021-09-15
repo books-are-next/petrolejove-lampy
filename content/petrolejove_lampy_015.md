@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '9'
 ---
-
-## 9
 
 Dokud bydlili Kiliánovi v nízkém přízemním domku, obstarávala jim všechny hrubší domácí práce žena kočího Parduse. Ještě nějaký čas k nim chodila do činžáku, ale stavitel ji neviděl tuze rád. Zdálo se mu, že se do toho velikého, moderního domu nehodí. Nový dům znamenal vzestup na společenském žebříku. Sem patřila nikoli ochotnice Parduska, nýbrž posluhovačka z povolání, která byla zvyklá práci v lepších rodinách. Tak se do domácnosti Kiliánových dostala Traklová a její Lojzík.
 

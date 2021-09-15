@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '21'
 ---
-
-## 21
 
 Štěpka se obávala celkem zbytečně. Hejtman na návštěvě neuplatnil ani jediný ze svých hrozných šprýmů. Choval se velmi korektně. Na tetu se přelíbezně usmíval, tchánovi v ničem neodporoval. Sotva se však za Štěpkou a za jeho rozklíženými kroky zavřely dveře, obrátila Anna Kiliánová vyděšené oči k muži a zeptala se ho chvějícím se hlasem:
 

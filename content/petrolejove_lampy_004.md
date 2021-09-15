@@ -14,7 +14,7 @@ Text díla (Jaroslav Havlíček: Petrolejové lampy), publikovaného [Městskou 
 
 Citační záznam této e-knihy:
 
-HAVLÍČEK, Jaroslav. Petrolejové lampy \[online\]. V MKP 1. vyd. Praha: Městská knihovna v Praze, 2016 \[aktuální datum citace e-knihy – př. cit. rrrr-mm-dd\]. ISBN 978-80-7532-230-2 (epub). Dostupné z:
+HAVLÍČEK, Jaroslav. _Petrolejové lampy_ \[online\]. V MKP 1. vyd. Praha: Městská knihovna v Praze, 2016 \[aktuální datum citace e-knihy – př. cit. rrrr-mm-dd\]. ISBN 978-80-7532-230-2 (epub). Dostupné z:
 
 [http://web2.mlp.cz/koweb/00/04/27/08/62/petrolejove\_lampy.epub](http://web2.mlp.cz/koweb/00/04/27/08/62/petrolejove_lampy.epub).
 

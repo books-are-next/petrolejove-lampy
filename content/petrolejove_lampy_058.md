@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '19'
 ---
-
-## 19
 
 Štěpka stála s paní doktorovou Hilmarovou na radničním podloubí. Tak znenadání jí ta ženská padla do rukou. Obdivovala se Helence, jak vyrostla, jaká z ní je už slečna. Ta bude po mamince, hezká po mamince!
 

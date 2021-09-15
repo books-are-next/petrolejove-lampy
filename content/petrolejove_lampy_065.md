@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '4'
 ---
-
-### 4
 
 Hejtman měl opravdu dosti příčin, aby na svou ženu žehral. Přicházela na Vejrychovsko, jen aby zjistila, že ještě žije, že dům stojí, koně žvýkají oves a krávy řinčí řetězy, že slepice pokojně hrabou na dvoře jako za jejích nejslavnějších časů, půl roku před skonem Kiliána. Přelétla muže nevidoucíma očima, dala nové rozkazy, možno-li ještě potupnější předešlých, pohovořila s Janem a odešla, aniž se ho zeptala, jak se mu žije, jak se mu to skřípe zuby v jeho pekle, jak ho straší ozvěny v domě a jak ho rdousí blížící se smrt. Neměla pro něj ani vlídného slova útěchy. Již ji nezajímal ani tolik co ropucha přejetá žebřiňákem a dokonávající v koleji.
 

@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '23'
 ---
-
-## 23
 
 Maškarní ples se všeobecně líbil, dokonce se krátkou dobu uvažovalo o tom, zda by se nevyplatilo jej opakovat. To byla ovšem přehnaná a nesmyslná sebedůvěra. Na druhý podobný podnik takového rozsahu nebylo v letošním masopustě již ani pomyšlení. Přece si nebudou děvčata pořizovat nové nákladné masky! Avšak mládež, která maškarním plesem prokázala takovou zdatnost a odvahu, se proto své činnosti nevzdala – naopak – teď se do ní teprve jaksepatří dala. Projevilo se to hned s nastávajícím jarem. Do zkostnatělých mravů devadesátých let jako by byl zavál mladý vítr. Cosi se uvolnilo, cosi okřálo. Byly vymyšleny také zbrusu nové zábavy.
 
@@ -14,7 +12,7 @@ Výlety byly osnovány s velikým povykem, při každém musila být nějaká hu
 
 Studenti, kteří šmahem nosili dlouhé umělecké kštice a na nosech brýle, roznášeli po lese a po pasekách svůj módní světobol, přednášívali drásavé básně v okruhu i mimo kruh rodičů, vystupovali jako recitátoři na pařezy a produkovali se pracně nabytými pivními basy a zamračenými tvářemi. Ještě že bylo ve všech těch mladých lidech u lesa shromážděných dostatek přirozeného veselí, jinak by je byla tato pohřební extempore jen zbytečně zkrušovala a připravovala o náladu.
 
-Jednou nebo dvakrát za léto pořádali výlet ve větším měřítku. Tehdy byla nad úvozovou cestou před loukou postavena opravdová slavobrána z bidel a z chvoje s nápisem: Vítejte nám! Do trávníku natloukli lavičky a provizorní stoly, z pivovaru přivlekli piva hned plný sud. Fricek se svým flašinetem již nestačil, z městečka se táhlo s valnou částí Mourkovy kapely. Tyhle nákladné slavnosti lezly ovšem – sakulente – do peněz, ale co naplat, když dcerušky měly víc naděje získat trvalého nápadníka a když se to všeobecně líbilo pro hojnost všemožné zábavy i pusté psiny. Chudí kluci šplhali na nejvyšší smrček, okleštěný až po vrchol, pro marcipán a čokoládu, jiní závodili v pytlích nebo ukusovali z obrovského povidlového koláče, až se dostali svými umazanými hubami doprostřed k stříbrné zlatce – docela po vesnicku.
+Jednou nebo dvakrát za léto pořádali výlet ve větším měřítku. Tehdy byla nad úvozovou cestou před loukou postavena opravdová slavobrána z bidel a z chvoje s nápisem: _Vítejte nám!_ Do trávníku natloukli lavičky a provizorní stoly, z pivovaru přivlekli piva hned plný sud. Fricek se svým flašinetem již nestačil, z městečka se táhlo s valnou částí Mourkovy kapely. Tyhle nákladné slavnosti lezly ovšem – sakulente – do peněz, ale co naplat, když dcerušky měly víc naděje získat trvalého nápadníka a když se to všeobecně líbilo pro hojnost všemožné zábavy i pusté psiny. Chudí kluci šplhali na nejvyšší smrček, okleštěný až po vrchol, pro marcipán a čokoládu, jiní závodili v pytlích nebo ukusovali z obrovského povidlového koláče, až se dostali svými umazanými hubami doprostřed k stříbrné zlatce – docela po vesnicku.
 
 Bývalí zestárlí výboři a pořadatelé ovšem reptali, pomlouvali, že prý úroveň zábav notně poklesla, ale nic nepořídili, vznikající jará nevázanost se rozmáhala, vžívala se. Stařenky v kostele shledávaly, že ďábel víc a víc svými chlupatými prackami obchvacuje svět, uvažovaly o tom, neskončí-li století, jemuž již opravdu docházel dech, nějakou tragédií, nevyužije-li pánbůh tohoto číselného mezníku, aby k sobě lidi opět připoutal nějakým strašlivým zázrakem, novou morovou ranou nebo potopou. Vždyť takových neslušných písniček, hovorů, tanců jaktěživo předtím nebylo!
 

@@ -1,8 +1,6 @@
 ---
-title: ''
+title: '8'
 ---
-
-## 8
 
 Pavel začal ke Kiliánovům docházet jako ženich za vyvolenou nevěstou. Přesto se však ještě nemohlo říci, že by byla ruka v rukávě. Stavitel dával vojákovi pořád ještě najevo, že se s myšlenkou svatby zcela nesmířil. Byl-li zrovna doma, když hejtman zaklepal na dveře, uchyloval se do svého pokoje pod záminkou, že má neodkladnou práci, nebo se aspoň choval k hostu se zarážejícím chladem. Hejtman překypoval roztomilostí, tvářil se, jako by strýcovo bručení nepozoroval, a k tetě byl dvorný, jak jen může být budoucí zeť.
 
