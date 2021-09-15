@@ -32,55 +32,67 @@
         "filename": "petrolejove_lampy_001.md",
         "xhtml": "petrolejove_lampy_001.htm",
         "id": 0,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_002.md",
         "xhtml": "petrolejove_lampy_002.htm",
         "id": 1,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_003.md",
         "xhtml": "petrolejove_lampy_003.htm",
         "id": 2,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_004.md",
         "xhtml": "petrolejove_lampy_004.htm",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_005.md",
         "xhtml": "petrolejove_lampy_005.htm",
         "id": 4,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_006.md",
         "xhtml": "petrolejove_lampy_006.htm",
         "id": 5,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_007.md",
@@ -90,7 +102,8 @@
         "numberedChildren": false,
         "inToc": true,
         "children": [],
-        "title": "ČÁST PRVNÍ\nLAMPY SVÍTÍ A PROSTÍRÁ SE"
+        "title": "ČÁST PRVNÍ\nLAMPY SVÍTÍ A PROSTÍRÁ SE",
+        "subtitle": "1"
       },
       {
         "filename": "petrolejove_lampy_008.md",
@@ -99,7 +112,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "2",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_009.md",
@@ -108,7 +123,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "3",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_010.md",
@@ -117,7 +134,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "4",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_011.md",
@@ -126,7 +145,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "5",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_012.md",
@@ -135,7 +156,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "6",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_013.md",
@@ -144,7 +167,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "7",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_014.md",
@@ -153,7 +178,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "8",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_015.md",
@@ -162,7 +189,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "9",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_016.md",
@@ -171,7 +200,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "10",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_017.md",
@@ -180,7 +211,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "11",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_018.md",
@@ -189,7 +222,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "12",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_019.md",
@@ -198,7 +233,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "13",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_020.md",
@@ -207,7 +244,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "14",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_021.md",
@@ -216,7 +255,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "15",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_022.md",
@@ -225,7 +266,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "16",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_023.md",
@@ -234,7 +277,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "17",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_024.md",
@@ -243,7 +288,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "18",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_025.md",
@@ -252,7 +299,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "19",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_026.md",
@@ -261,7 +310,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "20",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_027.md",
@@ -270,7 +321,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "21",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_028.md",
@@ -279,7 +332,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "22",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_029.md",
@@ -288,7 +343,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "23",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_030.md",
@@ -297,7 +354,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "24",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_031.md",
@@ -306,7 +365,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "25",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_032.md",
@@ -315,7 +376,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "26",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_033.md",
@@ -324,7 +387,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "27",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_034.md",
@@ -333,7 +398,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "28",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_035.md",
@@ -342,7 +409,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "29",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_036.md",
@@ -351,7 +420,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "30",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_037.md",
@@ -360,7 +431,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "31",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_038.md",
@@ -369,7 +442,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "32",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_039.md",
@@ -378,7 +453,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "33",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_040.md",
@@ -387,7 +464,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "ČÁST DRUHÁ\nSYTÝ U STOLU",
+        "subtitle": "1"
       },
       {
         "filename": "petrolejove_lampy_041.md",
@@ -396,7 +475,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "2",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_042.md",
@@ -405,7 +486,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "3",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_043.md",
@@ -414,7 +497,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "4",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_044.md",
@@ -423,7 +508,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "5",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_045.md",
@@ -432,7 +519,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "6",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_046.md",
@@ -441,7 +530,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "7",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_047.md",
@@ -450,7 +541,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "8",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_048.md",
@@ -459,7 +552,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "9",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_049.md",
@@ -468,7 +563,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "10",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_050.md",
@@ -477,7 +574,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "11",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_051.md",
@@ -486,7 +585,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "12",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_052.md",
@@ -495,7 +596,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "13",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_053.md",
@@ -504,7 +607,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "14",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_054.md",
@@ -513,7 +618,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "15",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_055.md",
@@ -522,7 +629,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "16",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_056.md",
@@ -531,7 +640,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "17",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_057.md",
@@ -540,7 +651,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "18",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_058.md",
@@ -549,7 +662,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "19",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_059.md",
@@ -558,7 +673,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "20",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_060.md",
@@ -567,7 +684,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "21",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_061.md",
@@ -576,7 +695,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "22",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_062.md",
@@ -585,7 +706,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "ČÁST TŘETÍ\nLAMPY ZHASÍNAJÍ",
+        "subtitle": "1"
       },
       {
         "filename": "petrolejove_lampy_063.md",
@@ -594,7 +717,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "2",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_064.md",
@@ -603,7 +728,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "3",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_065.md",
@@ -612,7 +739,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "4",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_066.md",
@@ -621,7 +750,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "5",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_067.md",
@@ -630,7 +761,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "6",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_068.md",
@@ -639,7 +772,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "7",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_069.md",
@@ -648,7 +783,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "8",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_070.md",
@@ -657,7 +794,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "9",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_071.md",
@@ -666,7 +805,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "10",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_072.md",
@@ -675,16 +816,20 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "11",
+        "subtitle": ""
       },
       {
         "filename": "petrolejove_lampy_073.md",
         "xhtml": "petrolejove_lampy_073.htm",
         "id": 72,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       }
     ]
   },
@@ -694,7 +839,7 @@
       "identifier": "9a77d930-5457-47dc-82e0-097ff3ac94cd",
       "author": "Jaroslav Havlíček",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-15T11:34:10.022Z"
+      "modified": "2021-09-15T11:36:29.611Z"
     },
     "chapters": [
       {
@@ -735,7 +880,7 @@
       },
       {
         "titleSuggest": "ČÁST PRVNÍ\nLAMPY SVÍTÍ A PROSTÍRÁ SE",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "1",
         "filename": "petrolejove_lampy_007.md",
         "xhtml": "petrolejove_lampy_007.htm"
       },
@@ -890,8 +1035,8 @@
         "xhtml": "petrolejove_lampy_032.htm"
       },
       {
-        "titleSuggest": "27",
-        "subtitleSuggest": "",
+        "titleSuggest": "",
+        "subtitleSuggest": "27",
         "filename": "petrolejove_lampy_033.md",
         "xhtml": "petrolejove_lampy_033.htm"
       },
@@ -933,7 +1078,7 @@
       },
       {
         "titleSuggest": "ČÁST DRUHÁ\nSYTÝ U STOLU",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "1",
         "filename": "petrolejove_lampy_040.md",
         "xhtml": "petrolejove_lampy_040.htm"
       },
@@ -1065,7 +1210,7 @@
       },
       {
         "titleSuggest": "ČÁST TŘETÍ\nLAMPY ZHASÍNAJÍ",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "1",
         "filename": "petrolejove_lampy_062.md",
         "xhtml": "petrolejove_lampy_062.htm"
       },
@@ -1227,6 +1372,6 @@
       "user": "books-are-next",
       "repo": "petrolejove-lampy"
     },
-    "generatedAt": 1631705650922
+    "generatedAt": 1631705790329
   }
 }
