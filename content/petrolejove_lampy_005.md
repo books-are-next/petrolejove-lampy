@@ -1,5 +1,6 @@
 ---
 title: ''
+subtitle: ''
 ---
 
 _Kde jsou ti páni?  

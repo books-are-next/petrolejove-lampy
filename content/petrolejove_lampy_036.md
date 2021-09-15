@@ -1,5 +1,6 @@
 ---
 title: '30'
+subtitle: ''
 ---
 
 Prvního září, právě na Štěpčiny devětadvacáté narozeniny, vyjel z Martinic ověnčený vlak s hodnostáři a pozvanými hosty. Na čerstvě omítnutém jilemnickém nádraží, vonícím vápnem a ozdobeném chvojí, byl netrpělivě očekáván celým městečkem. Muži i ženy, staří i mladí se tísnili v čekárnách, na nástupišti, před kolejemi i v přilehlých ulicích. Hlava vedle hlavy – jablko by nepropadlo. Vzrušení bylo nesmírné, taková událost jako dnešní se přihodí sotva jednou za život. V popředí stála kompletní Mourkova kapela, připravená nasadit trouby a klarinety, udeřit do bubnů a do činelů na pokyn svého kapelníka.

@@ -1,5 +1,6 @@
 ---
 title: '22'
+subtitle: ''
 ---
 
 Štěpka hádala správně, že za nezvyklou ochotou a obětavostí manžela, který se odhodlal navštívit Annu Kiliánovou v den jejího svátku, bude vězet nějaká žádost, nějaké tajné přání, které jen čekalo na příležitost, aby mohlo být vysloveno. Hejtman se vyjádřil, dřív než měli za sebou polovinu ponuré zpáteční cesty, dřív než překročili můstek přes Jilemku.

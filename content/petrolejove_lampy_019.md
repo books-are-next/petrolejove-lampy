@@ -1,5 +1,6 @@
 ---
 title: '13'
+subtitle: ''
 ---
 
 Malinův lajtnant přijel domů na svou první vojenskou dovolenou. Sloužil v Celovci u horských myslivců. Byl opálený jako cikán, vysoký, kostnatý, měl pod nosem knírek, na který byl velmi hrdý, a snažil se, seč byl, aby se ukázal jako muž s bohatými životními zkušenostmi.

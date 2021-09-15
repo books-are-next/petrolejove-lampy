@@ -1,5 +1,6 @@
 ---
 title: '31'
+subtitle: ''
 ---
 
 U martinického lesa vyrostla nová Cíchová fabrika. Nejen jilemničtí kluci, ale i dospělí začínají vášnivě jezdit na lyžích. Budova dívčí školy se dostavuje – nestaví ji mistr Kilián. Pokrok, pokrok, pokrok! Romantika! Romantika! Kde je školák, kde je junák, kde je muž, který nečte romány Julia Věrna a Karla Maye?

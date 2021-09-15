@@ -1,5 +1,6 @@
 ---
 title: '14'
+subtitle: ''
 ---
 
 Minuly Vánoce, nastal nový rok, život na Vejrychovsku spal, jako spí v zimě na všech selských usedlostech. Štěpka hospodařila, vařila, poklízela, právě tak jako to kdysi činila v domácnosti svých rodičů, jen s tím rozdílem, že ten, o kterého se teď starala, byl nesdílný Pavel Malina, který vyměnil stejnokroj za krátký kabát, podšitý králičinou, kožené kamaše a zelený myslivecký klobouk se štětkou.

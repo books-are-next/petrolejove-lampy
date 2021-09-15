@@ -1,5 +1,6 @@
 ---
 title: '19'
+subtitle: ''
 ---
 
 Štěpka prožívala své mládí v dobách, kdy známosti trvaly sedm, ba i dvanáct let. Zelený kvartán se zamiloval a teprve bradatý pán v zajištěném postavení se se svou láskou ženil. Její bývalé spolužačky se večer co večer vláčely po korze se svými budoucími ženichy, v bálech se s nimi zadávaly na všechny tance, nosily v medailónech jejich kadeře a miniaturní podobizny – až na Božku Karbanovou. Tato vytáhlá, cudná dívka s proláklými tvářemi, jíž scházely všechny půvaby, neměla ani ženicha, ani obdivovatele. Avšak žel, Štěpka Kiliánová se také nemohla pochlubit žádnou vážnou známostí. Byla jilemnickými mladými muži hojně obletována, bavila se, řehtala se v jejich společnosti, jenže žádný kapr, ba ani mřenka z tohoto rybníka se nechtěla pevně zakousnout do nastražené udice. O nikom z těch nadějných mládenců nemohla ani v skrytu svého srdce použít sladkého přisvojovacího zájmena. A přece v městečku nebylo druhé mladé dívky, která by byla tak živelně toužila po vdavkách jako ona.

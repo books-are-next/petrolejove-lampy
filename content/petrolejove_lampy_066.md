@@ -1,5 +1,6 @@
 ---
 title: '5'
+subtitle: ''
 ---
 
 Bylo ke konci května, ve školní zahradě kvetly bezy. Štěpka se vracela ze hřbitova. Šero nepozorovaně houstlo, obloha probělávala, vzduch chladl. Z otevřených kostelních dveří zněl mnohohlasý zpěv. Za kostelem se pomalu, vážně procházela dvojice milenců. Před Kiliánovým domkem netrpělivě přešlapovala ženská postava. Štěpka poznala dvorskou děvečku Karlu.

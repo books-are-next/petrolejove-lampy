@@ -1,5 +1,6 @@
 ---
 title: '32'
+subtitle: ''
 ---
 
 Španělsko bylo poraženo Spojenými státy a jeho loďstvo zničeno, v Jižní Africe planula válka, Búrové se udatně bránili červenokabátníkům, jména Krüger a De Wett šla od úst k ústům, stateční kluci z náměstí bojovali búrskou válku s kluky z Jilmu a Štěpka Kiliánová se radovala ze své nové válečné příležitosti, ze své pozdní válečné příležitosti – ale kde se, u čerta, v městečku vzal hejtman Malina?

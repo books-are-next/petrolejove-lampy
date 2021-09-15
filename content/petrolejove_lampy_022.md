@@ -1,5 +1,6 @@
 ---
 title: '16'
+subtitle: ''
 ---
 
 Statná, přespříliš vyvinutá Štěpka nevypadala v lehkých tanečních šatech ani trochu jímavě. Byl tu do očí bijící nesoulad mezi jejím úborem a jejím vzezřením. Ty blahobytné tváře, rudé jako pivoňky a růžový mušelín! Bílá hedvábná stuha v hrubých černých vlasech. Ke všemu převyšovala většinu svých tanečníků o hlavu, jen málokterý se mohl pochlubit tak znamenitým vzrůstem, aby s ní tvořil přiměřenou dvojici. Kde vzít, proboha, honem vhodného tanečníka? Jak známo, junáci nebývají zrovna nadšeni, hledí-li na ně jejich partnerka tuze spatra.

@@ -2,9 +2,8 @@
 title: |-
   ČÁST DRUHÁ
   SYTÝ U STOLU
+subtitle: '1'
 ---
-
-### 1
 
 V prvních dnech nového století měla Štěpka na bratrance štěstí. Setkala se s ním třikrát v jediném týdnu.
 

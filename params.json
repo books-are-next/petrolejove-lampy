@@ -9,8 +9,8 @@
       "languageCode": "cs"
     },
     "elements": {
-      "title": "e-booknadpis  \ne-booknadpis1\ne-booknadpis3bezodstrankovani\ne-booknadpis3odsazenipred6b",
-      "subtitle": "",
+      "title": "e-booknadpis  \ne-booknadpis1\ne-booknadpis3bezodstrankovani\n",
+      "subtitle": "e-booknadpis3odsazenipred6b",
       "h2": "",
       "h3": "",
       "h4": "",
@@ -89,7 +89,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "ČÁST PRVNÍ\nLAMPY SVÍTÍ A PROSTÍRÁ SE"
       },
       {
         "filename": "petrolejove_lampy_008.md",
@@ -693,7 +694,7 @@
       "identifier": "9a77d930-5457-47dc-82e0-097ff3ac94cd",
       "author": "Jaroslav Havlíček",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-15T11:34:10.022Z"
+      "modified": "2021-09-15T11:36:29.611Z"
     },
     "chapters": [
       {
@@ -734,7 +735,7 @@
       },
       {
         "titleSuggest": "ČÁST PRVNÍ\nLAMPY SVÍTÍ A PROSTÍRÁ SE",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "1",
         "filename": "petrolejove_lampy_007.md",
         "xhtml": "petrolejove_lampy_007.htm"
       },
@@ -889,8 +890,8 @@
         "xhtml": "petrolejove_lampy_032.htm"
       },
       {
-        "titleSuggest": "27",
-        "subtitleSuggest": "",
+        "titleSuggest": "",
+        "subtitleSuggest": "27",
         "filename": "petrolejove_lampy_033.md",
         "xhtml": "petrolejove_lampy_033.htm"
       },
@@ -932,7 +933,7 @@
       },
       {
         "titleSuggest": "ČÁST DRUHÁ\nSYTÝ U STOLU",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "1",
         "filename": "petrolejove_lampy_040.md",
         "xhtml": "petrolejove_lampy_040.htm"
       },
@@ -1064,7 +1065,7 @@
       },
       {
         "titleSuggest": "ČÁST TŘETÍ\nLAMPY ZHASÍNAJÍ",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "1",
         "filename": "petrolejove_lampy_062.md",
         "xhtml": "petrolejove_lampy_062.htm"
       },
@@ -1226,6 +1227,6 @@
       "user": "books-are-next",
       "repo": "petrolejove-lampy"
     },
-    "generatedAt": 1631705650922
+    "generatedAt": 1631705790329
   }
 }

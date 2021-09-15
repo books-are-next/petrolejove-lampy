@@ -1,5 +1,6 @@
 ---
 title: '6'
+subtitle: ''
 ---
 
 Jak to tedy bylo? Koně se z neznámých příčin splašili, hejtman vypadl, leží někde v příkopě potlučen nebo zabit. Srdce jim divoce bušila, když obraceli kočár. S těmi vyděšenými zvířaty to nebyla lehká práce. Nyní šla Štěpka pěšky, v rukou držela otěže, rozhlížela se na všechny strany. Několik kroků za ní jel Hans na kozlíku hejtmanova kočáru. Štěpce již nebylo do snů ani do pláče. Tváře jí hořely, ostražitě naslouchala. Za každým milníkem mohlo číhat strašlivé překvapení. Cesta však byla pustá, jako ohon obrovské vlasatice se nad ní klenul třpytivý pruh Mléčné dráhy, nikde ani hlesu ani stonu.

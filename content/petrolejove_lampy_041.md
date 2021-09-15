@@ -1,5 +1,6 @@
 ---
 title: '2'
+subtitle: ''
 ---
 
 Jednoho večera, jednoho z těch temných zimních večerů, kdy na lavičce u sporáku čadí svíce ustavičným průvanem, kdy vločky zalepují okna a vítr v komíně hvízdá, kdy oblaka jsou tak nízko, že se takřka dotýkají střech, a ve světnici je dusno k zalknutí, kdy jsou dávno přečteny všechny loňské i letošní kalendáře a do jarních prací je ještě daleko, seděl starý Malina za stolem, pokrytým zbytky večeře, a kouřil dýmku, proti němu Jan. Hejtman chodil dlouhými kroky od okna ke dveřím a oči mu zlobně svítily. Služka Karla, která na statku zastávala úlohu hospodyně, svářela na plotně mléko a občas se ustrašeně ohlédla.
