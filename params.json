@@ -23,7 +23,7 @@
       "blockquote": "",
       "figure": "",
       "em": "e-bookprozatextuprostredkurziva\ne-booktirazacitacetextkurzivachar\ne-bookversebezpredsazeni6bzakurziva",
-      "strong": "e-booktiraztexttucnechar\ne-booktirazautoradilo",
+      "strong": "e-booktiraztexttucnechar\ne-booktirazautoradilo\ncalibre3",
       "remove": "",
       "ignore": ""
     },
@@ -839,7 +839,7 @@
       "identifier": "9a77d930-5457-47dc-82e0-097ff3ac94cd",
       "author": "Jaroslav Havlíček",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-16T07:02:16.921Z"
+      "modified": "2021-09-16T07:07:20.841Z"
     },
     "chapters": [
       {
@@ -1372,6 +1372,6 @@
       "user": "books-are-next",
       "repo": "petrolejove-lampy"
     },
-    "generatedAt": 1631775737893
+    "generatedAt": 1631776041792
   }
 }
