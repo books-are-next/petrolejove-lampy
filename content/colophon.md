@@ -11,7 +11,7 @@ Jaroslav Havlíček
 
 ***
 
-Znění tohoto textu vychází z díla Petrolejové lampy tak, jak bylo vydáno nakladatelstvím Československý spisovatel v roce 1973 (HAVLÍČEK, Jaroslav. _Petrolejové lampy_. 6. vyd. Praha: Československý spisovatel, 1973. 354 s. Slunovrat. Velká řada, sv. 24.).
+Znění tohoto textu vychází z díla Petrolejové lampy tak, jak bylo vydáno nakladatelstvím Československý spisovatel v roce 1973 (HAVLÍČEK, Jaroslav. _**Petrolejové lampy**_. 6. vyd. Praha: Československý spisovatel, 1973. 354 s. Slunovrat. Velká řada, sv. 24.).
 
 * * *
 
