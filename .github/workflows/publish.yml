@@ -19,22 +19,20 @@ jobs:
         id: epub-exists
         run: echo "::set-output name=result::$(sh epub-exists.sh)"
 
-      - name: Check if the extraction process is done
-        if: ${{ steps.epub-exists.outputs.result == 'true' }}
-        id: extraction-expected
-        run: |
-          content=`cat ./epub/params.json`
-          echo "::set-output name=paramsJson::$content"
-
-      - name: Resolve conditions
-        if: ${{ steps.epub-exists.outputs.result && fromJson(steps.extraction-expected.outputs.paramsJson).extractionComplete != true }}
-        id: should-extract
-        run: echo "::set-output name=extract::true"
-
       - uses: actions/setup-node@v2
-        if: ${{ steps.should-extract.outputs.extract == 'true' }}
         with:
           node-version: "14"
+
+      - name: Extract version from package.json
+        uses: sergeysova/jq-action@v2
+        id: extraction-complete
+        with:
+          cmd: 'jq .extractionComplete epub/params.json'
+
+      - name: Resolve conditions
+        if: ${{ steps.epub-exists.outputs.result && steps.extraction-complete.outputs.value != "true" }}
+        id: should-extract
+        run: echo "::set-output name=extract::true"
 
       - name: Install dependencies
         if: ${{ steps.should-extract.outputs.extract == 'true' }}
