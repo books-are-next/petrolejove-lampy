@@ -76,10 +76,6 @@ jobs:
         with:
           node-version: "14"
 
-      - name: Check if there is an EPUB waiting for conversion
-        id: epub-exists
-        run: echo "::set-output name=result::$(sh epub-exists.sh)"
-
       - name: Install dependencies
         run: |
           npm install
@@ -91,7 +87,6 @@ jobs:
           extended: true
 
       - name: Download dart-sass
-        if: ${{ steps.should-extract.outputs.extract == 'true' }}
         run: |
           curl -sL https://github.com/sass/dart-sass-embedded/releases/download/1.0.0-beta.12/sass_embedded-1.0.0-beta.12-linux-x64.tar.gz | tar xvz
 
