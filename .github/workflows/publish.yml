@@ -46,11 +46,6 @@ jobs:
         run: |
           npm install
 
-      - name: Download dart-sass
-        if: ${{ steps.should-extract.outputs.extract == 'true' }}
-        run: |
-          curl -sL https://github.com/sass/dart-sass-embedded/releases/download/1.0.0-beta.12/sass_embedded-1.0.0-beta.12-linux-x64.tar.gz | tar xvz
-
       - name: Update EPUB converter to the latest revision
         if: ${{ steps.should-extract.outputs.extract == 'true' }}
         run: "npm install @next-book/epub2nb@latest"
@@ -76,6 +71,7 @@ jobs:
           target-folder: content
 
   publish:
+    needs: [extract]
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -100,6 +96,11 @@ jobs:
         with:
           hugo-version: "0.81.0"
           extended: true
+
+      - name: Download dart-sass
+        if: ${{ steps.should-extract.outputs.extract == 'true' }}
+        run: |
+          curl -sL https://github.com/sass/dart-sass-embedded/releases/download/1.0.0-beta.12/sass_embedded-1.0.0-beta.12-linux-x64.tar.gz | tar xvz
 
       - name: Build
         run: |
