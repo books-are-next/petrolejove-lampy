@@ -98,5 +98,6 @@ jobs:
       - name: Publish the book 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
+          clean: false
           branch: docs
           folder: _book
