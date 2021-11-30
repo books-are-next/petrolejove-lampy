@@ -1,6 +1,8 @@
 {
   "params": {
     "metadata": {
+      "edition": "beletrie",
+      "publisherShort": "mkp",
       "title": "Petrolejové lampy",
       "identifier": "9a77d930-5457-47dc-82e0-097ff3ac94cd",
       "author": "Jaroslav Havlíček",
@@ -32,7 +34,7 @@
         "filename": "petrolejove_lampy_001.md",
         "xhtml": "petrolejove_lampy_001.htm",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
