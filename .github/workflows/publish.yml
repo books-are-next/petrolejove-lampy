@@ -30,7 +30,7 @@ jobs:
           cmd: 'jq .extractionComplete epub/params.json'
 
       - name: Resolve conditions
-        if: ${{ steps.epub-exists.outputs.result && steps.extraction-complete.outputs.value != "true" }}
+        if: ${{ steps.epub-exists.outputs.result && steps.extraction-complete.outputs.value != 'true' }}
         id: should-extract
         run: echo "::set-output name=extract::true"
 
