@@ -15,6 +15,14 @@ jobs:
           submodules: false
           fetch-depth: 0
 
+      - name: Cache npm and output
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/epub
+            ~/node_modules
+          key: extracted-${{ runner.os }}-${{ github.run_number }}
+
       - name: Check if there is an EPUB waiting for conversion
         id: epub-exists
         run: echo "::set-output name=result::$(sh epub-exists.sh)"
@@ -27,10 +35,10 @@ jobs:
         uses: sergeysova/jq-action@v2
         id: extraction-complete
         with:
-          cmd: 'jq .extractionComplete epub/params.json'
+          cmd: "jq .extractionComplete epub/params.json"
 
       - name: Resolve conditions
-        if: ${{ steps.epub-exists.outputs.result && steps.extraction-complete.outputs.value != 'true' }}
+        if: ${{ steps.epub-exists.outputs.result == 'true' && steps.extraction-complete.outputs.value != 'true' }}
         id: should-extract
         run: echo "::set-output name=extract::true"
 
@@ -47,22 +55,6 @@ jobs:
         if: ${{ steps.should-extract.outputs.extract == 'true' }}
         run: npx epub2nb -s epub --gh $GITHUB_REPOSITORY
 
-      - name: Publish conversion UI 🚀
-        if: ${{ steps.should-extract.outputs.extract == 'true' }}
-        uses: JamesIves/github-pages-deploy-action@4.1.4
-        with:
-          branch: docs
-          folder: epub
-          target-folder: converter
-
-      - name: Push converted content 🚀
-        if: ${{ steps.should-extract.outputs.extract == 'true' }}
-        uses: JamesIves/github-pages-deploy-action@4.1.4
-        with:
-          branch: main
-          folder: epub/content
-          target-folder: content
-
   publish:
     needs: [extract]
     runs-on: ubuntu-latest
@@ -71,6 +63,20 @@ jobs:
         with:
           submodules: false
           fetch-depth: 0
+
+      - name: Cache npm and output
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/epub
+            ~/node_modules
+          key: extracted-${{ runner.os }}-${{ github.run_number }}
+
+      - name: Cache book
+        uses: actions/cache@v2
+        with:
+          path: ~/_book
+          key: published-${{ runner.os }}-${{ github.run_number }}
 
       - uses: actions/setup-node@v2
         with:
@@ -90,16 +96,49 @@ jobs:
         run: |
           curl -sL https://github.com/sass/dart-sass-embedded/releases/download/1.0.0-beta.12/sass_embedded-1.0.0-beta.12-linux-x64.tar.gz | tar xvz
 
-      - run: cd content && ls -l
-
       - name: Build
         run: |
           export PATH="$PATH:$(realpath sass_embedded)"
           npm run build
 
-      - name: Publish the book 🚀
+  deploy:
+    needs: [publish]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: false
+          fetch-depth: 0
+
+      - name: Cache npm and output
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/epub
+            ~/node_modules
+          key: extracted-${{ runner.os }}-${{ github.run_number }}
+
+      - name: Cache book
+        uses: actions/cache@v2
+        with:
+          path: ~/_book
+          key: published-${{ runner.os }}-${{ github.run_number }}
+
+      - name: Move epub2nb output into exported book
+        run: |
+          mkdir -p _book
+          mv epub _book/epub2nb-output
+
+      - name: Deploy the book 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
-          clean: false
           branch: docs
           folder: _book
+
+      - name: Push converted content 🚀
+        if: ${{ steps.should-extract.outputs.extract == 'true' }}
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: main
+          folder: epub/content
+          target-folder: content
