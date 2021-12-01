@@ -43,6 +43,14 @@ jobs:
             ./node_modules
           key: extracted-${{ runner.os }}-${{ github.run_number }}
 
+      - name: Cache output for deployment
+        uses: actions/cache@v2
+        if: ${{ steps.should-extract.outputs.extract == 'true' }}
+        with:
+          path: |
+            ./epub
+          key: extracted-for-deploy-${{ runner.os }}-${{ github.run_number }}
+
       - name: Install dependencies
         if: ${{ steps.should-extract.outputs.extract == 'true' }}
         run: |
@@ -126,14 +134,13 @@ jobs:
           submodules: false
           fetch-depth: 0
 
-      - name: Cache npm and output
+      - name: Cache output for deployment
         uses: actions/cache@v2
         id: extracted-cache
         with:
           path: |
             ./epub
-            ./node_modules
-          key: extracted-${{ runner.os }}-${{ github.run_number }}
+          key: extracted-for-deploy-${{ runner.os }}-${{ github.run_number }}
 
       - name: Cache book
         uses: actions/cache@v2
