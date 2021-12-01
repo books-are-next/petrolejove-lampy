@@ -15,21 +15,14 @@ jobs:
           submodules: false
           fetch-depth: 0
 
-      - name: Cache npm and output
-        uses: actions/cache@v2
+      - uses: actions/setup-node@v2
         with:
-          path: |
-            ./epub
-            ./node_modules
-          key: extracted-${{ runner.os }}-${{ github.run_number }}
+          node-version: "14"
+
 
       - name: Check if there is an EPUB waiting for conversion
         id: epub-exists
         run: echo "::set-output name=result::$(sh epub-exists.sh)"
-
-      - uses: actions/setup-node@v2
-        with:
-          node-version: "14"
 
       - name: Extract version from package.json
         uses: sergeysova/jq-action@v2
@@ -41,6 +34,16 @@ jobs:
         if: ${{ steps.epub-exists.outputs.result == 'true' && steps.extraction-complete.outputs.value != 'true' }}
         id: should-extract
         run: echo "::set-output name=extract::true"
+
+
+      - name: Cache npm and output
+        uses: actions/cache@v2
+        if: ${{ steps.should-extract.outputs.extract == 'true' }}
+        with:
+          path: |
+            ./epub
+            ./node_modules
+          key: extracted-${{ runner.os }}-${{ github.run_number }}
 
       - name: Install dependencies
         if: ${{ steps.should-extract.outputs.extract == 'true' }}
@@ -120,6 +123,7 @@ jobs:
 
       - name: Cache npm and output
         uses: actions/cache@v2
+        id: extracted-cache
         with:
           path: |
             ./epub
@@ -133,9 +137,25 @@ jobs:
           key: published-${{ runner.os }}-${{ github.run_number }}
 
       - name: Move epub2nb output into exported book
+        if: steps.cache.outputs.cache-hit == 'true'
         run: |
           mkdir -p _book
           mv epub _book/epub2nb-output
+
+      - name: Preserve old epub2nb-output when its not in cache (1)
+        if: steps.cache.outputs.cache-hit != 'true'
+        uses: actions/checkout@v2
+        with:
+          ref: docs
+          path: previous
+          submodules: false
+          fetch-depth: 0
+
+      - name: Preserve old epub2nb-output when its not in cache (2)
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p _book
+          [ ! -f previous/epub2nb-output ] || mv previous/epub2nb-output _book/epub2nb-output
 
       - name: Deploy the book 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.4
