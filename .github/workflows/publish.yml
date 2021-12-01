@@ -136,9 +136,8 @@ jobs:
           folder: _book
 
       - name: Push converted content 🚀
-        if: ${{ steps.should-extract.outputs.extract == 'true' }}
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: main
-          folder: epub/content
+          folder: _book/epub2nb-output/content
           target-folder: content
