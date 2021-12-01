@@ -1,4 +1,5 @@
 {
+  "extractionComplete": true,
   "params": {
     "metadata": {
       "edition": "beletrie",
@@ -841,7 +842,7 @@
       "identifier": "9a77d930-5457-47dc-82e0-097ff3ac94cd",
       "author": "Jaroslav Havlíček",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-01T12:16:32.450Z"
+      "modified": "2021-09-21T13:11:35.102Z"
     },
     "chapters": [
       {
@@ -1374,6 +1375,6 @@
       "user": "books-are-next",
       "repo": "petrolejove-lampy"
     },
-    "generatedAt": 1638360993250
+    "generatedAt": 1632229895886
   }
 }
