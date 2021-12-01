@@ -19,8 +19,8 @@ jobs:
         uses: actions/cache@v2
         with:
           path: |
-            ~/epub
-            ~/node_modules
+            ./epub
+            ./node_modules
           key: extracted-${{ runner.os }}-${{ github.run_number }}
 
       - name: Check if there is an EPUB waiting for conversion
@@ -68,14 +68,14 @@ jobs:
         uses: actions/cache@v2
         with:
           path: |
-            ~/epub
-            ~/node_modules
+            ./epub
+            ./node_modules
           key: extracted-${{ runner.os }}-${{ github.run_number }}
 
       - name: Cache book
         uses: actions/cache@v2
         with:
-          path: ~/_book
+          path: ./_book
           key: published-${{ runner.os }}-${{ github.run_number }}
 
       - uses: actions/setup-node@v2
@@ -114,14 +114,14 @@ jobs:
         uses: actions/cache@v2
         with:
           path: |
-            ~/epub
-            ~/node_modules
+            ./epub
+            ./node_modules
           key: extracted-${{ runner.os }}-${{ github.run_number }}
 
       - name: Cache book
         uses: actions/cache@v2
         with:
-          path: ~/_book
+          path: ./_book
           key: published-${{ runner.os }}-${{ github.run_number }}
 
       - name: Move epub2nb output into exported book
