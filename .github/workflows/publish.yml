@@ -75,6 +75,7 @@ jobs:
 
       - name: Cache npm and output
         uses: actions/cache@v2
+        id: extracted-cache
         with:
           path: |
             ./epub
@@ -94,6 +95,12 @@ jobs:
       - name: Install dependencies
         run: |
           npm install
+
+      - name: Move extracted content into place
+        if: steps.extracted-cache.outputs.cache-hit == 'true'
+        run: |
+          rm -rf content
+          cp -R epub/content content
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
