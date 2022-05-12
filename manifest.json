@@ -1,16 +1,88 @@
 {
-  "author": "Jaroslav Havlíček",
-  "edition": "beletrie",
-  "identifier": "havlicek-petrolejove-lampy-2bf487c",
-  "languagecode": "cs",
-  "modified": "2021-09-15T11:19:52.162Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Petrolejové lampy",
-  "revision": "2bf487c",
+  "author": "Jaroslav Havlíček",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "havlicek-petrolejove-lampy-ee95b57",
+  "revision": "ee95b57",
+  "readingOrder": [
+    "petrolejove_lampy_002.html",
+    "petrolejove_lampy_007.html",
+    "petrolejove_lampy_008.html",
+    "petrolejove_lampy_009.html",
+    "petrolejove_lampy_010.html",
+    "petrolejove_lampy_011.html",
+    "petrolejove_lampy_012.html",
+    "petrolejove_lampy_013.html",
+    "petrolejove_lampy_014.html",
+    "petrolejove_lampy_015.html",
+    "petrolejove_lampy_016.html",
+    "petrolejove_lampy_017.html",
+    "petrolejove_lampy_018.html",
+    "petrolejove_lampy_019.html",
+    "petrolejove_lampy_020.html",
+    "petrolejove_lampy_021.html",
+    "petrolejove_lampy_022.html",
+    "petrolejove_lampy_023.html",
+    "petrolejove_lampy_024.html",
+    "petrolejove_lampy_025.html",
+    "petrolejove_lampy_026.html",
+    "petrolejove_lampy_027.html",
+    "petrolejove_lampy_028.html",
+    "petrolejove_lampy_029.html",
+    "petrolejove_lampy_030.html",
+    "petrolejove_lampy_031.html",
+    "petrolejove_lampy_032.html",
+    "petrolejove_lampy_033.html",
+    "petrolejove_lampy_034.html",
+    "petrolejove_lampy_035.html",
+    "petrolejove_lampy_036.html",
+    "petrolejove_lampy_037.html",
+    "petrolejove_lampy_038.html",
+    "petrolejove_lampy_039.html",
+    "petrolejove_lampy_040.html",
+    "petrolejove_lampy_041.html",
+    "petrolejove_lampy_042.html",
+    "petrolejove_lampy_043.html",
+    "petrolejove_lampy_044.html",
+    "petrolejove_lampy_045.html",
+    "petrolejove_lampy_046.html",
+    "petrolejove_lampy_047.html",
+    "petrolejove_lampy_048.html",
+    "petrolejove_lampy_049.html",
+    "petrolejove_lampy_050.html",
+    "petrolejove_lampy_051.html",
+    "petrolejove_lampy_052.html",
+    "petrolejove_lampy_053.html",
+    "petrolejove_lampy_054.html",
+    "petrolejove_lampy_055.html",
+    "petrolejove_lampy_056.html",
+    "petrolejove_lampy_057.html",
+    "petrolejove_lampy_058.html",
+    "petrolejove_lampy_059.html",
+    "petrolejove_lampy_060.html",
+    "petrolejove_lampy_061.html",
+    "petrolejove_lampy_062.html",
+    "petrolejove_lampy_063.html",
+    "petrolejove_lampy_064.html",
+    "petrolejove_lampy_065.html",
+    "petrolejove_lampy_066.html",
+    "petrolejove_lampy_067.html",
+    "petrolejove_lampy_068.html",
+    "petrolejove_lampy_069.html",
+    "petrolejove_lampy_070.html",
+    "petrolejove_lampy_071.html",
+    "petrolejove_lampy_072.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Wed Dec 01 2021 12:36:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638362217394
+    "date": "Thu May 12 2022 10:36:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351807238
   },
   "documents": [
     {
@@ -34,7 +106,7 @@
       ]
     },
     {
-      "title": "ČÁST PRVNÍ\nLAMPY SVÍTÍ A PROSTÍRÁ SE • Petrolejové lampy",
+      "title": "ČÁST PRVNÍ\nLAMPY SVÍTÍ A PROSTÍRÁ SE",
       "file": "petrolejove_lampy_007.html",
       "words": 785,
       "chars": 5014,
@@ -54,7 +126,7 @@
       ]
     },
     {
-      "title": "2 • Petrolejové lampy",
+      "title": "2",
       "file": "petrolejove_lampy_008.html",
       "words": 1039,
       "chars": 6463,
@@ -74,7 +146,7 @@
       ]
     },
     {
-      "title": "3 • Petrolejové lampy",
+      "title": "3",
       "file": "petrolejove_lampy_009.html",
       "words": 1093,
       "chars": 6903,
@@ -94,7 +166,7 @@
       ]
     },
     {
-      "title": "4 • Petrolejové lampy",
+      "title": "4",
       "file": "petrolejove_lampy_010.html",
       "words": 976,
       "chars": 6275,
@@ -114,7 +186,7 @@
       ]
     },
     {
-      "title": "5 • Petrolejové lampy",
+      "title": "5",
       "file": "petrolejove_lampy_011.html",
       "words": 1517,
       "chars": 9550,
@@ -134,7 +206,7 @@
       ]
     },
     {
-      "title": "6 • Petrolejové lampy",
+      "title": "6",
       "file": "petrolejove_lampy_012.html",
       "words": 963,
       "chars": 6236,
@@ -154,7 +226,7 @@
       ]
     },
     {
-      "title": "7 • Petrolejové lampy",
+      "title": "7",
       "file": "petrolejove_lampy_013.html",
       "words": 1161,
       "chars": 7275,
@@ -174,7 +246,7 @@
       ]
     },
     {
-      "title": "8 • Petrolejové lampy",
+      "title": "8",
       "file": "petrolejove_lampy_014.html",
       "words": 1409,
       "chars": 8699,
@@ -194,7 +266,7 @@
       ]
     },
     {
-      "title": "9 • Petrolejové lampy",
+      "title": "9",
       "file": "petrolejove_lampy_015.html",
       "words": 963,
       "chars": 6073,
@@ -214,7 +286,7 @@
       ]
     },
     {
-      "title": "10 • Petrolejové lampy",
+      "title": "10",
       "file": "petrolejove_lampy_016.html",
       "words": 899,
       "chars": 5648,
@@ -234,7 +306,7 @@
       ]
     },
     {
-      "title": "11 • Petrolejové lampy",
+      "title": "11",
       "file": "petrolejove_lampy_017.html",
       "words": 1078,
       "chars": 7020,
@@ -254,7 +326,7 @@
       ]
     },
     {
-      "title": "12 • Petrolejové lampy",
+      "title": "12",
       "file": "petrolejove_lampy_018.html",
       "words": 1665,
       "chars": 10284,
@@ -274,7 +346,7 @@
       ]
     },
     {
-      "title": "13 • Petrolejové lampy",
+      "title": "13",
       "file": "petrolejove_lampy_019.html",
       "words": 1477,
       "chars": 8917,
@@ -294,7 +366,7 @@
       ]
     },
     {
-      "title": "14 • Petrolejové lampy",
+      "title": "14",
       "file": "petrolejove_lampy_020.html",
       "words": 1439,
       "chars": 8813,
@@ -314,7 +386,7 @@
       ]
     },
     {
-      "title": "15 • Petrolejové lampy",
+      "title": "15",
       "file": "petrolejove_lampy_021.html",
       "words": 1543,
       "chars": 9613,
@@ -334,7 +406,7 @@
       ]
     },
     {
-      "title": "16 • Petrolejové lampy",
+      "title": "16",
       "file": "petrolejove_lampy_022.html",
       "words": 1120,
       "chars": 7232,
@@ -354,7 +426,7 @@
       ]
     },
     {
-      "title": "17 • Petrolejové lampy",
+      "title": "17",
       "file": "petrolejove_lampy_023.html",
       "words": 1218,
       "chars": 7531,
@@ -374,7 +446,7 @@
       ]
     },
     {
-      "title": "18 • Petrolejové lampy",
+      "title": "18",
       "file": "petrolejove_lampy_024.html",
       "words": 1211,
       "chars": 7007,
@@ -394,7 +466,7 @@
       ]
     },
     {
-      "title": "19 • Petrolejové lampy",
+      "title": "19",
       "file": "petrolejove_lampy_025.html",
       "words": 1372,
       "chars": 8409,
@@ -414,7 +486,7 @@
       ]
     },
     {
-      "title": "20 • Petrolejové lampy",
+      "title": "20",
       "file": "petrolejove_lampy_026.html",
       "words": 1940,
       "chars": 11510,
@@ -434,7 +506,7 @@
       ]
     },
     {
-      "title": "21 • Petrolejové lampy",
+      "title": "21",
       "file": "petrolejove_lampy_027.html",
       "words": 1674,
       "chars": 9878,
@@ -454,7 +526,7 @@
       ]
     },
     {
-      "title": "22 • Petrolejové lampy",
+      "title": "22",
       "file": "petrolejove_lampy_028.html",
       "words": 1478,
       "chars": 9353,
@@ -474,7 +546,7 @@
       ]
     },
     {
-      "title": "23 • Petrolejové lampy",
+      "title": "23",
       "file": "petrolejove_lampy_029.html",
       "words": 1768,
       "chars": 10846,
@@ -494,7 +566,7 @@
       ]
     },
     {
-      "title": "24 • Petrolejové lampy",
+      "title": "24",
       "file": "petrolejove_lampy_030.html",
       "words": 1629,
       "chars": 10215,
@@ -514,7 +586,7 @@
       ]
     },
     {
-      "title": "25 • Petrolejové lampy",
+      "title": "25",
       "file": "petrolejove_lampy_031.html",
       "words": 1171,
       "chars": 7388,
@@ -534,7 +606,7 @@
       ]
     },
     {
-      "title": "26 • Petrolejové lampy",
+      "title": "26",
       "file": "petrolejove_lampy_032.html",
       "words": 1284,
       "chars": 7927,
@@ -574,7 +646,7 @@
       ]
     },
     {
-      "title": "28 • Petrolejové lampy",
+      "title": "28",
       "file": "petrolejove_lampy_034.html",
       "words": 1404,
       "chars": 8762,
@@ -594,7 +666,7 @@
       ]
     },
     {
-      "title": "29 • Petrolejové lampy",
+      "title": "29",
       "file": "petrolejove_lampy_035.html",
       "words": 1740,
       "chars": 10644,
@@ -614,7 +686,7 @@
       ]
     },
     {
-      "title": "30 • Petrolejové lampy",
+      "title": "30",
       "file": "petrolejove_lampy_036.html",
       "words": 1570,
       "chars": 9796,
@@ -634,7 +706,7 @@
       ]
     },
     {
-      "title": "31 • Petrolejové lampy",
+      "title": "31",
       "file": "petrolejove_lampy_037.html",
       "words": 1180,
       "chars": 7576,
@@ -654,7 +726,7 @@
       ]
     },
     {
-      "title": "32 • Petrolejové lampy",
+      "title": "32",
       "file": "petrolejove_lampy_038.html",
       "words": 1757,
       "chars": 10805,
@@ -674,7 +746,7 @@
       ]
     },
     {
-      "title": "33 • Petrolejové lampy",
+      "title": "33",
       "file": "petrolejove_lampy_039.html",
       "words": 1778,
       "chars": 10892,
@@ -694,7 +766,7 @@
       ]
     },
     {
-      "title": "ČÁST DRUHÁ\nSYTÝ U STOLU • Petrolejové lampy",
+      "title": "ČÁST DRUHÁ\nSYTÝ U STOLU",
       "file": "petrolejove_lampy_040.html",
       "words": 1582,
       "chars": 9162,
@@ -714,7 +786,7 @@
       ]
     },
     {
-      "title": "2 • Petrolejové lampy",
+      "title": "2",
       "file": "petrolejove_lampy_041.html",
       "words": 1154,
       "chars": 6564,
@@ -734,7 +806,7 @@
       ]
     },
     {
-      "title": "3 • Petrolejové lampy",
+      "title": "3",
       "file": "petrolejove_lampy_042.html",
       "words": 1126,
       "chars": 6581,
@@ -754,7 +826,7 @@
       ]
     },
     {
-      "title": "4 • Petrolejové lampy",
+      "title": "4",
       "file": "petrolejove_lampy_043.html",
       "words": 1079,
       "chars": 6556,
@@ -774,7 +846,7 @@
       ]
     },
     {
-      "title": "5 • Petrolejové lampy",
+      "title": "5",
       "file": "petrolejove_lampy_044.html",
       "words": 2135,
       "chars": 12365,
@@ -794,7 +866,7 @@
       ]
     },
     {
-      "title": "6 • Petrolejové lampy",
+      "title": "6",
       "file": "petrolejove_lampy_045.html",
       "words": 1605,
       "chars": 9610,
@@ -814,7 +886,7 @@
       ]
     },
     {
-      "title": "7 • Petrolejové lampy",
+      "title": "7",
       "file": "petrolejove_lampy_046.html",
       "words": 1415,
       "chars": 8466,
@@ -834,7 +906,7 @@
       ]
     },
     {
-      "title": "8 • Petrolejové lampy",
+      "title": "8",
       "file": "petrolejove_lampy_047.html",
       "words": 1940,
       "chars": 11768,
@@ -854,7 +926,7 @@
       ]
     },
     {
-      "title": "9 • Petrolejové lampy",
+      "title": "9",
       "file": "petrolejove_lampy_048.html",
       "words": 1857,
       "chars": 11149,
@@ -874,7 +946,7 @@
       ]
     },
     {
-      "title": "10 • Petrolejové lampy",
+      "title": "10",
       "file": "petrolejove_lampy_049.html",
       "words": 1792,
       "chars": 11324,
@@ -894,7 +966,7 @@
       ]
     },
     {
-      "title": "11 • Petrolejové lampy",
+      "title": "11",
       "file": "petrolejove_lampy_050.html",
       "words": 1416,
       "chars": 8622,
@@ -914,7 +986,7 @@
       ]
     },
     {
-      "title": "12 • Petrolejové lampy",
+      "title": "12",
       "file": "petrolejove_lampy_051.html",
       "words": 1952,
       "chars": 11933,
@@ -934,7 +1006,7 @@
       ]
     },
     {
-      "title": "13 • Petrolejové lampy",
+      "title": "13",
       "file": "petrolejove_lampy_052.html",
       "words": 1151,
       "chars": 6791,
@@ -954,7 +1026,7 @@
       ]
     },
     {
-      "title": "14 • Petrolejové lampy",
+      "title": "14",
       "file": "petrolejove_lampy_053.html",
       "words": 1567,
       "chars": 9700,
@@ -974,7 +1046,7 @@
       ]
     },
     {
-      "title": "15 • Petrolejové lampy",
+      "title": "15",
       "file": "petrolejove_lampy_054.html",
       "words": 2066,
       "chars": 11915,
@@ -994,7 +1066,7 @@
       ]
     },
     {
-      "title": "16 • Petrolejové lampy",
+      "title": "16",
       "file": "petrolejove_lampy_055.html",
       "words": 1339,
       "chars": 8381,
@@ -1014,7 +1086,7 @@
       ]
     },
     {
-      "title": "17 • Petrolejové lampy",
+      "title": "17",
       "file": "petrolejove_lampy_056.html",
       "words": 2067,
       "chars": 12332,
@@ -1034,7 +1106,7 @@
       ]
     },
     {
-      "title": "18 • Petrolejové lampy",
+      "title": "18",
       "file": "petrolejove_lampy_057.html",
       "words": 1505,
       "chars": 9032,
@@ -1054,7 +1126,7 @@
       ]
     },
     {
-      "title": "19 • Petrolejové lampy",
+      "title": "19",
       "file": "petrolejove_lampy_058.html",
       "words": 1830,
       "chars": 10737,
@@ -1074,7 +1146,7 @@
       ]
     },
     {
-      "title": "20 • Petrolejové lampy",
+      "title": "20",
       "file": "petrolejove_lampy_059.html",
       "words": 1677,
       "chars": 10040,
@@ -1094,7 +1166,7 @@
       ]
     },
     {
-      "title": "21 • Petrolejové lampy",
+      "title": "21",
       "file": "petrolejove_lampy_060.html",
       "words": 1522,
       "chars": 9162,
@@ -1114,7 +1186,7 @@
       ]
     },
     {
-      "title": "22 • Petrolejové lampy",
+      "title": "22",
       "file": "petrolejove_lampy_061.html",
       "words": 1221,
       "chars": 7597,
@@ -1134,7 +1206,7 @@
       ]
     },
     {
-      "title": "ČÁST TŘETÍ\nLAMPY ZHASÍNAJÍ • Petrolejové lampy",
+      "title": "ČÁST TŘETÍ\nLAMPY ZHASÍNAJÍ",
       "file": "petrolejove_lampy_062.html",
       "words": 1744,
       "chars": 10752,
@@ -1154,7 +1226,7 @@
       ]
     },
     {
-      "title": "2 • Petrolejové lampy",
+      "title": "2",
       "file": "petrolejove_lampy_063.html",
       "words": 1152,
       "chars": 7372,
@@ -1174,7 +1246,7 @@
       ]
     },
     {
-      "title": "3 • Petrolejové lampy",
+      "title": "3",
       "file": "petrolejove_lampy_064.html",
       "words": 1591,
       "chars": 9715,
@@ -1194,7 +1266,7 @@
       ]
     },
     {
-      "title": "4 • Petrolejové lampy",
+      "title": "4",
       "file": "petrolejove_lampy_065.html",
       "words": 1261,
       "chars": 7888,
@@ -1214,7 +1286,7 @@
       ]
     },
     {
-      "title": "5 • Petrolejové lampy",
+      "title": "5",
       "file": "petrolejove_lampy_066.html",
       "words": 1960,
       "chars": 11795,
@@ -1234,7 +1306,7 @@
       ]
     },
     {
-      "title": "6 • Petrolejové lampy",
+      "title": "6",
       "file": "petrolejove_lampy_067.html",
       "words": 2282,
       "chars": 13228,
@@ -1254,7 +1326,7 @@
       ]
     },
     {
-      "title": "7 • Petrolejové lampy",
+      "title": "7",
       "file": "petrolejove_lampy_068.html",
       "words": 1306,
       "chars": 8021,
@@ -1274,7 +1346,7 @@
       ]
     },
     {
-      "title": "8 • Petrolejové lampy",
+      "title": "8",
       "file": "petrolejove_lampy_069.html",
       "words": 1991,
       "chars": 11502,
@@ -1294,7 +1366,7 @@
       ]
     },
     {
-      "title": "9 • Petrolejové lampy",
+      "title": "9",
       "file": "petrolejove_lampy_070.html",
       "words": 1265,
       "chars": 7905,
@@ -1314,7 +1386,7 @@
       ]
     },
     {
-      "title": "10 • Petrolejové lampy",
+      "title": "10",
       "file": "petrolejove_lampy_071.html",
       "words": 2051,
       "chars": 12342,
@@ -1334,7 +1406,7 @@
       ]
     },
     {
-      "title": "11 • Petrolejové lampy",
+      "title": "11",
       "file": "petrolejove_lampy_072.html",
       "words": 1980,
       "chars": 12052,
@@ -1354,7 +1426,7 @@
       ]
     },
     {
-      "title": "Tiráž • Petrolejové lampy",
+      "title": "Tiráž",
       "file": "colophon.html",
       "words": 169,
       "chars": 1216,
