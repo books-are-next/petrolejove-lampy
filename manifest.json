@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "havlicek-petrolejove-lampy-b024eb9",
-  "revision": "b024eb9",
+  "identifier": "havlicek-petrolejove-lampy-d49e7d4",
+  "revision": "d49e7d4",
   "readingOrder": [
     "petrolejove_lampy_002.html",
     "petrolejove_lampy_007.html",
@@ -81,8 +81,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:20:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979625059
+    "date": "Thu Jul 07 2022 08:36:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182993445
   },
   "documents": [
     {
@@ -119,7 +119,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ČÁST PRVNÍ\nLAMPY SVÍTÍ A PROSTÍRÁ SE",
+          "name": "ČÁST PRVNÍ\nLAMPY SVÍTÍ A PROSTÍRÁ SE",
           "id": null,
           "children": []
         }
@@ -779,7 +779,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ČÁST DRUHÁ\nSYTÝ U STOLU",
+          "name": "ČÁST DRUHÁ\nSYTÝ U STOLU",
           "id": null,
           "children": []
         }
@@ -1431,8 +1431,8 @@
       "words": 169,
       "chars": 1216,
       "ideas": 25,
-      "role": "colophon",
-      "order": null,
+      "role": "chapter",
+      "order": 67,
       "prev": "petrolejove_lampy_072.html",
       "next": null,
       "toc": [
@@ -1453,9 +1453,9 @@
       "ideas": 1609
     },
     "chapters": {
-      "words": 98663,
-      "chars": 601373,
-      "ideas": 1580
+      "words": 98832,
+      "chars": 602589,
+      "ideas": 1605
     }
   }
 }
