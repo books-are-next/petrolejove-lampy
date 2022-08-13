@@ -1,10 +1,11 @@
 ---
-title: '9'
-subtitle: ''
+title: ''
 contentType: prose
 ---
 
 <section>
+
+## _9_
 
 Nikdo by byl v městečku nehádal, že se stavitel Kilián jednou vzdá tak zcela bez boje, a přece se to stalo. Mohr se jmenoval ten mladý člověk a začal skoro stejně jako před lety Kilián: bohatě se oženil s dcerou vinopalníkovou, skoupil řadu výhodných parcel a dal se do stavění. Přátelé na Kiliána naléhali, aby proti němu něco udělal, ale Kilián jen mávl rukou: „Ech, ať se činí!“ A neudělal nic. Inu, je to už starý pán a nemá právě čas na rozepře s tím mladým člověkem. Mohr začíná a Kilián už skončil. Totiž – co nejdřív skončí, jen co dostaví na Vejrychovsku pro dceru panský dům.
 

@@ -1,10 +1,11 @@
 ---
-title: '11'
-subtitle: ''
+title: ''
 contentType: prose
 ---
 
 <section>
+
+## _11_
 
 Štěpka neměla doma celkem nic na práci, povalovala se po pohovkách, snila u okna s nosem přitisknutým na sklo. Anně Kiliánové se to nelíbilo. Tak veliká holka má už také něco dělat! Uložila jí ruční práce. Štěpka musila matku doprovázet do kostela.
 

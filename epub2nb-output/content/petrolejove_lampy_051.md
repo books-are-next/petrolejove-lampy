@@ -1,10 +1,11 @@
 ---
-title: '12'
-subtitle: ''
+title: ''
 contentType: prose
 ---
 
 <section>
+
+## _12_
 
 Příštího dne před desátou hodinou si Malinovi ve svém kočárku vyjeli do města. Štěpka blaženě spočívala v měkkých poduškách zadního sedadla a hejtman seděl na kozlíku a třímal otěže. Vedle něho se rozpačitě usmíval Hans, nový dvorský kočí.
 

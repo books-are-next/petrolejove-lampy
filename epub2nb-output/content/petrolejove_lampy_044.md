@@ -1,10 +1,11 @@
 ---
-title: '5'
-subtitle: ''
+title: ''
 contentType: prose
 ---
 
 <section>
+
+## _5_
 
 Štěpka mu přišla otevřít. Žasla, když ho spatřila v celém gala. Usmíval se co nejpřívětivěji, po tvářích se mu rozběhly vrásky, obloukem jí podával ruku v bílé rukavičce.
 

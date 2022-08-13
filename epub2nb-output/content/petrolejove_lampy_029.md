@@ -1,10 +1,11 @@
 ---
-title: '23'
-subtitle: ''
+title: ''
 contentType: prose
 ---
 
 <section>
+
+## _23_
 
 Maškarní ples se všeobecně líbil, dokonce se krátkou dobu uvažovalo o tom, zda by se nevyplatilo jej opakovat. To byla ovšem přehnaná a nesmyslná sebedůvěra. Na druhý podobný podnik takového rozsahu nebylo v letošním masopustě již ani pomyšlení. Přece si nebudou děvčata pořizovat nové nákladné masky! Avšak mládež, která maškarním plesem prokázala takovou zdatnost a odvahu, se proto své činnosti nevzdala – naopak – teď se do ní teprve jaksepatří dala. Projevilo se to hned s nastávajícím jarem. Do zkostnatělých mravů devadesátých let jako by byl zavál mladý vítr. Cosi se uvolnilo, cosi okřálo. Byly vymyšleny také zbrusu nové zábavy.
 

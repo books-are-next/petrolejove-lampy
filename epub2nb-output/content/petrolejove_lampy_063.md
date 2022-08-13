@@ -1,10 +1,11 @@
 ---
-title: '2'
-subtitle: ''
+title: ''
 contentType: prose
 ---
 
 <section>
+
+## _2_
 
 Patnáctého února se v městečku málokde klidně obědvalo. Slavný pohřeb je něco stejně zábavného jako slavná svatba. Na dveře nízkého domku u školy přibili černé smuteční závěsy, zledovatělý chodník, který tak dozlobil mistra Kiliána v poslední den jeho života, posypali škvárou. Na škole, na radnici, na hospodě U božího oka, kde měla sídlo Řemeslnická beseda, visely černé prapory. Portál kostela byl stejně vyzdoben jako dům smutku, na hlavních ulicích byly rozžaty svítilny.
 

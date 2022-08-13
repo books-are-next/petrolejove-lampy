@@ -1,10 +1,11 @@
 ---
-title: '11'
-subtitle: ''
+title: ''
 contentType: prose
 ---
 
 <section>
+
+## _11_
 
 Vedl Štěpku pevně a odhodlaně síní až k dřevěným, fermeží natřeným schodům, potaženým zeleným běhounem, ale tam začalo jeho mužné sevření povážlivě ochabovat. Do ložnice vstoupila již Štěpka sama a on se za ní vlekl mlčky jako stín. Přemožena dojmy klesla do pohovky, až se hrnečky a talířky ve vitrínách roztřásly. Jakýsi kovový psík na červeném polštářku smutně zakýval hlavou, nastrčenou na pružině.
 
