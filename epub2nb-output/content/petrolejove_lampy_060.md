@@ -1,7 +1,10 @@
 ---
 title: '21'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Štěpka se obávala celkem zbytečně. Hejtman na návštěvě neuplatnil ani jediný ze svých hrozných šprýmů. Choval se velmi korektně. Na tetu se přelíbezně usmíval, tchánovi v ničem neodporoval. Sotva se však za Štěpkou a za jeho rozklíženými kroky zavřely dveře, obrátila Anna Kiliánová vyděšené oči k muži a zeptala se ho chvějícím se hlasem:
 
@@ -32,3 +35,5 @@ Ještě žijí a vládnou staří mušketýři, strašící módou z minulého s
 Občas si starci před obědem usednou v novém Králově hotelu na náměstí, popijí čtvrtku červeného vína. Nepijí jako labužníci, ale jako lidé, kteří vědí, co se sluší a patří. Málokdy se stane, že v té posvátné chvíli k nim přisedne nezvaný host. Sedí tu Berger ve vší slávě své moci, s šestašedesáti lety na rovném dosud hřbetě, naproti němu Groman se staletou tradicí svého závodu, o pouhé čtyři roky mladší než Berger. Právě tak na jilemnickém hřbitově na sebe hledí gotické pomníky obou rodin, Bergrů a Gromanů. Dvaasedmdesátiletý mistr Kilián k nim vlastně ani nepatří, je to jen přistěhovalec a nemá rod, byl však mezi ně přijat a zůstal jim věren. Karban je syn sedlákův, ale čtyřicet let učil jejich děti a vnuky, hrál revmatickými prsty na kruchtě k svatbám i pohřbům. Je mu osmašedesát, zato Blodkovi je už skoro osmdesát, má tváře jako z tvarohu, ruce se mu chvějí a oči mžikají pod skly brýlí. Léčil je i jejich děti a troufá si je všechny léčit i v poslední, nevyléčitelné nemoci, která na sebe nedá už příliš dlouho čekat.
 
 Opatrně pozvedají sklenky, pijí a mlaskají, otírají si ústa kapesníky velikými jako rubáše. Nevědí, že jejich dny jsou sečteny. Nevědí, že než uplyne osm let, bude Berger dohasínat v zapomenutí a na jeho místě že bude sedět a vládnout nedůvěryhodný Rittich, a o málo později Groman, ubohá troska člověka, že bude tupě, bez paměti sedět v rozviklaném plyšovém křesle a blekotavým jazykem se ptát vnuků, jak se ten či onen předmět jmenuje. Netuší, že Blodek opustí své pacienty do tří let a že Kilián, mistr Kilián, který postavil tolik domů, který si umínil přežít umírajícího zetě, nejvíce ze všech si pospíší. Bude uložen pod šmolkově modrou klenbou své hrobky, pod kmitavou hvězdičkou uplakaného věčného světla se vší svou hněvivou pýchou, nedočkav se rozřešení ožehavé otázky, co učiní a jak si povede Štěpka, až tomu zhýralci, který ji uloupil, ustele naposledy.
+
+</section>

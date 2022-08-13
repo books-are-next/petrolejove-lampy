@@ -1,7 +1,10 @@
 ---
 title: '18'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Štěpce jde na devatenáctý rok. Kam vkročí, všude je jí plno, na náměstí, v krámech, ba i v kostele. Ústa jí neustále drnčí, až uši zaléhají, její smích rachotí jako vůz plný štěrku. Kroutí se v bocích, rozkládá rukama, snad sebou ty ruce cukají, když Štěpka spí. A k tomu ty její bláznivé šaty a klobouky! Můj ty Bože! Už se nadobro vysmekla z rukou modlářské matky a otce, který ji příliš zbožňuje a všechno jí odpouští. Nedá si mluvit do svých věcí, cpe se dopředu, je dravá, hubatá, nezpůsobná. Vyrostla v ní městečku figura, jakých tu ještě nebylo. Dobrá pro pošklebky, pro obveselení zlomyslných lidí.
 
@@ -20,3 +23,5 @@ Shovívavě usuzovali, že tu dívčinu není ještě možná brát příliš v�
 Babky v kostele ledacos nadhodily matce Kiliánové, ale zasmušilé Anně se nedostávalo odvahy, aby dceři řádně vyčinila. Radívala se o tom s mužem, ten však jen mlčky poslouchal, poulil oči, hryzl si knír. Myslil si asi, že je už na vychovávání trochu pozdě, když už jednou pustili otěže z rukou, že se nedá nic dělat. Kdoví, snad v duchu litoval, že kdysi dceru doporučil ochotnickému spolku. Jenom tím zpropadeným divadlem nabyla takové neslýchané sebejistoty.
 
 Čím víc se Štěpka stávala slečnou na vdávání, tím častěji bylo lze pozorovat, jak se úsudky o ní podstatně rozcházejí. Jeden hlas pravil: „Je nevkusná, je hrubá, je hloupá – raději s ní nic nemít!“ Druhý poučoval svá mláďata: „Jen se podívejte na tu Kiliánovou, jak se nese, jak se dovede uplatnit, jakou umí dělat dámu, učte se od ní!“ A tento dvojí názor šel se Štěpkou až do konce jejího života. Vysmívali se jí a obdivovali se jí. To, co ji přenášelo přes posměch i chválu, přes občasné úspěchy i přes její poměrnou životní smůlu, byla její kiliánovská dravost, malinovská houževnatost. Tmelem bylo dobré a soucitné srdce – to jí opravdu nikdo nemohl upřít.
+
+</section>

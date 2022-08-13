@@ -1,7 +1,10 @@
 ---
 title: '11'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Vedl Štěpku pevně a odhodlaně síní až k dřevěným, fermeží natřeným schodům, potaženým zeleným běhounem, ale tam začalo jeho mužné sevření povážlivě ochabovat. Do ložnice vstoupila již Štěpka sama a on se za ní vlekl mlčky jako stín. Přemožena dojmy klesla do pohovky, až se hrnečky a talířky ve vitrínách roztřásly. Jakýsi kovový psík na červeném polštářku smutně zakýval hlavou, nastrčenou na pružině.
 
@@ -40,3 +43,5 @@ Vtom jí připadlo, že z vedlejší postele zaslechla upřímné zachrápání.
 Štěpka, novopečená manželka, již bylo sotva možno po právu nazvat ženou, se s těžkými povzdechy pokoušela o spánek, který nepřicházel. Nemohla ovšem tušit, že muž po jejím boku zachovává nehybnou tvář jen s největším sebezapřením a že se mu koutky úst potají škubou zlomyslným a vítězným smíchem.
 
 Aspoň ještě tentokrát jí byla ponechána jakási iluze.
+
+</section>

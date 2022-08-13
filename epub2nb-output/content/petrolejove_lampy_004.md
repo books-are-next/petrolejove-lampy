@@ -1,15 +1,10 @@
 ---
-title: Tiráž
+title: ''
+subtitle: ''
+contentType: prose
 ---
 
-***
-
-Petrolejové lampy
-
-Jaroslav Havlíček
-
-
-***
+<section>
 
 Znění tohoto textu vychází z díla Petrolejové lampy tak, jak bylo vydáno nakladatelstvím Československý spisovatel v roce 1973 (HAVLÍČEK, Jaroslav. _Petrolejové lampy_. 6. vyd. Praha: Československý spisovatel, 1973. 354 s. Slunovrat. Velká řada, sv. 24.).
 
@@ -37,35 +32,4 @@ Vydání (obálka, upoutávka, citační stránka, tiráž a grafická úprava),
 
 Verze 1.0 z 16. 9. 2016.
 
-
-***
-
-_Kde jsou ti páni?  
-Na hřbitově zakopáni.  
-(BYL JEDNOU…)_
-
-
-***
-
-Památce mého otce
-
-
-***
-
-**Jaroslav Havlíček**
-
-**Petrolejové lampy**
-
-Edice E-knihovna
-
-Redakce Jaroslava Bednářová
-
-Vydala **Městská knihovna v Praze**
-
-Mariánské nám. 1, 115 72 Praha 1
-
-V MKP 1. vydání
-
-Verze 1.0 z 16. 9. 2016
-
-ISBN 978-80-7532-230-2 (epub)
+</section>

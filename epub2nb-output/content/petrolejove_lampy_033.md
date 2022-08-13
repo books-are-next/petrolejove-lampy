@@ -1,7 +1,10 @@
 ---
 title: ''
 subtitle: '27'
+contentType: prose
 ---
+
+<section>
 
 Kilián vystavěl v Hoření ulici vilu pro doktora Hilmara a Štěpka se sblížila s mladou paní doktorovou. Nevzniklo žádné zvláštní přátelství, ty dvě ženy se jen občas sešly na náměstí, promluvily spolu několik letmých slov. Styky byly však přece jen navázány a Štěpka měla aspoň příležitost tu a tam se potěšit s tříletou Helenkou. Byl to opravdu roztomilý brouček! Štěpka se o paní doktorovou ani tuze nezajímala, byla to vlastně obyčejná maloměstská panička, byť v nejlepším smyslu toho slova, zajímala se jen o tu její malou dcerušku. Hned by si přála mít také takovou!
 
@@ -36,3 +39,5 @@ Na korze se procházela právě jen s těmi nejhoršími. (Ti lepší už o ni 
 „Nemyslete, že jsem tak hloupá, že nevím, nač narážíte a proč se na mne tak díváte. Jsem docela ráda, že nevypadám jako bidlo. A žádného z vás bych se nebála vzít si za muže, dovedla bych z vás vycepovat ještě docela slušné lidi!“ Ale ani doktůrek, ani žádný jiný z této nebezpečné chásky se nepokusili o nápravu touto násilnou cestou.
 
 Dcerušky ze slušných rodin byly před Štěpkou důrazně varovány. Stín její špatné pověsti padal na všechny, kdo se s ní stýkali. Městečko čekalo trpělivě na skandál, který stále jaksi nepřicházel.
+
+</section>

@@ -1,7 +1,10 @@
 ---
 title: '5'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Když přišel stavitel Kilián na staveniště, aby dohlédl na práci svých zedníků, měl ve zvyku se opřít zády o hůl a mlčky se na ně dívat kalným, nepřítomným pohledem. Stejně mlčky a neúčastně, kalným zrakem se díval doma na dcerku. Kdož ví, byla-li v tom pohledu láska. Ostatně býval doma jen málokdy, byl od rána do večera zaměstnán.
 
@@ -34,3 +37,5 @@ Tak žila vlastně Štěpka dvojím životem. Na statku se s bratranci účastni
 Kiliánovi se stávali víc a více honorací. V jejich parádním pokoji přibývalo tret, staré levnější kusy nábytku byly vyměněny za nové. V městečku se utvořil ženský zpěvácký spolek, byly v něm všechny dámy z lepších kruhů, třeba nedovedly zpívat. Do spolku vstoupila i Anna Kiliánová, a poněvadž byla bohatá a spravedlivá, zvolili ji pokladní. Jako pokladní a členka výboru byla povinna občas chodit do schůzí. Schůze a spolek vedly k užším stykům s ostatními členkami. Ačkoli se to Anně příčilo, musila čas od času přijmout pozvání na kávu a na oplátku pak sama zvát dámy do svého domu. Pro Štěpku to byly nejčernější dny, když ji matka pečlivě umyla, ustrojila a vzala s sebou na návštěvu. Jaká to trýzeň, strávit celé dlouhé odpoledne mezi způsobnými chlapečky a holčičkami! Naštěstí měla děti velmi ráda, zvlášť ty, které byly mladší než ona, s oblibou se k nim chovala jako malá maminka. Žel, že když se s nimi dostala patřičně do proudu, nedovedla si dávat dosti dobrý pozor na pusu, a tak se leckdy stalo, že jí uklouzlo slůvko ze slovníku Malinových kluků, poznámka, prozrazující neuvěřitelné vědomosti. Děti to žalovaly matkám, matky se děsily a křižovaly a svěřovaly pak Anně Kiliánové své stížnosti se sladkými úsměvy a pokryteckými vzdechy.
 
 Někdy po takových kávových dýcháncích následovaly večery, kdy stavitel hleděl bolestně a vyčítavě na svou selskou ženu a Štěpku stíhaly přísné domácí tresty. Obyčejně si to odneslo Vejrychovsko. Den, dva dni nebo také týden tam byl Štěpce zakázán přístup.
+
+</section>

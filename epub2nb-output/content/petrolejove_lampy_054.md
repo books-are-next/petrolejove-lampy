@@ -1,7 +1,10 @@
 ---
 title: '15'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Zrno budoucích rozepří, které tak pečlivě zašil podzim a které tak zdárně klíčilo, přece jen nevzešlo.
 
@@ -62,3 +65,5 @@ Tím větší bylo Štěpčino překvapení, když se před ní Jan náhle zasta
 „Máš ty ale, holka, výřečnost,“ řekl skoro dobrosrdečně. „Ty bys umluvila i mrtvého!“
 
 „Že mám?“ vyjekla Štěpka, pýříc se jako malé děvčátko. V té chvíli pro ni nemohlo být větší chvály. „Ach Jene, Jene, jak jsi hodný!“ Chopila se jeho ruky, ač se vzpíral, tiskla ji, div že ji nerozmačkala, a třela svou tvář o jeho kostrbaté strnisko. Teď už nemohlo být pochybností o tom, že její věc je na nejlepší cestě. Nepřítel je pohnut, přemožen, rozdrcen! Takovou radost nezažila od svého svatebního dne. „Nikdy ti to, Jene, nezapomenu. Jsi opravdu strašně hodný. A já tě, husa, vůbec neznala!“
+
+</section>

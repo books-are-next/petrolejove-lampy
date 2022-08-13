@@ -1,7 +1,10 @@
 ---
 title: '22'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Za týden po výpravě do Mříčné dostala Štěpka od učitele Pavlíka růžové zamilované psaníčko. Bylo doručeno Anně Kiliánové a ta je právem matky otevřela. Psaní od docela neznámého člověka, to bylo vrcholně neslušné, ve stavitelově rodině z toho bylo velké pobouření. Štěpka na ně nesmí odpovědět. Také na ně neodpověděla. Za čtrnáct dní přišlo nové psaníčko a stihl je stejný osud. Štěpka měla teď jiné starosti, v městečku se začalo mluvit o maškarním plese. Bude prý docela jistě uspořádán v příštím masopustním období.
 
@@ -46,3 +49,5 @@ Za velikého troubení a vyhrávání se páry představovaly párům. Dobráci 
 Přes to vše užila po půlnoci ještě mnoho zábavy se svým skvělým tanečníkem, který se tak zajímavě proměnil z krávy v mladého bohatýra. Chodila s ním a s maličkým, komickým Věkoslavem Xaverem hezkou chvíli o přestávce promenádou, hovořili vespolek velmi vesele a nenuceně, smáli se hojně, a to právě bylo Štěpce Kiliánové nejvíc po chuti. Pohazovala svou kudrnatou hlavou, obtíženou složitým účesem, komíhala pažemi a tleskala si do dlaní střídavě vpředu a vzadu, jak to dělávaly žačky z měšťanské školy. Nebylo lze zjistit, je-li Štěpka tak dětinská jen z radostného vytržení, z rozpačitosti nebo spíš z koketérie.
 
 Když den nato ukládala svou mouřenínskou slupku v komoře na půdě do staré škatule po klobouku, ruce jí náhle klesly do klína, tesklivě se zadívala dolů na městečko kulatým okénkem. Opírala tvář o drsnou stěnu, bubnovala prsty o požární plech a hluboce vzdychala. Ještě jednou v duchu přepočítávala léta, omyl však, žel, nebyl možný. Zdálo se jí, že už vlastně začíná stárnout.
+
+</section>

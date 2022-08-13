@@ -1,7 +1,10 @@
 ---
 title: '25'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Přes tento slibný začátek se Štěpčině známosti s Gromanem zvlášť dobře nedařilo. Častěji a častěji docházelo mezi milenci k rozmíškám. Bernímu se na Štěpce pořád něco nelíbilo. Vyčítal jí, že se valně nezajímá o jeho politické a filosofické myšlenky, že se zatvrzele vzpírá číst jeho oblíbené knihy, že zůstává těžkopádně trčet na nízkém stupni svého duševního vývoje. Štěpka si zas nepřála být neustále honěna jako pes od problému k problému, chtěla se bavit, chtěla se smát. Vzájemný poměr, v němž bylo mnohem víc hašteření než lásky, je neuspokojoval, ustálená forma maloměstského dvoření se oběma příčila, a vynalézt lepší formu nebyli schopni. Milostné vrkání nebylo pro Štěpku ani pro Gromana, polibků a lichotek se z jakýchsi příčin ostýchali. Berní netoužil po tom, být milován jakousi směsicí lásky a soucitu, nedávný výjev u jeslí na krmení zvěře ho spíš odstrašoval, než rozněžňoval, a Štěpka v skrytu svého srdce snila o bohatýrském odvážlivci, milenci plném bodrosti, o muži rázu Synáčkova. Berní byl příliš pedantský, suchopárný patron, příliš zlostný, nevzhledný a studený.
 
@@ -28,3 +31,5 @@ Později se tato móda pouštět balónky velmi ujala, nebylo snad neděle, aby 
 Když se balónek konečně přece jen vznesl a jako svatojanská muška stoupal nad město za nekonečného jásotu přítomné mládeže, padlo ve věci Štěpčiny známosti rozhodnutí. Konec kličkování, konec uhýbání, Štěpka byla postavena před ano nebo ne, a když se zaťatými zuby, s tváří zkřivenou hněvem vyřkla své „ne“, Groman chladně a beze slova smekl klobouk a uháněl od pohaněné, studem a rozhořčením se zalykající milenky, jako by mu hlavu zapálil.
 
 Za půl roku se sršatý berní docela po měšťácku zakoukal do líbezné, mazlivé a hloupé Kristy Maškové, začal chodit do rodiny, trpělivě naslouchal, jak jeho rozkošná křehotinka hraje na klavír a zpívá velmi chabě a velmi falešně sentimentální popěvky, psal jí do památníku vodnaté verše, trhal jí květiny, se zanícením ji líbal ve vrbičkách a v Dlabolovsku. Dokonce si na její přání dal oholit svůj císařský vous, který se jí nelíbil. Brzy nato se vyslovil, a ještě dřív než minul rok od oné památné podzimní neděle na Kozinci, oženil se s ní. Štěpka v předvečer jeho svatby zmuchlala a podupala nešťastný klobouk s modrým ptáčkem, který se tenkrát stal příčinou rozluky, ale zaniklou lásku tím zpátky nepřivolala a své rozbolněné srdce nerozveselila.
+
+</section>

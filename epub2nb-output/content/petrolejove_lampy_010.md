@@ -1,7 +1,10 @@
 ---
 title: '4'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Večer prvního září 1870, kdy se schyloval ke konci zoufalý zápas obklíčené francouzské armády u Sedanu, narodila se Anně Kiliánové po čtyřletém manželství dcera Štěpánka.
 
@@ -30,3 +33,5 @@ Když byla Štěpka ještě docela malá, stavěl Kilián sousední dům, který
 Štěpánka byla dítě samotářské. Neboť byla z dětí, které nejsou u svých malých přátel a přítelkyň oblíbeny. Předně to bylo panské dítě mezi všemi těmi dětmi okolních řemeslníčků a chudáků, a potom to bylo dítě zvláštní, hlavaté, těžkopádné, nehezké. Byla mnohem statnější a větší než ostatní. Svádělo je to k předpojatosti, která se časem vystupňovala v opravdovou zášť. Pošklebovaly se jí, nadávaly jí, házely po ní blátem i kamením. Jakási nevysvětlitelná, předčasná dětská pýcha Štěpce bránila, aby si na své trapiče doma postěžovala.
 
 Tak asi vypadal život Štěpánky Kiliánové do jejích šesti let, tak dlouho, dokud se blíže neseznámila s Vejrychovskem a s Malinovými kluky a dokud nezačala chodit do školy.
+
+</section>

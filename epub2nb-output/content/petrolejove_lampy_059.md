@@ -1,7 +1,10 @@
 ---
 title: '20'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Svatá Anna, to byl pro Štěpku den pouti do městečka, k židli matky Kiliánové obložené peřinami, Štěpka bude lhát úsměvy i slovy plnými naděje a nemocná bude obojí odmítat vzdechy a malátným mávnutím ruky: „Milé dítě, to je už jistě můj poslední svátek, napřesrok tu nebudu.“ Bude nutno ji těšit, přesvědčovat, zoufale vymýšlet kdejaké komické příběhy, nepřetržitě mluvit o statku a o polích, jen aby nenastalo zrádné ticho, v němž by se srdce sevřelo zatajovanou bolestí a z očí vytryskly slzy.
 
@@ -66,3 +69,5 @@ Doktor ustal v práci, položil chrup na okenní rám, kolo se přestalo točit.
 „To je, děvuško, nemoc náramně zlá. Delikátní nemoc. Může se říci – nemoc z lásky. Chudák, měl asi někdy lues, a to hodně časně. Syfilis, víš? Nyní přichází pokračování. Lues je totiž nemoc na pokračování.“
 
 „Ach,“ povzdychla si paní Matylda a cudně se zapýřila. V duchu si umiňovala, že se napříště vyhne širokým obloukem ženě _takového_ člověka.
+
+</section>

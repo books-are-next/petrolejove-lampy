@@ -1,7 +1,10 @@
 ---
 title: '14'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Minuly Vánoce, nastal nový rok, život na Vejrychovsku spal, jako spí v zimě na všech selských usedlostech. Štěpka hospodařila, vařila, poklízela, právě tak jako to kdysi činila v domácnosti svých rodičů, jen s tím rozdílem, že ten, o kterého se teď starala, byl nesdílný Pavel Malina, který vyměnil stejnokroj za krátký kabát, podšitý králičinou, kožené kamaše a zelený myslivecký klobouk se štětkou.
 
@@ -34,3 +37,5 @@ Dříve však, než zavanul první vlahý vítr, než hluchoněmý Franc poprvé
 Ne, Štěpka již dávno v sobě nemá lásky k tomu člověku. Snad to ani nikdy žádná láska nebyla, nýbrž jen nerozumná touha provdat se stůj co stůj, vyrovnat se ostatním, založit si vlastní domov. Všechno ostatní bylo jen tělo. Nyní toto tělo opět promluvilo a jeho řeč byla opovržení.
 
 Když konečně jaro přišlo, hejtman se nezeptal po polních pracích, neprojevil ani sebemenšího zájmu o osev, o chlévy, o stodoly. Ech, dejte mi s tím vším, k čertu, pokoj! Tak se Štěpka dověděla definitivně, jak na tom se svým mužem vlastně je. Chtěl mít pokoj. Dobrá, bude jej tedy mít, ten svůj pokoj! Štěpce ani nenapadlo, aby ho probouzela k životu. A pole? A hospodářství? A budoucnost? To zas jednou bylo něco pro Štěpku! Úkol poněkud obtížný, poněkud vyčerpávající, ale přece jen nějaký úkol! Nemá-li muže ani jako velitele, ani jako pomocníka, pak jí nezbývá než se sama chopit velení a práce. Hospodář spí, hospodář je mrtev, nevzbudí se. Pole však nebudou opuštěna. Štěpka se sama stane hospodářem.
+
+</section>

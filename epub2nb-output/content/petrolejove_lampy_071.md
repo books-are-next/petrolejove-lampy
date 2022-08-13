@@ -1,7 +1,10 @@
 ---
 title: '10'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Štěpka se vracela vlakem z Prahy. Snad již zítra, snad pozítří poputuje za ní mrtvé tělo jejího muže, aby našlo poslední odpočinek na jilemnickém hřbitově. Vše bylo zařízeno. Vše bylo skončeno. Ještě poslední cesta městečkem, cesta s hudbou, za slavnostního vyzvánění zvonů, tak známá cesta, a pak teprve bude doopravdy vdovou.
 
@@ -48,3 +51,5 @@ Počala se v kupé cítit jako doma. Někdo byl u ní. Ten hlas! Ne, není tak n
 Odpoutávala se od sebe, mučila se do nebytí – ano, ano, tak vypadal, přímý, jako by byl spolkl pravítko, navoskované kníry, ostrý pohled, ochmýřený malinovský týl, ironický úsměšek – inu, již tu stojíš, již jsi tu, otevři ústa! A rty se pohybují, odhalují dlouhé, žluté řezáky, otvor do hloubi rozkládajícího se nitra se šíří, šíří: „Ty jsi, Štěpko, taková dobrá klisna!“ A povzbudivěji udeří do zad.
 
 Štěpka se rozplývá blahem nad tou neohrabanou mužskou lichotkou, neboť v těch slovech tuší drsnou pochvalu, nejasné povzbuzení. Ano, to je to, co jí scházelo, ocenění, odůvodnění jejího místa na světě, byť jen strohé a zdánlivě nesmyslné. Je něco výstižného v těch slovech, právě v těch: „Ty jsi dobrá klisna.“ Kdyby byl řekl „duše“, byl by lhal. Celá se hrbí pod tíhou vděčnosti a radosti, a zatímco vlak hvízdá a jiskry stehují obzor, zatímco petrolejka bzučí a kola skandují jednotvárnou melodii, veliké, horké, osvobozující slzy stékají po tlustých tvářích.
+
+</section>

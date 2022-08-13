@@ -1,7 +1,10 @@
 ---
 title: '4'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Hejtman měl opravdu dosti příčin, aby na svou ženu žehral. Přicházela na Vejrychovsko, jen aby zjistila, že ještě žije, že dům stojí, koně žvýkají oves a krávy řinčí řetězy, že slepice pokojně hrabou na dvoře jako za jejích nejslavnějších časů, půl roku před skonem Kiliána. Přelétla muže nevidoucíma očima, dala nové rozkazy, možno-li ještě potupnější předešlých, pohovořila s Janem a odešla, aniž se ho zeptala, jak se mu žije, jak se mu to skřípe zuby v jeho pekle, jak ho straší ozvěny v domě a jak ho rdousí blížící se smrt. Neměla pro něj ani vlídného slova útěchy. Již ji nezajímal ani tolik co ropucha přejetá žebřiňákem a dokonávající v koleji.
 
@@ -40,3 +43,5 @@ Mezi dvorem a domkem u školy vznikl neblahým Štěpčiným nedorozuměním př
 Přitom si ovšem Štěpka ani neuvědomovala, jak velice se vzdaluje kladným cílům svého života, jak nesmírně přepíná svou citovou stránku, jak se vyčerpává neplodnými oběťmi, zatímco původní optimistická a činorodá podstata její bytosti zahálí, rozkládá se a hyne. Stávala se popudlivou, vrtošivou, dokonce náchylnou k bezdůvodným slzám.
 
 Těch několik měsíců po otcově smrti bylo pro Štěpku obdobím, kdy sama sobě nerozuměla. Jediným snad obdobím v životě, kdy dělala něco jiného, než k čemu tíhla svou pudovou a nesentimentální přirozeností.
+
+</section>

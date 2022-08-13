@@ -1,7 +1,10 @@
 ---
 title: '2'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Kilián nebyl obzvlášť znamenitý stavitel. Svědčí o tom celá Hoření ulice, jeho životní dílo, která rozmnožila jeho jmění. Stojí v ní přízemní, nejvýš jednopatrové domy, jeden jako druhý, celá řada papírových domků, jaké se v zimě stavějí v oknech do mechu. Maloměstští stavitelé nemívají zvláštní ambice, patrně proto, že se musí přizpůsobovat vkusu svých zákazníků. Jsou-li velmi dobří, dovedou postavit dům ne-li krásný, tedy aspoň účelný. Ani v tomto směru Kilián nikterak nevynikal. Domy, které vystavěl, nemají sklepy, schody jsou v nich většinou tmavé a strmé, nešťastný obyvatel nebo host na nich snadno uklouzne a pak se neodvratně řítí až do přízemí jako po toboganu. Místnosti jsou obrovské a nedají se vytápět, chodby jsou hotovým bludištěm, bez plánku se v takovém Kiliánově domě vůbec nevyznáš. Zato se však do dvorků táhnou všemožné přístavky, trčí nad nimi kryté i nekryté dřevěné pavlače, dobré jen k tomu, aby se po nich s příšerným skučením proháněl průvan, třískal dveřmi a rozbíjel okenní tabulky.
 
@@ -26,3 +29,5 @@ Kiliánova manželka Anna nebyla o nic menší postavy než její muž. Byl to o
 V několika posledních letech svého života se již nemohla pohybovat. Tak jsem ji také jedině znal, zemdlenou, bezmocně ležící na vozíku, který tlačíval ke kostelu dnes už také dávno mrtvý Tonánek-Světýlko, pobuda ze Špitálku, městského chudobince, povýšený stařeninou nemocí k jakési lokajské službě u Kiliánů.
 
 Anna Kiliánová byla žena přísná, šetrná a nábožná. Selské děvče, vzala si za muže městského člověka, který se stal pánem. Ctila svého manžela, byla si ve vší pokoře vědoma jeho vysokého společenského postavení a dbala vždy úzkostlivě na svou důstojnost. Plnila věrně všechny povinnosti k rodině, k obci i církvi. Nebyla zlobivá jako její muž, nebyla tak věhlasná jako on, veřejného života se účastnila jen málo. Zanechala po sobě pověst skrblice. Nutno však připomenout, že v oněch starých, opatrných časech, kdy bylo zvykem políbit se stolu spadlý drobeček a kdy krejcar měl jistou kupní cenu, kdy mlsky byly prostičké a zábavy řídké, že tehdy bylo dosti obtížné odlišit skutečného lakomce od člověka šetrného.
+
+</section>

@@ -1,7 +1,10 @@
 ---
 title: '22'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Štěpka hádala správně, že za nezvyklou ochotou a obětavostí manžela, který se odhodlal navštívit Annu Kiliánovou v den jejího svátku, bude vězet nějaká žádost, nějaké tajné přání, které jen čekalo na příležitost, aby mohlo být vysloveno. Hejtman se vyjádřil, dřív než měli za sebou polovinu ponuré zpáteční cesty, dřív než překročili můstek přes Jilemku.
 
@@ -32,3 +35,5 @@ Kilián přicházel nyní častěji, hledíval na hejtmana s uspokojením. Pije�
 První sníh. Padal a točil se kolem balkónu, lehal na pole, vršil se na střechách domů a stodol, rostl v pitvorných čepicích na pilířích plotu. Šlépěje se v něm tratily jako myšlenky, zahnané v noc. Městečko mrkalo v chumelici žlutými ohýnky svých světel jako stařec, který už ztratil zájem o věci tohoto světa a klímá v modrém závoji svého dýmu. Mžouralo svýma petrolejovýma očima jako opilec, k němuž se pomalu sklání ledová náruč smrti a který už netouží procitnout ze svého blaženého snu.
 
 Štěpka měla bradu podepřenu pěstmi, uši jí hořely, dívala se z okna u vytržení, jako by chtěla rozluštit svůj osud. Před ní ležela třetí neradostná zima jejího manželství.
+
+</section>

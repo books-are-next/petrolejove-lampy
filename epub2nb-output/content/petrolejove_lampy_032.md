@@ -1,7 +1,10 @@
 ---
 title: '26'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Potok Jilemka se rozvodňoval každého jara, avšak takové povodně, jaká stihla městečko v roce 1895, nebylo snad pamětníka. Příčina vězela v tom, že zima trvala nekonečně dlouho, sníh ležel skoro do Velikonoc a pak nastalo náhlé a překotné tání. V noci z Velkého pátku na Bílou sobotu se rozječely hasičské trubky, zvěstovaly, že voda stoupá. Domky v povodí nakvap vystěhovali, obyvatele umístili dílem u příbuzných a známých, dílem v obecním chudobinci. Na Boží hod ráno byla již Jilemka rozlita v strašlivý rybník po celé osadě Jilmu. Po hladině plovalo dříví, nábytek, trámy ze stržených chalup, drobné domácí nářadí, utopené kozy a kočky. V Dolení ulici sahala voda až do domovních síní, které vroubily potok po celé jeho délce, stály uprostřed dravého proudu podobné obrovským křovinám, svatý Jan Nepomucký a svatý Václav na kamenném můstku za hospodou „U koníčků“ jako by v němém zoufalství spínali ruce nad vírem, který se točil kolem kovárny. Martinická silnice byla ve svém nejnižším místě přervána, ztrácela se v tůni. V ohybu za Dudovou chalupou mužští lovili z vody háky, co jen se vylovit dalo, všichni lidé dobré vůle měli plné ruce práce. Páni chodili rozčileně po náměstí. Rozcitlivělé slečny se na všechen ten ruch a shon dívaly z oken.
 
@@ -42,3 +45,5 @@ Nemohl odmítnout stavitel Kilián, nemohl odmítnout purkmistr Berger ani star�
 Rok četných pohrom? Ovšem, však je hlídač Čmuchal prorokoval již o silvestrovské noci, když měsíc svítil nad sněhem jako krvavý lampión. Povodeň, požár domku na Drahách, při němž uhořelo nemluvně, strašlivá bouře v měsíci srpnu, blesk rozťal v půli starou lípu za Panskou zahradou a zapálil dvě stodoly nedaleko svatého Jana v lukách před lesem Brabencem – a konečně – nebylo jakousi pohromou i to, že jeho vnuk Frantík musil ustoupit belhavému Lojzovi, synovci toho břichatého zloděje, lepiče housek a tanečníka okolo díže, Trakla? Nebyla to pohroma pro jeho stáří, že mu vyměřili jen několik krejcarů penze a umístili ho ve Špitálku mezi žebráky, pytláky a vagabundy?
 
 Štěpka Kiliánová slyšela starého Čmuchala, jak před hospodou „U koníčků“ hlasitě nadává, dostala se bezděčně do kruhu jeho posluchačstva, měla sto chutí mu k jeho rouhání přisvědčit, ale nakonec se přece ovládla. Měla už jisté zkušenosti s pekařem od pohřbu jeho sestry, a pak – byla teď tak zkrušená, tak sama, bez jediné radosti na tomto přežalostném světě!
+
+</section>

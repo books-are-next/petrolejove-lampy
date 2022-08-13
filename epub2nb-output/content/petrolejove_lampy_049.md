@@ -1,7 +1,10 @@
 ---
 title: '10'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Nevěsta Štěpka musila mít také družičku, to se rozumí, nebyla jí však dlouhá, vyschlá stará panna Božka Karbanová, ale roztomilá, devítiletá Hilmarova Helenka. Dívenka nemohla jít ovšem k oltáři sama – och, Štěpka dovedla mámit, když jí na tom záleželo, těžko jí bylo odříkat – vedle ní kráčel mládenec, hošík, do kterého byla Štěpka kdysi zamilována, Rittichův Kamil. Ty dvě děti se zasloužily o úspěch její svatby, jen co je pravda! Škoda jen, že byl již mrazivý, plískavičný listopad, že nebylo slunné léto, aby malý pár mohl jít bez teplých plášťů, Helenka v nadýchaných růžových šatečkách, Kamil v černém oděvu, který mu tak slušel a dával vyniknout jeho zlatým kadeřím!
 
@@ -32,3 +35,5 @@ Osvětlená okna přitáhla večer, večer se brzy proměnil v noc – v listo
 Hovor se mění ve vřavu, únava z vyčerpaných vtipů leží na ústech jako nepřetržitý, bezdůvodný úsměv. Hejtman Malina s očima vytřeštěnýma napětím, s hlavou jakoby nabodnutou na špici páteře, rovné jako pravítko, očekává dvanáctou hodinu, hodinu vysvobození, jako duch, jenž do té chvíle měl smutnou povinnost strašit. Ne snad, že by ho nelákala pitka, pil tolik, kolik se mu chtělo, aniž se s tím pokrytecky skrýval, jenomže pil bez hluku a bez rozjařenosti. V jeho otupělém a stále víc žasnoucím mozku (jako by události nebyly musily skončit tam, kam právě neodvratně pílily!) vznikla a upevnila se trapná připomínka čehosi, co nebylo do té chvíle známo ani důvěřivé nevěstě, ani nikomu ze spokojených svatebčanů.
 
 Když na opakovacích hodinách jilemnické radnice – z dáli, z nesmírné dáli – odbila půlnoc, zvedl se ženich ze svého místa a nabídl dvorně rámě své mladé ženě, při čemž jí jakoby mimochodem políbil ruku v ohbí lokte. Bez hlesu se poklonil na všechny strany a za všeobecného pokřiku odváděl náhle nesmírně těžkou a pýřící se Štěpku ven z místnosti s hlavou vztyčenou, s výborně trčícím knírem, aby sehrál v intimitě čtyř blankytnou modří vymalovaných stěn ložnice v poschodí poslední scénu této noci, která měla být zároveň prvním jednáním netušené Štěpčiny životní tragikomedie.
+
+</section>

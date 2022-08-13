@@ -1,7 +1,10 @@
 ---
 title: '8'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Stalo se to brzy po pohřbu Anny Kiliánové, když Jan přišel poprvé s tím návrhem:
 
@@ -82,3 +85,5 @@ Podlehla spíš uklidňujícímu zvuku jeho hlasu než slovům. Jako omámená p
 Štěpka chtěla. Vedli ji temnými chodbami, strašidelnými, chmurnými chodbami. Štěpce bylo později úzko, kdykoli si vzpomněla na tuto smutnou procházku. Kdosi nablízku řval, příšerně řval. „Ten je v kleci,“ vysvětloval jí lékař, „ale nebojte se, to vašeho manžela nepotká. Uvidíte sama, je docela spokojen.“
 
 Štěpka spatřila hejtmana, jak sedí v těžké židli u okna, jeho mrtvé nohy byly nataženy, pokryty tlustou houní, tvář byla vyschlá, zasmušilá, ale nezdálo se, že by se mu vedlo hůř, přestěhování mu zřejmě neublížilo. Šermoval pažemi, rty se pohybovaly, oči divoce planuly. Snad začal znovu starou rozepři s otcem Kiliánem. Možná, že se hádal se samým pánembohem.
+
+</section>

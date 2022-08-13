@@ -1,7 +1,10 @@
 ---
 title: '9'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Dokud bydlili Kiliánovi v nízkém přízemním domku, obstarávala jim všechny hrubší domácí práce žena kočího Parduse. Ještě nějaký čas k nim chodila do činžáku, ale stavitel ji neviděl tuze rád. Zdálo se mu, že se do toho velikého, moderního domu nehodí. Nový dům znamenal vzestup na společenském žebříku. Sem patřila nikoli ochotnice Parduska, nýbrž posluhovačka z povolání, která byla zvyklá práci v lepších rodinách. Tak se do domácnosti Kiliánových dostala Traklová a její Lojzík.
 
@@ -18,3 +21,5 @@ Když Štěpka uzřela poprvé malého Lojzíka sedět na stoličce u dveří a
 Štěpka měla odevždy vášeň pro malá děťátka, pro buclaté, důvěřivé drobečky, k nimž se mohla chovat jako maminka. Nepostřehla, jak je Lojzík dalek představ, které si o něm dělala. Nechal se trpělivě vynést po žebříku na palandu k věšení prádla, dokonce se nechal vysadit na půdní okénko a s němou hrůzou pozoroval nesmírný obzor před sebou a rojení pidimužíků dole v ulici, připustil, aby ho Štěpka povozila na burácejícím mandlu, potom však chtěl stůj co stůj vniknout do jedné z komor, kde otvorem v prkenné stěně zahlédl olezlého houpacího koníka. Nic nedal na vysvětlování, že komora nepatří Kiliánovům a že od ní Štěpka nemá klíč. Řval tak vztekle, až ustrašená Traklová vyběhla nahoru a s vyčítavým, slzavým pohledem vyrvala jedináčka z rukou překvapené Štěpky.
 
 Ještě několikrát se Štěpka marně pokoušela získat si Lojzíkovu náklonnost. Všemožně se snažila nějak se mu zavděčit. Zklamala se opět, zklamala se hanebně. Nejdřív jí hodil do příkopu, plného bláta, jejího ošumělého králíčka, kterého příliš milovala, aby se byla mohla odhodlat dát mu jej darem. Potom jí naplil do tváře, když mu místo celého koláče uštědřila jen polovic. Hlavně však páchl, páchl, a na její přátelství si dělal nepříjemné právo. Štěpka se od něho odvracela, začala se ho stranit, nakonec si ho zošklivila tak jako žádné jiné dítě. Její nepřítel, Holinka ze Špitálku, který ji pronásledoval, jak mohl, a kterého kdysi slavně přeprala, jí byl nepoměrně milejší než tento zhýčkaný a protivný malý spratek.
+
+</section>

@@ -1,7 +1,10 @@
 ---
 title: '16'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Statná, přespříliš vyvinutá Štěpka nevypadala v lehkých tanečních šatech ani trochu jímavě. Byl tu do očí bijící nesoulad mezi jejím úborem a jejím vzezřením. Ty blahobytné tváře, rudé jako pivoňky a růžový mušelín! Bílá hedvábná stuha v hrubých černých vlasech. Ke všemu převyšovala většinu svých tanečníků o hlavu, jen málokterý se mohl pochlubit tak znamenitým vzrůstem, aby s ní tvořil přiměřenou dvojici. Kde vzít, proboha, honem vhodného tanečníka? Jak známo, junáci nebývají zrovna nadšeni, hledí-li na ně jejich partnerka tuze spatra.
 
@@ -28,3 +31,5 @@ Podobné poznámky se nábožné a pověrčivé Anně Kiliánové pranic nelíbi
 V tomto ovzduší nových Štěpčiných jevištních triumfů skončily jednoho dne taneční hodiny bálem, na který se v městečku dlouho vzpomínalo. Omládlý a vypasený taneční mistr odjel, vyprovázen vděčnou jilemnickou mládeží, ovšem i s gardedámami, a městečko upadlo v zimní spánek, neboť rohačky byly tenkrát přístupny jen dětem a o lyžích se ještě mnoho nevědělo. Sem tam se pěstovalo bruslení, ale to také nebylo nic pořádného, jelikož rybník patřil pivovaru, a sotva se na něm udělal slušný led, již jej vysekávali a odváželi muži v zástěrách a v beranicích, ozbrojení tlustými palcovými rukavicemi. Lepší bály, sokolský a hasičský, budou až v masopustě. Ještě štěstí, že ochotnický spolek pracoval plnou parou.
 
 Byla nastudována další hra, v níž Štěpka dostala roli mladé kněžny. Celé to drama mělo jen jeden nepříjemný háček, mezi herci nebylo milovníka, který by se byl mohl Štěpce rovnat postavou. Nakonec to dopadlo hrozně komicky, když se roztoužený princ, drobeček, v nejvýš vzrušujícím okamžiku pokoušel dostat od Štěpky divadelní polibek. Obecenstvo však bylo kupodivu poddajné, přizpůsobilo se sugestivní síle děje, nikdo se nezasmál ani v parteru, ani na galerii. Co bylo těžké odpustit v tanečních hodinách, nevadilo na jevišti. Ostatně Štěpčina kněžna byla naprosto dokonalá. Nikdy ještě nespatřilo městečko tolik aristokratické vznešenosti. Hraběnka z Harrachů, která občas jezdila ulicemi v kočáře, na jehož kozlíku seděl jako přišitý našňořený lokaj v lesklém cylindru, byla proti ní docela prostá a všední osoba.
+
+</section>

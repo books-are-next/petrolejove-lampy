@@ -1,9 +1,10 @@
 ---
-title: |-
-  ČÁST TŘETÍ
-  LAMPY ZHASÍNAJÍ
+title: ČÁST TŘETÍ LAMPY ZHASÍNAJÍ
 subtitle: '1'
+contentType: prose
 ---
+
+<section>
 
 Po Hromnicích se dalo do deště a celý týden vytrvale a úporně lilo. Sníh roztál a proměnil se v řídkou, špinavou kaši, po chodnících stružkami tekla voda. Jedenáctého února neočekávaně uhodil mráz, kalužiny se pokryly ledovou korou, u okapů narostly střechýle. Ještě večer se obloha zatáhla pytlovitými mraky a začal se sypat sníh.
 
@@ -40,3 +41,5 @@ Kilián slyšel cosi o velkém a malém světě, ale dosti dobře to nevnímal, 
 Ústa byla černá a široce otevřená, z levého koutku tenkou stružkou vytékala krev. Obličej byl bílý jako papír. Položili mu na čelo kapesník namočený ve studené vodě. „Pane Kiliáne! Pane Kiliáne!“ domlouvala mu rozechvěle Gromanová. Avšak Kilián necítil ani neslyšel. Ruka se svezla na podlahu a měkce buchla, jako by byl z válu spadl kus těsta. Oči se obrátily v sloup a už se nepohnuly.
 
 Groman vyběhl z krámu, v týle měl naraženu huňatou čepici, cestou si oblékal zimník. Za chvíli se vrátí a přivede s sebou druhého stavitelova přítele, doktora Blodka, který jen potřese svou malou, bílou, tvarohovou hlavou a zkonstatuje smrt. Třetí, Karban, šlápne za tři dny čapíma nohama na pedály varhan, aby mu zahrál naposledy. A čtvrtý, purkmistr Berger, cituplně promluví nad jeho rakví.
+
+</section>

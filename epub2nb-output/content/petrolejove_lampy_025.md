@@ -1,7 +1,10 @@
 ---
 title: '19'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Štěpka prožívala své mládí v dobách, kdy známosti trvaly sedm, ba i dvanáct let. Zelený kvartán se zamiloval a teprve bradatý pán v zajištěném postavení se se svou láskou ženil. Její bývalé spolužačky se večer co večer vláčely po korze se svými budoucími ženichy, v bálech se s nimi zadávaly na všechny tance, nosily v medailónech jejich kadeře a miniaturní podobizny – až na Božku Karbanovou. Tato vytáhlá, cudná dívka s proláklými tvářemi, jíž scházely všechny půvaby, neměla ani ženicha, ani obdivovatele. Avšak žel, Štěpka Kiliánová se také nemohla pochlubit žádnou vážnou známostí. Byla jilemnickými mladými muži hojně obletována, bavila se, řehtala se v jejich společnosti, jenže žádný kapr, ba ani mřenka z tohoto rybníka se nechtěla pevně zakousnout do nastražené udice. O nikom z těch nadějných mládenců nemohla ani v skrytu svého srdce použít sladkého přisvojovacího zájmena. A přece v městečku nebylo druhé mladé dívky, která by byla tak živelně toužila po vdavkách jako ona.
 
@@ -32,3 +35,5 @@ Je-li dívce devatenáct let, nemusí se ještě pokládat za starou pannu, ti v
 Lidé říkávají: „To děvče nemá na světě štěstí.“ O Štěpce Kiliánové to neříkali jen proto, že slovo „soucit“ se k ní nikterak nehodilo. Jaké citlivůstkářství, když jde o Štěpku Kiliánovou! A jaké porozumění s Kiliánovými! Ten starý dobrodruh měl více štěstí než rozumu. Hleďte, jak si nahrabal! A ona? Jeho nadutá, modlivá Anna z Vejrychovska? Cožpak je někde psáno, že se musí bohatým dařit i s dospělou dcerou? Nevídáno, ať mají také nějaké trampoty!
 
 Ve vzácných chvílích sdílnosti si stavitel Kilián „U božího oka“ postěžoval, ne však na dceru a na její nerozumné chování, nýbrž na to, že Štěpka není Štěpánem.
+
+</section>

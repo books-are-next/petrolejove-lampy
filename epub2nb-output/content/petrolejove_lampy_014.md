@@ -1,7 +1,10 @@
 ---
 title: '8'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Stavitel Kilián vystavěl na rohu Hoření ulice, na místě starého srubového domku poblíž náměstí, dvoupatrový dům. Byla to jeho dosud největší práce. Dokonce to byl první tak vysoký dům v městečku kromě zámku, školy a několika ostatních veřejných budov. Kilián postavil činžák ze spekulace. Státní úřady se už dávno tísnily v staré radnici s podloubím, kde byly kromě toho umístěny i úřady městské. Kilián doufal, že od něho stát najme aspoň jedno poschodí. Nepřepočítal se. Nad domovními dveřmi byl pověšen plechový dvojhlavý orel, do prvního poschodí se nastěhoval berní úřad a puncovní úřad. Kiliánovi se usadili v druhém patře.
 
@@ -34,3 +37,5 @@ Mlhavé dni, dýmající ohýnky pasáků, řezavý vítr, poletující vločky 
 Pavel neposlal z Jičína ani jediný dopis. Nebylo toho také zapotřebí, každý týden ho navštívil otec nebo aspoň Franc se vzkazem z domova. O první výpravě za studentem se ve dvoře mluvilo celý týden. Němý nadšeně posunkoval a vzrušeným chrčením a skučením dával najevo, jak je na hocha v jeho nové hodnosti pyšný. Ukazoval, že již dokonce trochu povyrostl, že je veliký, veliký pán! Učený pán! Štěpce bylo podrobně předváděno, jak ho Pavel přivítal, co dělal, jak se tvářil. Strýc s Janem znovu všechno probírali slovo za slovem.
 
 Marně pak doma na posteli všechny ty řeči převracela naruby, nevysypala z nich ani sebenepatrnější zmínku o tom, že by jí Pavel také něco vzkázal. Nebo že by si byl na ni vůbec vzpomněl. Tentokrát se Štěpka upřímně litovala. Bývali přece spolu tak dobří kamarádi! Co by byla pro něho před odjezdem všechno udělala, jen aby ho potěšila! Potom se zatvrdila. Když sis nevzpomněl, já na tebe také zapomenu! Málem by to byla dokázala. Byla v ní kiliánovská pýcha.
+
+</section>

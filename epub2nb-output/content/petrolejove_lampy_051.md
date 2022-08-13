@@ -1,7 +1,10 @@
 ---
 title: '12'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Příštího dne před desátou hodinou si Malinovi ve svém kočárku vyjeli do města. Štěpka blaženě spočívala v měkkých poduškách zadního sedadla a hejtman seděl na kozlíku a třímal otěže. Vedle něho se rozpačitě usmíval Hans, nový dvorský kočí.
 
@@ -60,3 +63,5 @@ Nešťastná samolibosti, jaké tě čekalo zklamání! Marně jsi uhasil pochod
 „Nechci se učit střílet!“ A vztekle zadupala. „Chci mít děti. Vdala jsem se, abych je měla. Vůbec ti nerozumím s tvými divnými výmluvami!“
 
 Octli se právě tam, kde byli předtím. Hejtman se z nebezpečné situace zachránil útěkem do bratrova statku. Cestou ze sebe chrlil české i německé nadávky, jejichž smysl byl přibližně ten, že je zhola zbytečné pokoušet se rozumně mluvit s umíněnou ženou.
+
+</section>

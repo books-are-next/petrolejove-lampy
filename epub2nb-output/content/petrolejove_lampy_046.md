@@ -1,7 +1,10 @@
 ---
 title: '7'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Štěpka zjistila, že se octla v romantickém postavení dívky, která má nehodnou lásku a jíž rodiče zbraňují. Nic jí nemohlo víc lahodit, nic jí nemohlo být vítanější. Mít takovou zakázanou lásku v třiceti letech, není-liž pak to nádherné? A ihned se do této sladké a bojovné skutečnosti vžila.
 
@@ -68,3 +71,5 @@ Následujícího dne jí jakoby náhodou zastoupil cestu hejtman Malina. Kráče
 Jeho pohled okamžitě zazářil vítězoslávou. Kníry se hrdě vztyčily. Mohl si to myslit. Byl pořád ještě tím skvělým vojákem, kterému žádná holka neodolá. Mohl si to myslit. Pochybnosti byly zhola zbytečné. Ještě je však třeba zachovat jistou míru. Pokorně sklonil hlavu, zasmál se, podržel její ruku a podíval se na ni zpod čela. „A co ty, Štěpko – co ty – ty bys chtěla?“
 
 Přikývla s pokusem o dramatický půvab, s přivřením víček a se sladkým pousmáním, jak by to asi udělala na jevišti v roli osmnáctileté nevěstinky.
+
+</section>

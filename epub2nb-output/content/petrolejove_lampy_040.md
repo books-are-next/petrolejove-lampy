@@ -1,9 +1,10 @@
 ---
-title: |-
-  ČÁST DRUHÁ
-  SYTÝ U STOLU
+title: ČÁST DRUHÁ SYTÝ U STOLU
 subtitle: '1'
+contentType: prose
 ---
+
+<section>
 
 V prvních dnech nového století měla Štěpka na bratrance štěstí. Setkala se s ním třikrát v jediném týdnu.
 
@@ -84,3 +85,5 @@ Choval se neobratně, byl mírný jako zkrocený lev. Všechno snášel s anděl
 „Vidíš, vidíš, jak ti to sluší, vždyť ty jsi od našeho posledního setkání omládl, a kdybys jen trochu míň kouřil, bylo by to s tebou ještě mnohem lepší. Dokonce se mi zdá, že máš narůžovělé tváře – no, moc ne, ale přece — a víš ty vůbec, že máš docela hezké oči? Já ti říkám, jen chtít, děvčata by se za tebou začala ohlížet, namluvil by sis nějakou hodnou slečnu příjemného zevnějšku!“
 
 Tenkrát ještě neměla nejen Štěpka, ale nikdo v celém městečku ani sebemenší tušení, co se to vlastně na Vejrychovsku přihodilo, že se hejtman Pavel Malina tak neočekávaně a nepochopitelně změnil.
+
+</section>

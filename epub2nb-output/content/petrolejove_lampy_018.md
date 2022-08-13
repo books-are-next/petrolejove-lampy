@@ -1,7 +1,10 @@
 ---
 title: '12'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Štěpka v poslední třídě. Už tam vlastně ani nepatřila, byla to hotová slečna, statná, vyvinutá. Ještě si naposledy zadeklamovala v den rozloučení se školou při rozdávání vysvědčení v tělocvičně a pak pospíchala domů, jako by se byla opozdila, jako by na ni život už netrpělivě čekal. Šla mu v ústrety s dychtivými, masitými rty, s širokými rameny a plnými boky, s vyzývavou bradou.
 
@@ -44,3 +47,5 @@ Dospívající dívky! Jejich rysy zůstávají obyčejně tytéž jako v děts
 Štěpku navštívil soustružník, přišel i sochař, ale prvnímu byla látka příliš nepoddajná, odhodil svůj nástroj a zmizel. Druhý pracoval až příliš okázale, snad mu bylo přeplaceno. Jen ten poslední, ten taneční, vůbec zapomněl přijít. Štěpka byla dívkou, když ostatní byly ještě dětmi, stala se takřka ženou, zatímco ostatní se nenápadně stávaly dívkami. Půvabnou, žel, se nestala nikdy.
 
 Minul Nový rok, začalo opět vyšívání, začaly kostely, paničky přicházely a odcházely, kolovrátek se roztočil a zpíval jednotvárnou píseň. Zima utíkala k Hromnicím. Večery byly nepopsatelně dlouhé. U Kiliánů se mnoho zpívalo, mnoho se tam klímalo. Štěpka byla pecnem předčasně upečeným. Co s ní? Na taneční bylo brzy. O ženiších se ještě vůbec nedalo mluvit. Někdy ji hubovali a kárali jako malou školačku. Někdy se zapomínali a hovořili s ní jako s mladou ženou. Před třemi měsíci slavila patnácté narozeniny.
+
+</section>

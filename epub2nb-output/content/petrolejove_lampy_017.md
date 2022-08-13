@@ -1,7 +1,10 @@
 ---
 title: '11'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Štěpka neměla doma celkem nic na práci, povalovala se po pohovkách, snila u okna s nosem přitisknutým na sklo. Anně Kiliánové se to nelíbilo. Tak veliká holka má už také něco dělat! Uložila jí ruční práce. Štěpka musila matku doprovázet do kostela.
 
@@ -28,3 +31,5 @@ Kamarádky, matky kamarádek, všechna ta fintící se, klevetivá havěť –�
 Když se sotva čtrnáctiletá školačka Štěpka ukázala poprvé na městském korze pod radnicí v klobouku dospělé ženy, hrajícím všemi barvami, s dlouhými sukněmi, přilehlými k jejím tlustým lýtkům, se smaragdově zeleným slunečníkem a s těžkými zlatými náušnicemi, způsobila poprask. Nesla se po boku Anny Kiliánové pyšně jako pávice. Městečko věru nevědělo, předvádí-li se mu zde nejnovější dětská móda, či je-li to spíš nesmyslný nápad potřeštěné dívčí hlavičky a slepota nábožné a ne právě důvtipné matky.
 
 Stavitel Kilián byl vznešeným zjevem své dcery tak oslněn, že ji dal v tomto podivném úboru vyfotografovat. Podobizna visela po celé čtvrtstoletí ve výkladní skříni fotografa Kubáta na rohu náměstí a dočkala se zežloutlá, světel i stínů zbavená, i mých klukovských časů.
+
+</section>

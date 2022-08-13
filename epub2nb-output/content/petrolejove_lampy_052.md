@@ -1,7 +1,10 @@
 ---
 title: '13'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Muž neznal dobře svou ženu. Nebyl by ji asi poznal lépe, ani kdyby se o ni byl ucházel ještě několik měsíců. Neznal míru její paličatosti a nevěděl, jak vytrvale dovede dotírat, vězí-li jí v hlavě nějaká záhada. Ale tahle věc byla příliš závažná, aby ji byla Štěpka mohla pustit z mysli. Pevně se rozhodla, že se dostane k jádru problému za jakoukoli cenu.
 
@@ -54,3 +57,5 @@ Nelze říci, koho mínila Štěpka tímto povzdechem, tolik je však jisto, že
 „Pojedu sám,“ řekl příkře. „Takové výlety nejsou pro ženy.“
 
 Na tom zůstalo. Jel sám a vrátil se zachmuřen, smrtelně bledý. Co s lékařem mluvil a co mu lékař předepsal, o tom se Štěpce nezmínil ani slovem. Uchlácholil ji sliby, jimž věřit mohla, ale také nemusila. Vybrala si nejmoudřejší ze všech hledisek: smířila se s neodčinitelnou skutečností. Konečně přece jen pochopila, že svatba s hejtmanem Malinou byla největším omylem jejího života. Přestala doufat, že by se vše mohlo ještě někdy obrátit k lepšímu.
+
+</section>

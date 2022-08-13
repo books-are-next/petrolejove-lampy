@@ -1,7 +1,10 @@
 ---
 title: '17'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Každých čtrnáct dní se u Kiliánů v pondělí pralo. Traklová přišla už v neděli dopoledne – obyčejně bez Lojzíka – vysoukala si rukávy, navlekla si přes sváteční šaty záplatovanou zástěru, brala z koše prádlo kus za kusem, v kuchyni je mydlila a namáčela do necek. (Nebyl by to ani dům stavěný Kiliánem, kdyby v něm bylo pamatováno na prádelnu.) Před polednem bylo vše hotovo. Traklová svlekla zástěru a otřela si čelo, mírně ovlhlé potem:
 
@@ -54,3 +57,5 @@ Zatím Lojzík, příčina jejího pobouření a rozcitlivění, seděl s rozp�
 „Teď, když je tvá matka mrtva, jsem ochoten se o tebe postarat. Jsem přece tvůj vlastní strýc! Hleď, aby ses ve škole dobře učil, abys mi nedělal ostudu!“
 
 Potřeštěná Štěpka Kiliánová si později namlouvala, že by byl pekař sotva o Lojzíka projevil zájem, nebýt skandálu, který na hřbitově způsobila. Patrně se mýlila, poněvadž se nedalo dost dobře srovnat s Traklovým postavením městského hodnostáře, aby byl chlapec vychováván na obecní útraty. Její vystoupení mělo docela jiný výsledek: od onoho neblahého dne se stal Jan Ev. Trakl v městské radě úhlavním nepřítelem stavitele Kiliána.
+
+</section>

@@ -1,7 +1,10 @@
 ---
 title: '7'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Jilemničtí občané, kteří před rokem 1910 studovali v Jičíně na některé z tamějších středních škol, se dobře pamatují na němého čeledína France z Vejrychovska. Méně zámožní bydlili _na půl stravy_; od svých bytných dostávali jen obědy a ranní kávu, večeře a pečivo k snídani si musili opatřovat sami, a proto jim rodiče vždy jednou za čtrnáct dní posílali s prádlem chléb a snad i nějakou tu buchtu. Tyto balíky a bedničky dovážel studentům Franc. Přípojka na hlavní trať do Martinic byla totiž zbudována teprve v roce 1899. Ani potom se však zásilky drahou tak hned nevžily. Ostatně němý, který jezdil tak jako tak skoro každý týden do Jičína se svým vozem, přikrytým plachtou, byl lacinější.
 
@@ -40,3 +43,5 @@ Poněkud se přepočítala, Malinovi hoši byli o hodně starší, byli šlachov
 Od té doby se za čertovou stodolou konávala pravidelná atletická cvičení, ke kterým občas přihlížíval i odborník Franc. Bratři zasvěcovali sestřenku do tajemství řeckořímských zápasů, učili ji hmatům, které odkoukali v cirkusových arénách. Byla poněkud neobratná, zato však houževnatá. Brzy nabyla v tomto oboru vědomostí, jaké má průměrná maloměstská slečna v životě málokdy příležitost uplatnit.
 
 Štěpčino sebevědomí vzrostlo. Věřila, že se nyní vyrovná všem svým spolužákům. Nenaslouchala již s posvátným obdivem jejich chlapeckému chvástání. Do její povahy se vkradl nebezpečný prvek: pohrdání uznanými autoritami, neúcta k mužům.
+
+</section>

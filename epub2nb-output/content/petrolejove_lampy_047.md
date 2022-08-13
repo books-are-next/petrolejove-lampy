@@ -1,7 +1,10 @@
 ---
 title: '8'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Pavel začal ke Kiliánovům docházet jako ženich za vyvolenou nevěstou. Přesto se však ještě nemohlo říci, že by byla ruka v rukávě. Stavitel dával vojákovi pořád ještě najevo, že se s myšlenkou svatby zcela nesmířil. Byl-li zrovna doma, když hejtman zaklepal na dveře, uchyloval se do svého pokoje pod záminkou, že má neodkladnou práci, nebo se aspoň choval k hostu se zarážejícím chladem. Hejtman překypoval roztomilostí, tvářil se, jako by strýcovo bručení nepozoroval, a k tetě byl dvorný, jak jen může být budoucí zeť.
 
@@ -50,3 +53,5 @@ A cožpak otec Malina? Och, ten také necítil k Štěpce žádnou příchylnost
 Anna Kiliánová vzdychávala a slzívala, jak se patří na matku, která má již co nejdříve ztratit dceru. Kilián chodil, chodil a ustavičně přemýšlel, díval se svýma vypoulenýma bledě modrýma očima na jakési všem ostatním smrtelníkům neznámé místo mezi nebem a zemí, hryzl si knír, pohupoval se v kolenou. Lámal si hlavu, čím by tak asi při oddavkách svou dceru a jejího muže příjemně překvapil. Kočár a koník? Ovšem, ovšem, to by bylo hezké. Ano, tak to udělá. Koník a kočár, to bude jeho svatební dar.
 
 V květnu se na Vejrychovsku začalo s kopáním základů.
+
+</section>

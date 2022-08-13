@@ -1,7 +1,10 @@
 ---
 title: '6'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Hlavní část Štěpčina zápasu o vyvoleného ženicha se rozpoutala až po hejtmanově odchodu, přesto však i to, co se událo ještě za jeho návštěvy, lze nazvat sveřepým a nemilosrdným bojem. Voják přednesl svou žádost odvážně a po vojensku, ale to věci valně neprospělo. Stavitel nebyl z těch, kteří poklesnou na duchu jen proto, že se na ně někdo nenadále a hezky zhurta oboří. Hejtman počítal s výhodou překvapujícího útoku.
 
@@ -68,3 +71,5 @@ Hejtman opakoval jinými slovy, jinými, ale přece notně podobnými, jako by s
 „Aha! Aha! Kdyby jen pan strýček chtěl! Tu to máme!“ mnul si stavitel ruce v bouřlivém a nepřirozeném veselí. „Tak víte co, pane hoste? Vy jste nám už svou věc řekl, řekl jste nám ji dopodrobna,“ vykal Pavlovi a choval se k němu velmi úslužně – vždycky byl úslužný k lidem, které vyhazoval, „nemáte, co byste k tomu ještě dodal, dojista ne, nuže, teď by bylo záhodno, abyste nám dal čas na rozmyšlenou. Možná, že jste také trochu ochraptěl těmi námluvami, já ano, já rozhodně ano, nechte nás teď v klidu a o samotě, najdeme si již nějaký způsob, jak vám dát najevo své rozhodnutí. A teď,“ pospíšil ke dveřím, pokud mu těžké tělo dovolovalo, otevřel je dokořán a galantně se uklonil. „My také jíme v určitý čas a nemáme zvláštní důvody zdržovat se s obědem.“ Dřív než mu v tom Štěpka mohla zabránit, přirazil dveře za ženichem, sinavým vzteky, a notně jimi třískl.
 
 Hejtman se hněval jen tak dlouho, dokud nesešel ze schůdků. Tam si poopravil na hlavě čáku, šavli zavěsil v předloktí a upjal plášť, který měl v síni sotva čas obléknout. Vykročil šviháckým krokem, k jakému ho podněcovala uniforma. Vyhozen! Vyhozen! Při třetím vyhozen ztratilo slovo svůj potupný význam. Co bylo v těchto posledních scénách komické, vystoupilo na povrch. Zasmál se tichým, neslyšným smíchem. Napadlo mu, že nejhorší už má za sebou. Cosi mu našeptávalo, že má vlastně vyhráno.
+
+</section>

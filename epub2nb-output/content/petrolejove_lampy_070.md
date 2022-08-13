@@ -1,7 +1,10 @@
 ---
 title: '9'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Zima po odvezení Pavla do blázince byla Štěpce obdobím reakce po těžkých zážitcích roku. Konečně byla unavena. Cesta na hřbitov, rozprávky s Janem a se strýcem, tak tomu bylo den ke dni. Potřebovala odpočinek. Nyní jej měla. Odpočívala jako člověk smrtelně znavený. Městečko mohlo být spokojeno. Osud ji vysál jako zlý pavouk. Nechal ji ležet v prachu, svázanou na rukou i nohou. Chodila zasmušile, nelepila se na nikoho, nesmála se na nikoho, nerušila svatý mír a klid korza na náměstí svými nevkusnými šaty a klobouky, měla svůj černý stejnokroj, stejnokroj dvojího smutku.
 
@@ -34,3 +37,5 @@ Slyšela nějaké hlasy dole před domem, ovšem, Jan a ještě někdo, nestaral
 Správa ústavu jí oznamovala, že její muž v noci zemřel.
 
 Usedla na rozestlanou postel a podepřela si čelo dlaněmi. To byla ta zpráva, kterou v úzkostech a strachu čekala každý den. Konec utrpení. Konec dlouhé, marné cesty, plné odříkání. Dívala se vyčítavýma, nechápavýma očima na papír, ležící jí na kolenou. V té chvíli nebyla schopna ani rozumné myšlenky, ani rozumného činu.
+
+</section>

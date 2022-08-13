@@ -1,7 +1,10 @@
 ---
 title: '23'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Maškarní ples se všeobecně líbil, dokonce se krátkou dobu uvažovalo o tom, zda by se nevyplatilo jej opakovat. To byla ovšem přehnaná a nesmyslná sebedůvěra. Na druhý podobný podnik takového rozsahu nebylo v letošním masopustě již ani pomyšlení. Přece si nebudou děvčata pořizovat nové nákladné masky! Avšak mládež, která maškarním plesem prokázala takovou zdatnost a odvahu, se proto své činnosti nevzdala – naopak – teď se do ní teprve jaksepatří dala. Projevilo se to hned s nastávajícím jarem. Do zkostnatělých mravů devadesátých let jako by byl zavál mladý vítr. Cosi se uvolnilo, cosi okřálo. Byly vymyšleny také zbrusu nové zábavy.
 
@@ -36,3 +39,5 @@ Na Kozinci se otcům líbilo nepoměrně víc než na obecní louce. Když už j
 Skoro sedm let kvetly tyhle veselé výlety mládeže na obecní louku. Potom však počal zájem o přírodu, ba i o samé programové večírky, učené i méně učené, ochabovat, až ochabl docela. Snad to bylo právě oněch sedm let mládí jedné mužské generace? Nebo spíš období určené trpělivostí obecenstva? Tytéž vtipy, tytéž hry byly opakovány do omrzení, až se konečně opravdu omrzely. Zůstal jen Kozinec. Och, Kozinec, ten přežil ještě celá desetiletí, přežil i samého tlustého Mlezivu!
 
 Štěpka Kiliánová však nezapomněla, nikdy nemohla zapomenout právě na ony výlety, pořádané v letech 1891 až 1898, dlouho a dlouho je oplakávala. Jak by ne! Vždyť ji při nich potkalo něco, co ji dosud nikdy předtím nepotkalo a patrně již nikdy nepotká: sblížila se s mladým mužem způsobem skoro poetickým, tak poetickým, že jejich poměr bylo lze při trošce shovívavosti nazvat láskou.
+
+</section>

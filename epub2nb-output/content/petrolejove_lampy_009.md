@@ -1,7 +1,10 @@
 ---
 title: '3'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Anna Kiliánová pocházela ze dvora zvaného Vejrychovsko a byla sestra sedláka Jana Maliny.
 
@@ -34,3 +37,5 @@ Antonín Malina, lovec zlaťáků, měl tři děti: Antonína, Jana a Annu. Ant
 Kilián nebyl vybíravý. Chtěl se v životě něčeho dopracovat a potřeboval k tomu peníze. Měl už také leccos za sebou, prožil prý velmi dobrodružné mládí. Bylo mu šestatřicet let. Pepka Stínilová tvrdí, že přišel do městečka s vandrovním rancem na zádech, v roztřepaných kalhotách, člověk neznámý, bez přátel, bez známostí. Takovým způsobem se ovšem v Jilemnici odjaktěživa mluvilo o všech přistěhovalcích, kteří se tu později domohli jmění. Zvlášť když nepocházeli z hor, nýbrž z kraje, z rovin. Byli to cizáci, nebo také krajáci.
 
 Podle všeho bylo tenkrát v zjevu a v chování stavitele Kiliána jakési kouzlo a jakási síla. Ačkoli byl nejen cizák, nýbrž dokonce i kraják, bylo mu to kupodivu brzy odpuštěno. Hračkou přemohl odpor, který k němu zpočátku měli jako k manželu Malinovy dcery, a stoupal s jejím věnem v kapse závratnou rychlostí na jilemnickém nebi, až se stal hvězdou první velikosti. Možná, že mu také cestu k úspěchu uvolnila tchánova smrt. Antonín Malina zemřel za necelý rok po dceřině svatbě. Za ním šli do hrobu jeden za druhým pamětníci jeho nenadálého zbohatnutí. Nová generace, náchylná k tomu, hledat v oněch dávných událostech spíš prvek romantický, neměla již nedůvěru k muži, který tak přesvědčivě prokázal svou zdatnost.
+
+</section>

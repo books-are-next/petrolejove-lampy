@@ -1,7 +1,10 @@
 ---
 title: '10'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Pavel přijel domů na Vánoce, ale Štěpka ho vůbec nespatřila. Zima nebyla příznivá návštěvám v zavátém dvoře a pak tu byly jiné radosti: sáňkování, koulovačky, sněhuláci. Pobíhat s ostatními děvčaty v mraze a vánici bylo mnohem zábavnější než se ucházet o přízeň nevěrného Malinova studenta. Velikonoce – Pavel jí přišel sice o pomlázce našlohat, ale stalo se to jen z pouhé příbuzenské povinnosti, nikoli z kamarádské vřelosti. Chlapec se choval velmi povýšeně. Měl svá oblíbená místa na vlhkých ještě mezích, pod rašícími stromy, kde četl knihy, Štěpce nedostupné. Štěpka nečetla nikdy. Nebylo tu, co by je mohlo sblížit. Jejich cesty se rozbíhaly.
 
@@ -32,3 +35,5 @@ Kadetka! Bude ovšem ledačehos zapotřebí. Bude bezpodmínečně nutno, aby se
 Štěpka zvědavě naslouchala úryvkům rozhovoru za dveřmi parádního pokoje. Kadetka, důstojník – snadno se dovtípila, o koho jde, přestože se jí podařilo zachytit sotva každé desáté slovo. Pavel v uniformě! Nebyla to tak špatná představa! Žádná ze spolužaček neměla příbuzného v kadetce. Bude ve škole jediná, která se bude moci pochlubit takovou slávou.
 
 Když Štěpka o bratranci snila, zapomněla na nutný výsledek rázu zcela praktického: kadet jí bude nekonečně vzdálenější, než jí byl pouhý kvartán. Po prázdninách již nejel Pavel Malinů na studie do Jičína, nýbrž do Prahy. Byl přijat a zůstal. Na Vánoce vykonal u Kiliánů povinnou návštěvu ve stejnokroji, jednak proto, aby se pochlubil, a také trochu z vděčnosti k strýci, který váhavého otce přesvědčil a přispěl tak k splnění jeho tužby. Na Velikonoce však již k sestřence na šlohačku nepřišel. Na budoucího důstojníka, majitele šavle, se přece nehodí, aby proháněl malou školačku po pokojích a po dvorku pro nějaké hloupé malované vajíčko!
+
+</section>

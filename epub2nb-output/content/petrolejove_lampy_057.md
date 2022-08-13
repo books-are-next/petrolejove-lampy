@@ -1,7 +1,10 @@
 ---
 title: '18'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Štěpka byla po celou hospodářskou sezónu příliš zaujata svou prací. Ani nepozorovala, že se s jejím vládcem a velitelem děje něco nedobrého. Teprve když poslední strniště bylo zoráno, poslední ozimy zasety a zválcovány, když v hustých, mokrých vločkách napadl první sníh a nastaly předlouhé zimní večery s praskáním ohně v kachlových kamnech se žlutou září petrolejové lampy, povšimla si, jak nápadně hejtman sešel a jak neuvěřitelně zestárnul.
 
@@ -72,3 +75,5 @@ Buďte ráda, že od něho nemáte děti. To Štěpce, bůhvíproč, utkvělo. N
 Děvče beze slova odešlo do kouta kuchyně a sklonilo se nad prádelním košem. V síni se ozvaly nejisté, tápavé kroky. Hejtman, jak by ne! Vejde do kuchyně? Ne, šel jenom kolem a začal obtížně stoupat po schodech. Štěpce spadl kámen ze srdce. Z nezjistitelných příčin teď netoužila po Pavlově společnosti. Raději chtěla být sama. Proč? Sama nevěděla. Nahoře se otevřely dveře a s bouchnutím zapadly. Jak se ten člověk teď straní lidí! Je raději sám. Sám se svým tajným soužením. Trápí se. Je ustavičně ponořen do sebe. Ví vůbec, co mu vlastně je? Vypadá to, jako by věděl. Věří v zlepšení? Nebo tuší, že se to nikdy nezlepší? Dojista je to vážné. Má snad děvečka Mařka přece jen pravdu?
 
 Na plotně zasyčelo a Štěpka přiskočila, aby odkryla pokličku hrnce, v němž klokotaly a vířily nudle. Pak otevřela dvířka sporáku a lopatkou oheň malounko přidusila. Co je to za nemoc, takové vysychání míchy? Z čeho se to asi dostane?
+
+</section>

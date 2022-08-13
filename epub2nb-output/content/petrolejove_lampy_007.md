@@ -1,9 +1,10 @@
 ---
-title: |-
-  ČÁST PRVNÍ
-  LAMPY SVÍTÍ A PROSTÍRÁ SE
+title: ČÁST PRVNÍ LAMPY SVÍTÍ A PROSTÍRÁ SE
 subtitle: '1'
+contentType: prose
 ---
+
+<section>
 
 Uprostřed západní zdi jilemnického hřbitova stávala od nepaměti stará márnice s pokřiveným křížkem na vrcholu prohnilé šindelové střechy. Po obou stranách této márnice, za rezavým železným plotem, se tísnilo několik hrobek, každá byla pokryta těžkým náhrobním kamenem.
 
@@ -26,3 +27,5 @@ Ještě dnes, ačkoli podhorské povětří důkladně zřídilo její bílou kd
 Mezi všemi těmi omšelými, zčernalými náhrobními kameny, oddělenými od ostatního hřbitova zrezivělým plotem, vypadá Kiliánova hrobka asi tak jako palác mezi chatrčemi. Zatímco její kryptu chrání klenba, na níž je namalováno šmolkově modré nebe s hvězdami, do jejích bezpřístřešných sousedů pere déšť, zavaluje je sníh a opravdová nebeská báň je jim nekonečně vzdálenější. Je přepychová, je chlubná, a přece se něčím podobá zchátralým hrobkám kolem sebe: i ona hlásá jméno, které v městečku již nežije.
 
 Když léta Páně 1903 stavitel Kilián náhle zemřel (za pouhá tři léta po dostavění své posmrtné schránky) a za půl roku po něm jeho manželka Anna, nezanechal po sobě ani sourozenců ani jiných příbuzných, nýbrž jen jedinou dceru Štěpánku, provdanou za hejtmana Malinu.
+
+</section>

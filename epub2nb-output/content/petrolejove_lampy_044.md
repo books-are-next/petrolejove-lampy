@@ -1,7 +1,10 @@
 ---
 title: '5'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Štěpka mu přišla otevřít. Žasla, když ho spatřila v celém gala. Usmíval se co nejpřívětivěji, po tvářích se mu rozběhly vrásky, obloukem jí podával ruku v bílé rukavičce.
 
@@ -96,3 +99,5 @@ Pomalu si k ní přisunul židli, jeho tvář zbrázdil úlisný úsměv, pokles
 „Proboha, schovej rychle karty, tatínek jde!“
 
 Štěpka vyskočila a vytřeštěně se zadívala oknem, kolem něhož se důstojně a pateticky nesla cihlově červená měchuřina. Nyní již nabyla klamné představy, kterou tak potřebovala, že hejtman o ni stojí také ještě jinak než jako o majitelku kiliánovských kapitálů. Ubohá Štěpka! Ve svých třiceti letech byla skoro stejně pošetilá, jako když vychodila školu. Neuměla nebo snad ani nechtěla protrhnout mlhovinu zchytralostí, kterými se ji snažil obloudit ten starý zhýralec. Nechtěla pohlédnout drsné pravdě do očí.
+
+</section>
