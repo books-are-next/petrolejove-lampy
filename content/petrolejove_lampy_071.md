@@ -1,10 +1,11 @@
 ---
-title: '10'
-subtitle: ''
+title: ''
 contentType: prose
 ---
 
 <section>
+
+## _10_
 
 Štěpka se vracela vlakem z Prahy. Snad již zítra, snad pozítří poputuje za ní mrtvé tělo jejího muže, aby našlo poslední odpočinek na jilemnickém hřbitově. Vše bylo zařízeno. Vše bylo skončeno. Ještě poslední cesta městečkem, cesta s hudbou, za slavnostního vyzvánění zvonů, tak známá cesta, a pak teprve bude doopravdy vdovou.
 
