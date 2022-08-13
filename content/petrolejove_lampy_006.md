@@ -6,6 +6,6 @@ contentType: prose
 
 <section>
 
-![Petrolejové lampy](./resources/obalka.jpg)
+Památce mého otce
 
 </section>

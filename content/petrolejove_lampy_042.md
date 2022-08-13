@@ -1,7 +1,10 @@
 ---
 title: '3'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Dlouho do noci se převaloval na lůžku. Bratrovy urážky, které nemohl smýt, drsná pravda, již nedovedl vyvrátit, rána, která po celé týdny hrozila dopadnout, až nyní konečně dopadla, všechny ty okolnosti způsobily, že nemohl živou mocí usnout. Uvažoval, jak se dostat z pasti, kterou na něho nalíčili. Cítil, že je přiskřípnut a že to s ním dopadne zle, nepřijde-li ještě této noci, pokud možno hned, na nějaký způsob záchrany. Ze všeho nejvíc však přemýšlel o odplatě, o vrácení šlehu, o mstě, která by bratra zdrtila ještě mnohem víc, než byl dnes postižen on.
 
@@ -60,3 +63,5 @@ Ta řeč byla lahodná pro Malinovy uši, ale již si tak zvykl zlému, že se z
 „Já jistě ne,“ jásal hejtman. Byl dosti chytrý, aby tušil, že jeho věc je na dobré cestě. „Já jistě ne, tatínku, to snad jen Jan. Kdo ví? Možná, že ho z jeho bláznovství ještě vyléčíme. Nebo se vám pořád ještě zdá, že nemluvím rozumně? Slyšel jste už ode mne rozumnější slova? Neslyšel, tak vidíte. A tak by snad bylo nejlíp, kdybyste mě v mých plánech podporoval. Rozvažte si to. Vždyť máte na rozvažování dost času. Nikdy se vám už nenaskytne taková příležitost, zbavit dvůr dluhů a koupit zpět, co bylo ztraceno.“
 
 „Příležitost, příležitost,“ brumlal tupě starý. Nechtělo se mu věřit, že je takové štěstí vůbec možné.
+
+</section>

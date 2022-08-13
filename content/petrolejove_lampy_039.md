@@ -1,7 +1,10 @@
 ---
 title: '33'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 _„Kdybych já věděl, že letos umru,  
 dal bych si dělat dubovou truhlu.  
@@ -115,3 +118,5 @@ _Čas prchá již, čas ke spěchu mě nutí.“_
 „Jak strašně se změnil!“ pomyslila si Štěpka bez sentimentality. „Je tak ukrutně zestárlý, vypadá jako Kalašova hubená kobyla. Je zrovna tak zlý, taky kouše jako ona. Možná, že ho něco trápí.“ Malounko nad svou domněnkou zapochybovala. Nakrátko, na pouhý zlomek vteřiny ho před sebou spatřila jako výbojného, snědého, mrštného a štědrého chlapce. Ahasverovy verše jí však ten obraz rychle setřely z mysli.
 
 S hejtmanem se již této noci nesetkala. Neobjevil se u Kiliánova stolu ani po hlučném aplausu, když nové století dokončilo svůj proslov nad mrtvolou, při všeobecném objímání, potřásání rukou a cinkání číší.
+
+</section>

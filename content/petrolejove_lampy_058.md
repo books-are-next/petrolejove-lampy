@@ -1,7 +1,10 @@
 ---
 title: '19'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Štěpka stála s paní doktorovou Hilmarovou na radničním podloubí. Tak znenadání jí ta ženská padla do rukou. Obdivovala se Helence, jak vyrostla, jaká z ní je už slečna. Ta bude po mamince, hezká po mamince!
 
@@ -50,3 +53,5 @@ Ještě jeden rozkošný zvyk si hejtman přisvojil za dlouhých hodin svého os
 Čas od času, ať už z pouhé účasti nebo z přebytku dobré nálady, dovolila si Štěpka předložit muži otázku po zdraví. Se zlou se potázala. Odpovídal jí čím dál drastičtěji, čím dál hruběji a neslušněji. V nejrůznějších variacích ji častoval sprostými úslovími. Nakonec se to Štěpce znechutilo, být za svou dobrou vůli tak odbývána. Když jsi takový krobián, prosím, jak ti libo, dotírat se k tobě nebudu.
 
 Krutý, nesnesitelný ubožák! A venku byly louky plné zvonků a kohoutků, na mokřinách kvetly zářivě žluté blatouchy, obilí se už zas zvedalo z brázd, nad krajem létali a prozpěvovali skřivani, obláčky putovaly oblohou jako bílé řiditelné vzducholodi, hovádka klidně přežvykovala v chlévě a dívala se na Štěpku moudrýma, pokojnýma očima. Můj ty bože, jak je život krásný! Nechtělo se myslit na zlého mrzáka, který seděl doma jako pavouk v temném koutě a vymýšlel si stále nové důvody k vádám a nové způsoby, jak někoho pokořit nebo zarmoutit.
+
+</section>

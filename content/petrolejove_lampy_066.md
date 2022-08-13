@@ -1,7 +1,10 @@
 ---
 title: '5'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Bylo ke konci května, ve školní zahradě kvetly bezy. Štěpka se vracela ze hřbitova. Šero nepozorovaně houstlo, obloha probělávala, vzduch chladl. Z otevřených kostelních dveří zněl mnohohlasý zpěv. Za kostelem se pomalu, vážně procházela dvojice milenců. Před Kiliánovým domkem netrpělivě přešlapovala ženská postava. Štěpka poznala dvorskou děvečku Karlu.
 
@@ -82,3 +85,5 @@ Jeli již dlouho po Vítkovicích, Štěpka o tom ani nevěděla, tak byla zadum
 Nedomyslila. Kdesi daleko vpředu se ozval rachot kočáru. Tentokrát to nebylo mámení smyslů, říčka klidně tekla dole pod strání, nebylo ji ani slyšet! Hejtman! Hans strhl kobyle uzdu, a už stála bryčka stranou silnice, kolo zadrhlo o milník. Štěpka i kočí vyskočili a bez dechu se dívali do tmy. Povoz se blížil zběsilou rychlostí. Nade vši pochybnost je to ztracený Pavel, nyní se však naskýtá otázka, jak ho zastavit. Nemohl být vzdálen již ani sto kroků! V záři luceren se objevily obrysy uhánějících koní. Hans se odvážně postavil s rozpřaženýma rukama doprostřed silnice.
 
 Zastavili se tak prudce, že jeden z nich upadl. Hans mu však již pomáhal na nohy a chlácholil ho. Koně stříhali ušima, rozčileně pofrkávali. Byli to známí koně. Štěpčini koně. Vypoulené oči polekaně mžouraly po světle luceren. Byli zpocení, jen se z nich kouřilo. Kočár byl sice neporušený, ale – prázdný.
+
+</section>

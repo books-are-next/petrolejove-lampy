@@ -1,7 +1,10 @@
 ---
 title: '3'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Hejtman Malina už nesedá u okna se sklenkou krvavého vína v ruce, neutápí se v blaženém opilství, neprožívá znovu svou dávnou, bujarou mladost, nehoní se za prchlými, vábnými vidinami, pod židlí baterii lahví, v tváři idiotský úsměšek. Opíraje se o hůl, plouží se od rohu k rohu, přidržuje se nábytku, zase se zastavuje, údy se mu třesou, krk je napjat úsilím, oči vytřeštěné šílenou představou. Vyschlá sanice mu poskakuje bezhlasou hrůzou. To smrt strýce Kiliána ho vyšinula z klidu. Opustil křeslo, v němž se oddával sladké nečinnosti, a už nikdy do něho nesedne s bezmračnou pohodou v uspané duši.
 
@@ -56,3 +59,5 @@ Otec ho nenavštívil ještě ani jednou. Proč ten nepřichází, když nemá t
 Hejtman by potřeboval společnost někoho výbušného, nebojácného, hlučného, mateřského – ale kde je, u čerta, Štěpka! I ta bláznivá, nevděčná Štěpka na něho zapomněla. To je právě to nejhorší, že i ona ho zradila, že ho zanechala jeho myšlenkám a jeho trápení, jako by nebyl mužem, který ji k sobě pozdvihl. Od ní si to opomíjení nejméně zasloužil! Od ní, kterou by ze všech nejvíc potřeboval! Odevzdala ho děvečkám, jako se odevzdává zboží, nebezpečné zboží, dejte na ně pozor, aby se nevznítilo, aby se nerozbilo, aby nevybuchlo! Zacházejte s ním opatrně! Tohle mu můžete povolit, tamto mu musíte vzít. Je snad opravdu už jen pouhou věcí? Nebo snad dokonce malým dítětem? A tak s ním jedná Štěpka, která s ním udělala smlouvu na celý život, až do hrobu!
 
 Hejtman se dá do proklínání, kleje strašlivě, česky i německy, kleje talijánsky, proklíná své narození, po řadě proklíná všechny, kteří ho opustili, proklíná svůj život, statek, městečko, lidi i boha, až okna řinčí, a děvečka prchá do kuchyně, cestou se potají křižujíc.
+
+</section>

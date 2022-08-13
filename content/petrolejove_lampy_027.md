@@ -1,7 +1,10 @@
 ---
 title: '21'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Prvního září bylo Štěpce dvacet let. Tenkrát nebylo v městečku zvykem slavit narozeniny, jedinou závažnou událostí v roce byl svátek. Přesto Anna Kiliánová podotkla k dceři už zrána:
 
@@ -56,3 +59,5 @@ Bába se zarazila, ale oči jí rychle ožily. „Nu, není tam, zatím tam ješ
 Ve věštbě jsou ovšem také mnohé mezery. Ani slova o tom, jak bude její pravý nápadník vypadat, o celém jejím manželství jen velmi chatrná zmínka. Babka jí ovšem slíbila, že příště promluví karty srozumitelněji. Srozumitelněji, toť se ví, Hanousková má chuť na další zlatku. Přesto ji Štěpka poslechne. Přijde, jak jen se jí to bude trochu hodit.
 
 Nepřišla. Zima nebyla vhodná k takovým návštěvám. Celý příští rok si Štěpka na karty ani nevzpomněla, a v roce 1892, v den svatého Bartoloměje, když Jilemnici a její celé okolí postihla průtrž mračen a strašlivá smršť, byla Hanousková zabita na poli střechou, urvanou ze stodoly. Snad měly karty nebohé babky Štěpce ještě mnoho co říci, ale osud nechtěl, aby se to někdy dověděla.
+
+</section>

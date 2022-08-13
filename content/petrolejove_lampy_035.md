@@ -1,7 +1,10 @@
 ---
 title: '29'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Před sedmi lety se Anně Kiliánové bratr Jan pranic nelíbil. Ve své selské, poněkud tvrdé mysli si ho již představovala, jak vládu nad statkem odevzdává synovi a jak dohasíná v malé sedničce za kuchyní pod těžkou pruhovanou peřinou. Malina však žil. Jeho tělesný stav se sice nezlepšil, ale také se nehoršil. Žíly na krku mu vystoupily, tvář se ještě víc propadla, ruce se znatelně chvěly, ale nešel na výměnek, syn se neženil, na Vejrychovsku zůstávalo všecko při starém. Zato začala marodit Anna Kiliánová.
 
@@ -62,3 +65,5 @@ Přemýšlel, hledal, ale pořád se jaksi nemohl rozhodnout. Snad ho činila v�
 Můj ty bože, vždyť ta nebohá Anna nemohla už ani pořádně chodit po kuchyni! Štěpka od ní pomalu převzala všechny povinnosti i práva hospodyně. Do služeb Kiliánovy rodiny vstoupil Tonánek-Světýlko. Zakoupili těžkou, vypolštářovanou židli na kolečkách. Anna se nejdřív zpěčovala do ní usednout, když jí však naznačili, že jen tímto způsobem ji budou moci denně dopravovat do kostela, konečně přece povolila.
 
 Kilián kul plány, kul je vytrvale, najednou však všeho zanechal a vrátil se k starému snu, o němž již dávno přemýšlel, ale který dosud úzkostlivě tajil. Jednoho dne se začala bourat stará márnice. Na jilemnickém hřbitově rostla nádherná empírová hrobka. Psal se rok 1899.
+
+</section>

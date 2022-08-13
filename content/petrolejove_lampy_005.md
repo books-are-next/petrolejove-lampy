@@ -6,6 +6,8 @@ contentType: prose
 
 <section>
 
-![Petrolejové lampy](./resources/obalka.jpg)
+_Kde jsou ti páni?  
+Na hřbitově zakopáni.  
+(BYL JEDNOU…)_
 
 </section>

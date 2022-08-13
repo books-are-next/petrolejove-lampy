@@ -1,7 +1,10 @@
 ---
 title: '14'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Štěpka šla na své první dostaveníčko s myslí dokonale nevinnou. Namířila si to rovnou k statku, připravena usadit se na lavičce přede dveřmi, ale Pavel měl o tomto večeru své vlastní představy; sotva pojedl, vyšel na toulku kolem dvora, aby ji nepropásl. Když dívku spatřil, běžel jí rozjařené vstříc a vedl si ji podle chlévů k čertově stodole.
 
@@ -68,3 +71,5 @@ Dnešní den přinesl Štěpce Kiliánové snad již dostatečné množství poz
 Přiložila oko ke skulině vrátní, zavřených na petlici, ale jen se v temnotě trochu porozhlédla, již utíkala od boudy, jako by jí hlavu zapálil. To, co uvnitř spatřila, věru nebylo pro ctnostné dívenky minulého století! Na uválené slámě si leželi v objetí němý s Mandou. Vskutku, nebylo to tak zcela nepodobné tomu, co prve sama zažila s Pavlem, mimo některé důležité podrobnosti. Štěpka byla dostatečně nevinná, aby se nesnažila domýšlet, co jí bylo průzračnými lajtnantovými historkami naznačováno, tak hloupá však přece jen nebyla, aby nepochopila, co v boudě provádí Franc s dvorskou děvečkou. Znala od dětství až příliš dobře život domácích zvířat a drůbeže na Malinově statku. Nemohlo být ani nejmenších pochybností o tom, že zvířata i lidé, lidé zrovna tak jako zvířata — a Pavel – všichni – –!
 
 Hnala se Dolení ulicí a pak náměstím vzhůru, její hlava byla plna tohoto problému, který zatlačil do pozadí i obavy, jak ji doma přivítají rodiče. To, co spatřila v hlídačské boudě, bylo Štěpce nejen výbornou lekcí pro život, ale i vysvětlením večerních zážitků, rozluštěním tajemství jejích rozhořelých lící a z hloubi podvědomí vycházejícího úzkostlivého volání.
+
+</section>

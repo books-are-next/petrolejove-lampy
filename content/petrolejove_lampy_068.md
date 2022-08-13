@@ -1,7 +1,10 @@
 ---
 title: '7'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Pavel Malina se neroznemohl po svém bláznivém výletě, nebylo mu dopřáno tak lidsky umřít. Byl Štěpce zachován k starosti i k hrůze. K hrůze i k starosti, neboť Štěpčin den musil být nyní docela jinak rozdělen. Jak? Matka potřebovala její péči a společnost, ale stejně potřeboval její péči a společnost hejtman. Nezbylo než být neustále na nohou. Neustále mezi městečkem a Vejrychovskem. Neustále u těch dvou pacientů.
 
@@ -40,3 +43,5 @@ Hejtman přijal zprávu o úmrtí své tchyně se záhadným úšklebkem. Po jis
 Byla také jen člověk, ubohá Štěpka, byla jen prostý, uštvaný člověk, první zvednutí ruky k ráně ji svedlo. Byla již víc než syta toho věčného posluhování. Měla už také právo na trochu klidu. Začala hejtmana odvykat jeho nepěkným zvykům – bitím. Kdysi – jednou – dal se do pláče. Sedla si na zem u jeho nohou a plakala s ním. Plakala pro tak mnohé.
 
 Později, když na toto období vzpomínala, nebyla si jista, zdali se jí to všechno přihodilo doopravdy, nebo zda se jí to jen zdálo. Její sny byly zrovna tak vzrušující jako každodenní shon. Celé dny trávila u šíleného muže – připadala si už také napolo bláznivá. Naštěstí to všechno trvalo jen krátký čas. Události měly neobyčejně rychlý spád. Bylo je obtížné zaznamenávat ve zmučené hlavě.
+
+</section>

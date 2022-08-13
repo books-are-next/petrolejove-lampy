@@ -1,7 +1,10 @@
 ---
 title: '2'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Jednoho večera, jednoho z těch temných zimních večerů, kdy na lavičce u sporáku čadí svíce ustavičným průvanem, kdy vločky zalepují okna a vítr v komíně hvízdá, kdy oblaka jsou tak nízko, že se takřka dotýkají střech, a ve světnici je dusno k zalknutí, kdy jsou dávno přečteny všechny loňské i letošní kalendáře a do jarních prací je ještě daleko, seděl starý Malina za stolem, pokrytým zbytky večeře, a kouřil dýmku, proti němu Jan. Hejtman chodil dlouhými kroky od okna ke dveřím a oči mu zlobně svítily. Služka Karla, která na statku zastávala úlohu hospodyně, svářela na plotně mléko a občas se ustrašeně ohlédla.
 
@@ -54,3 +57,5 @@ Malina se postavil mezi své syny. Ruce se mu chvěly. Bezzubé dásně zůstaly
 „Jsem zvědav, otče,“ horlil vášnivě Jan, „pokusíte-li se vymluvit mi můj úmysl. Myslím, že to neuděláte. Vy víte nejlépe, že si zasloužím, aby také jednou bylo po mém. O sebe se nebojte, zajistím vám slušný výměnek. Ještě se dočkáte lepších dob, jenom co tenhle darebák bude z domu. A kdybyste si snad přece troufal, kdybyste se jen pokusil za něho orodovat, víte, co udělám. Už jsem řekl. Mám všeho až po krk a jsem ke všemu odhodlán. Tolik let jsem mlčel a nechal se vydírat, teď se budu o své právo rvát.“
 
 „Kdo by ti chtěl kazit zásnuby, chudáčku?“ dobíral si ho Pavel. „Vždyť jsi už jaksepatří zralý na ženění, jenom se tedy spánembohem ožeň. Zasnub bídu s nouzí, je to docela moudrý čin. Nudíš mě, hlupáku! Nestarám se o to, co uděláš, ani jak se ti povede. Ostatně, jak vidíš, zívám. Půjdu do postele, v níž mi milostivě dopřáváš spát. Řekl jsi, abych odtud táhl. Vyhazuješ mne. Dobrá, dobrá, nechám si odpověď na ráno. Ráno je prý moudřejší večera. Snad si ještě něco vymyslím. Kdo ví? Možná, že to budu nakonec přece jen já, který v té věci promluví poslední slovo.“ A odešel, prásknuv dveřmi. Hořel vztekem, tvář měl ztrhanou, byl překonán vnitřním napětím, které bylo nad jeho síly.
+
+</section>

@@ -1,7 +1,10 @@
 ---
 title: '6'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Ve škole Štěpka nijak zvlášť nevynikala. Učitel u ní objevil jen jediný skutečný talent: učit se nazpaměť a přednášet. Nedalo jí valnou práci nadřít třeba sebedelší básničku. Přednášela ji pak na výstupku se znamenitým patosem, který byl tehdy v módě. Nejpůsobivějšími čísly jejího programu byly bajky. Za lva mluvila hrozným lvím hlasem, za vlaštovku šveholila jako pták, na konci výstižně odlišila autorovo naučení. Tyto úspěchy jí záviděli všichni spolužáci.
 
@@ -26,3 +29,5 @@ Za několik týdnů po divadelním představení nebylo v městečku po Štěpč
 Měla příliš mnoho nedostatků, aby se někomu mohla zdát hezká. Nejvíc ji hyzdilo ochmýřené mateřské znaménko na pravé tváři. Dokonalá výslovnost a zvučný alt, schopnost recitovat a herecké umění – tím vším nemohla trvale upoutat zájem svého učitele. (Tenkrát ještě nebyl stavitel Kilián školním dozorcem.) Tlusté děti vždycky dělají dojem, jako by byly líné. Ostatně, snad opravdu byla líná. Kromě básniček v čítance ji ve škole nic nebavilo. Ukázalo se, že je zbytečné přepjatě se hlásit, raději se tedy nehlásila. Aspoň mohla v poslední lavici vedle pilné a po pochvale toužící Božky Karbanové nerušeně snít.
 
 Mám doma uschováno několik starých podobizen z konce minulého století. Jaké koketní kloboučky to tenkrát dámy nosily, v jakých podivných si to libovaly účesech! Postavy jsou znetvořeny šněrovačkami, kostýmy oplývají stuhami a volány, z obličejů zírá předčasná zralost. Tamta osoba s vlečkou, podobnou bobřímu ocasu, to není čtyřicetiletá matróna, ale sedmnáctiletá dívka, ten vousáč zde, opřený o hůl, se světlou buřinkou v týle, to není důstojný otec rodiny, nýbrž student v prvním roce práv. Bohužel, nemám vykladače k těmto obrázkům, většina jich je němá, jména jsou zapomenuta. Je však docela dobře možné, že mezi dětmi v popředí fotografie, zhotovené na jakémsi veselém výletě měšťanů do obecního lesa, kam se jelo na žebřiňáku, se soudkem piva a s pletenci uzenic, to největší ze všech, s vlasy umně nakadeřenými a podloženými hřebínkem, s bezvýrazným pohledem, tlustá, vyspělá, je Štěpánka Kiliánová. Její nohy jsou jako dva sloupy, v rukou drží toporně kytici lučních květů, jak jí je někdo podstrčil. Je oblečena do parádních, zvonovitých šatů bez pasu, má hrdlo obepjato širokou sametkou, na níž visí zlatý křížek. Na nohou má obuty vysoké knoflíčkové boty a ze sukně jí pro větší efekt vyčnívají krajkové kalhotky. Obrázek je však již zežloutlý, nezřetelný – za několik let snad vybledne docela.
+
+</section>

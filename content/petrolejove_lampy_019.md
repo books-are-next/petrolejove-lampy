@@ -1,7 +1,10 @@
 ---
 title: '13'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Malinův lajtnant přijel domů na svou první vojenskou dovolenou. Sloužil v Celovci u horských myslivců. Byl opálený jako cikán, vysoký, kostnatý, měl pod nosem knírek, na který byl velmi hrdý, a snažil se, seč byl, aby se ukázal jako muž s bohatými životními zkušenostmi.
 
@@ -58,3 +61,5 @@ Jan ještě chvíli otálel, šťoural drátem v dýmce, když však zjistil, ž
 „Večer se koupeme, vždyť je přece sobota,“ vymlouvala se Štěpka ve vší prostotě. „A zítra ráno musím s maminkou do kostela a odpoledne budu mít docela jistě také něco, každou neděli totiž něco mám, o to se už maminka postará, ale možná, že sem zaskočím zejtra po večeři.“
 
 Štěpka neodcházela ze dvora sama, po jejím boku se vlekl s kabelou v ruce lajtnant Malina, za nimi nejistě klusal Hektor. Kdyby byl mladík býval svou sestřenicí okouzlen, mohlo to vypadat jako idyla dvou nesmělých milenců, jenže, bohužel, Pavel měl daleko do jakéhokoliv okouzlení. To, co ho posedlo, byla spíš lovecká vášeň, touha dosáhnout laciného milostného vítězství.
+
+</section>

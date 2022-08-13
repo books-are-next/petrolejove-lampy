@@ -1,7 +1,10 @@
 ---
 title: '31'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 U martinického lesa vyrostla nová Cíchová fabrika. Nejen jilemničtí kluci, ale i dospělí začínají vášnivě jezdit na lyžích. Budova dívčí školy se dostavuje – nestaví ji mistr Kilián. Pokrok, pokrok, pokrok! Romantika! Romantika! Kde je školák, kde je junák, kde je muž, který nečte romány Julia Věrna a Karla Maye?
 
@@ -28,3 +31,5 @@ Co to bylo za slavné doby, tyhle výpravné kusy na jevišti jilemnických diva
 A právě na této čtvrté a poslední repríze na samém sklonku senzačního roku 1899 seděl mezi honorací muž, který tam ještě jaktěživ neseděl, vychrtlý, dlouhý chlapík s řídkými vlasy a navoskovanými kníry. Měl zapadlé, posměšné oči, tenké prsty, zažloutlé od cigaret, a byl oblečen do nenápadných šatů šedé barvy. Tento cizinec snad jediný ze všech tleskal jen jakoby z donucení, unaveně, líně, s opovržením. Pouze tehdy, když se Štěpka Kiliánová koulela jako obrovský balík látky po úbočí sesouvající se hory, zkřivil jeho vyžilou tvář ohavný škleb a kostnaté dlaně zavířily jako velikonoční klapačka. Potom si zas nasadil masku urážlivé lhostejnosti.
 
 Tento záhadný člověk, tento ledový muž mezi všemi těmi horoucími nadšenci, ten panák bez kapky krve v žilách, či snad příliš světem protřelý pán, který viděl už jinší scény a byl zvyklý jinší romantice, nebyl nikdo jiný než hejtman Pavel Malina, který dlel od neděle na Vejrychovsku u otce a bratra na trvalé dovolené.
+
+</section>

@@ -1,7 +1,10 @@
 ---
 title: '4'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Nakonec se situace ve statku vyvinula zcela v Pavlův prospěch. Starý Malina se stal přes noc diplomatem. Ožil. Všechna vetchost z něho spadla. Statek mohl zas nabýt bývalé slávy! Této slávě byl ochoten obětovat lepšího ze svých synů. Nyní již nechtěl ani slyšet o Janově sňatku s děvečkou. Nadhazoval, že by bylo na čase, aby se odtud klidila ta osoba, která si činila zálusk na Malinovo jméno. Bohatství! Uším starého sedláka to znělo jako nebeská hudba. Nechť se jen Pavel se sestřenicí dohodne a vyžení peníze švagra Kiliána! Cesta, jíž se dal mladší syn, by mohla být i cestou Janovou. Do statku, zbaveného dluhů, se pak snadno najde i druhá bohatá nevěsta.
 
@@ -68,3 +71,5 @@ Jedné únorové neděle na sebe navlekl parádní stejnokroj, opásal se šavl�
 „Kam jdeš? Kam jdeš?“ ptali se ho dychtivě, tušíce odpověď již předem.
 
 „Kam bych šel? Navštívit strýčka a tetičku Kiliánovic,“ s pýchou se přiznával hejtman. Jeho vychrtlá postava se napřímila.
+
+</section>

@@ -1,7 +1,10 @@
 ---
 title: '24'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Neseznámila se s berním Antonínem Gromanem na výletě, nýbrž ve vlastním, kiliánovském domě. Vida, tak přece jen se činžák k něčemu hodil, přece jen bylo ubytování státních úřadů v prvém poschodí k něčemu dobré! Dům byl kolébkou a výlety příležitostí k rozkvětu vzájemné náklonnosti.
 
@@ -44,3 +47,5 @@ Dojetí této tvrdé, statné dívky, která nebývala nikdy náchylná k plá�
 Nepromluvili spolu ani jediného slova, on se poddával její útěšné činnosti, ona s přivřenými víčky prožívala slast ochránkyně a majitelky. Když o malou chvíli později vstávali, Groman se k ní přitočil a chvatně, neobratně, jaksi šikmo ji políbil. To byla druhá hubička v životě Štěpky Kiliánové.
 
 Při návratu k ostatní společnosti zažili nemilé překvapení. Jejich celkem nevinný únik byl zpozorován a nyní se jen trpělivě čekalo, až se provinilci vynoří z mlází, červení jako raci. Ačkoli se vrátili skoro schlíple, jásavý smích mládeže neznal mezí. Děvčata běžela Štěpce v ústrety plna účasti, jako by byla právě sestoupila s ženichem od oltáře. Štěpka i berní se kysele usmívali, nebyli na takové ovace připraveni. Tímto způsobem vyslovila jilemnická veřejnost souhlas s jejich známostí. Pokračovat v ní bylo od nynějška takřka jejich občanskou povinností.
+
+</section>

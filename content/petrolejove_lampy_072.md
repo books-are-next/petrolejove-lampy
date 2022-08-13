@@ -1,7 +1,10 @@
 ---
 title: '11'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Hejtman Malina nebude ležet v nádherné kamenné hrobce, ale v obyčejném hrobě, jako si to přál mistr Kilián, Štěpka však na něho nezapomene. Štěpka mu jeho smutný příbytek ve vlhké hlíně ozdobí, jak jen živí dovedou okrášlit hroby svých mrtvých. Bude mít pomník s nápisem, ne jako Vejrych hrob beze jména, bude mít kvítí, svíčky a to všechno, nebude opomíjen, nebude osiřelý, ne, to nebude! Štěpka si to odpřisáhla. Květiny a světlo, slzy a vzpomínky, všechno bude mít jako ostatní slušní nebožtíci. O Dušičkách papírovou podušku s růžemi, nakadeřenými na vlásence, a stuhy z věnců, které mu dnes darovali.
 
@@ -54,3 +57,5 @@ Petrolejka se malounko kývá. Štěpka jde k oknu, aby zatáhla roletu, tam se 
 „Zkusím to,“ umiňuje si Jan. „Počkám tak dva tři měsíce a pak jí to řeknu. Co se mi může stát? Nanejvýš mě odmítne. Ona mě však neodmítne. Také pochopí, co by to pro nás oba mohlo znamenat. Statek nás spojí.“
 
 Starý Malina mžourá do světla zapadlýma, kalnýma očima jako churavý pták. Manča v kuchyni hlučně přikládá do kamen.
+
+</section>

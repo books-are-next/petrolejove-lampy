@@ -1,7 +1,10 @@
 ---
 title: '9'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Nikdo by byl v městečku nehádal, že se stavitel Kilián jednou vzdá tak zcela bez boje, a přece se to stalo. Mohr se jmenoval ten mladý člověk a začal skoro stejně jako před lety Kilián: bohatě se oženil s dcerou vinopalníkovou, skoupil řadu výhodných parcel a dal se do stavění. Přátelé na Kiliána naléhali, aby proti němu něco udělal, ale Kilián jen mávl rukou: „Ech, ať se činí!“ A neudělal nic. Inu, je to už starý pán a nemá právě čas na rozepře s tím mladým člověkem. Mohr začíná a Kilián už skončil. Totiž – co nejdřív skončí, jen co dostaví na Vejrychovsku pro dceru panský dům.
 
@@ -46,3 +49,5 @@ V příborníku je spousta skla, porcelánu a tret, ale ještě tam není všech
 Nesmíme opominout ani záchod, k němuž se stoupá po schůdcích jako na trůn. A teď pojďme do sklepa, do prostorného, laťkovými stěnami rozděleného sklepa, na kterém si otec Kilián dal obzvlášť záležet, a zastavme se i ve spíži, ve které je dosud jen několik lahví se zavařeninami, vylezme až na půdu, kde to voní hoblovačkami! Rády bychom si poseděly v salóně při sklence sladké rosolky, slízly nějaké to dobré sousto, ale Štěpka ještě nemá, co by nám podala, není to její domácnost, je to jen novostavba. Ale stálo to za to, holky, viďte, že ano? Jakže se jmenovaly ty rudé máky na stropě? Sesese, nebo snad cecece? Hihihihi-ha-ha-ha-hahaha!
 
 V říjnu, když pršelo listí ze stromů na martinickou silnici, když v komínech neobydleného domu kvílela meluzína a do rozbahnělých polí sršel drobný déšť, měli Štěpka Kiliánová a hejtman Pavel Malina v jilemnickém kostele svatého Vavřince první ohlášky. Za týden potom vyšlo v knihtiskárně bratří Holatů oznámení na křídovém papíře, ozdobené v levém rohu růžičkou. Svatba byla stanovena na desátý listopad. Ještě před adventem, dřív než nastane pravá horská zima, budou se novomanželé hřát u vlastních kamen! Ke Kiliánovům se přistěhovala Francka Pelcnerová, malá rozložitá tetka s řídkým hnědým drdůlkem na temeni hlavy, s měkkými převislými tvářemi, jejichž červeň tvořily dva ostrůvky šarlatové vyrážky. Štěpčino místo hospodyně bylo obsazeno.
+
+</section>

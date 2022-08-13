@@ -1,7 +1,10 @@
 ---
 title: '2'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Patnáctého února se v městečku málokde klidně obědvalo. Slavný pohřeb je něco stejně zábavného jako slavná svatba. Na dveře nízkého domku u školy přibili černé smuteční závěsy, zledovatělý chodník, který tak dozlobil mistra Kiliána v poslední den jeho života, posypali škvárou. Na škole, na radnici, na hospodě U božího oka, kde měla sídlo Řemeslnická beseda, visely černé prapory. Portál kostela byl stejně vyzdoben jako dům smutku, na hlavních ulicích byly rozžaty svítilny.
 
@@ -24,3 +27,5 @@ U hřbitovních vrat se průvod na okamžik zastavil, bylo nutno vytáhnout rake
 Cesta mezi pomníky a kříži, syrová, vlhká cesta hrbolatou sněhovou plání. Zde spí příští otcova společnost, dávní i nedávní mrtví, oplakávaní i zapomenutí. Zde jednou ulehne i ona, i ona! A bouřlivou láskou zmítané srdce zatoužilo, aby to bylo již dnes, hned, nebo aspoň co nejdříve. Ne, život již nebude mít pro Štěpku žádné půvaby. Dvůr, pole, každodenní starosti, radost z práce, naděje do budoucnosti – všechno se stalo dokonale bezvýznamným. Její vlastní manželské neštěstí – také naprosto bezvýznamné.
 
 Schodiště, z něhož byl pečlivě vymeten sníh, otevřená hrobka, červené světélko, visící na řetízcích z výše hvězdnaté klenby – smutné vyplakané oko – jsme u cíle. A v kupoli zacinkal zvoneček, tenounce, stříbrně, vlídně, mladistvě – nikdy ještě nezněl, dnes zazněl poprvé – a také on si stýskal dětským, žalujícím hláskem: Kili-án, Kili-án.
+
+</section>

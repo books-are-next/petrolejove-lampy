@@ -1,7 +1,10 @@
 ---
 title: '20'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Ráno na svatého Jana Nepomuckého se vypravil Kilián se Štěpkou na Vejrychovsko s gratulací. Anna neměla tak naspěch, šla tam sama téměř se samým večerem.
 
@@ -84,3 +87,5 @@ Kilián to dostane do ruky! To bylo ze všeho to nejhorší. Muž se to doví! N
 Klopýtla, dívala se na špičky svých obrovských bot, rty se jí pohybovaly, jako by bránila své lidi, lidi ze selského, před celým městečkem. Ano, ovšem, městečko také všechno zví o tom hazardníkovi, o tom mizerném floutkovi v uniformě! Kdyby ho tak teď Anna měla při ruce, kdyby ho tak dostala do svých spárů – –
 
 Když se jednoho srpnového odpoledne, asi za čtvrt roku po nepodařené sváteční gratulaci, Kilián vrátil z města trochu předčasně, a zastaviv se prkenně u dveří, utkvěl na Anně překvapenýma, vyboulenýma očima, věděla, o čem jí bude svým rozvláčným, pedantským způsobem vykládat. Znala ho tak dobře! Byla to pro ni hrozná rána. Pořád čekala, až dopadne, počítala měsíce, počítala týdny, až se konečně přece dočkala.
+
+</section>

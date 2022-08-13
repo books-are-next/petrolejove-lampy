@@ -1,7 +1,10 @@
 ---
 title: '15'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Nevyslýchali ji, nepodezírali, spokojili se s jejími nejapnými výmluvami. Štěpce spadl kámen ze srdce. Když pak zkušenost od hlídačské boudy, zbavená první pronikavé příchuti, byla zařaděna mezi všechny dosavadní zkušenosti – nebyla by to ani Štěpka Kiliánová, aby se nedovedla se vším na světě smířit – zbyla jí k přemýšlení již jen jediná nedělní událost, dostaveníčko s Pavlem. Pavel! Po léta se k ní nehlásil a teď k ní byl najednou tak vlídný, choval se k ní tak důvěrně! Jak ji přemlouval, jak s ní trpělivě chodil po mezích a projevoval nepokrytě radost z toho, že ji opět vidí! Vysvětlení bylo nasnadě, ale Štěpka nestála o takové vysvětlení, její snivá bytost v ní nabyla vrchu. Po dvou dnech přišla pošetilá Štěpka na to, že tajemství Pavlových chtivých pohledů, nyvost jeho hlasu a jeho útočnost, to všechno dohromady že není nic jiného než láska! Od toho okamžiku ji nemohlo již nic zadržet, aby neletěla na Vejrychovsko za svým milencem. Příležitost se našla snadno, Kiliánovi potřebovali vejce.
 
@@ -36,3 +39,5 @@ Ostatně začala brzy všednost běžících chvil své zhoubné tažení proti 
 V Kiliánově činžáku míjela hodina za hodinou, jak je odbíjely neúnavné opakovačky na radniční věži, týden za týdnem, měsíc za měsícem. Stavitel se ráno probouzel a dům byl již ze všech stran obklíčen zedníky. Anna se do pozdního večera věnovala svým povinnostem hospodyně a význačné měšťky, mandl hřměl nad hlavou, za plechovým orlem opět štěbetali vrabci. Traklová drhla podlahu se zaťatými zuby, Lojzík na stoličce u dveří zlobně svítil očima a páchl. Lidé, kteří se proplétali ulicí, míříce na náměstí, vypadali z okna jako pidimužíci. Štěpčina brada padala na lokty, oči se přivíraly, to se to klímalo, propadalo do snů, barvy bavlnek se pletly, maminka hubovala.
 
 V září přijel do Jilemnice taneční mistr. Byl chudý jako kostelní myš a právě tak olezlý, byl to však opravdový taneční mistr. Když byl pochodil dům od domu, klepal tu, zaklepal onde, bylo mu milostivě dovoleno, aby v městě uspořádal taneční hodiny. U stavitelů rozhodli, že Štěpka má už také patřičná léta, aby mohla být oficiálně představena jilemnické mužské společnosti, a tak byl předčasně upečený pecen konečně se vší okázalostí předložen – prozatím k obhlédnutí. Aby nebyl pokoutně ochutnán, k tomu zde byly pichlavé, ostražité oči Anny Kiliánové.
+
+</section>

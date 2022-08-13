@@ -1,7 +1,10 @@
 ---
 title: '17'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Kdyby byla Štěpka psala kroniku svého života, docela jistě by byla vyznačila rok 1901 jako šťastný, snad ze všech dosavadních za nejšťastnější. Je až ku podivu, jak se jí karta obrátila! Ze zklamané ženy, rmoutící se nad svým osudem, se stala hospodyní, cele zaujatou svou prací na statku. V usilovném snažení a starostech našla náhradu za všechny ztracené iluze o manželství, dovedla při nich zapomenout i na svou největší bolest, na děťátko, které, jak se zdálo, se nikdy nemělo narodit.
 
@@ -48,3 +51,5 @@ Kiliánovi to tak zcela jednoduché a pochopitelné nebylo, ale co počít s tou
 Zato bylo to všechno zcela pochopitelné Anně – v té měla teď Štěpka nejhorlivější zastánkyni.
 
 Bylo vůbec s podivem, jak se stárnoucí a chátrající Anna změnila. Stala se poddajnou a měkkou. Místo Štěpko říkala dceři Štěpánko a o hospodářství a o polních pracích si dávala dlouze a široce vyprávět. Ubohá, okřávala při zprávě o každém vylíhlém kuřeti, žila tak znovu dávné dětství. Škoda jen, že Štěpka k ní přicházela tak zřídka kdy a tak nakrátko. Ale je to od ní hezké, že se o svůj statek tak poctivě stará. Vždyť jde o dvůr, o staré Vejrychovsko! A stařena pokyvovala hlavou a shledávala, že to vlastně v rodině ještě dosti šťastně dopadlo. Hejtman není ovšem tím mužem, jakým by měl být, ale my, děvčata z venkova, tak zcela nespoléháme na velectěného pana manžela. Není všechno jen on, je tu také ještě něco jiného. Nejsme líné, zhýčkané, nepášeme sebevraždy, když se nám zrovna něco nevydaří, když přijde zklamání. Máme zemi pro sebe a pro své děti, máme budoucnost, která je spolehlivá a jasná. Člověk nemůže mít všechno. Jedno získá a druhé ztratí. Štěpka získala to nejlepší ze všech lidských věcí.
+
+</section>

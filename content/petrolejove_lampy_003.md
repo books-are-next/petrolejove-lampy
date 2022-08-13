@@ -6,6 +6,8 @@ contentType: prose
 
 <section>
 
-![Petrolejové lampy](./resources/obalka.jpg)
+Petrolejové lampy
+
+Jaroslav Havlíček
 
 </section>

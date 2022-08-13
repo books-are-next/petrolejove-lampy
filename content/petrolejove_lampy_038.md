@@ -1,7 +1,10 @@
 ---
 title: '32'
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Španělsko bylo poraženo Spojenými státy a jeho loďstvo zničeno, v Jižní Africe planula válka, Búrové se udatně bránili červenokabátníkům, jména Krüger a De Wett šla od úst k ústům, stateční kluci z náměstí bojovali búrskou válku s kluky z Jilmu a Štěpka Kiliánová se radovala ze své nové válečné příležitosti, ze své pozdní válečné příležitosti – ale kde se, u čerta, v městečku vzal hejtman Malina?
 
@@ -50,3 +53,5 @@ O dva dny později narazil na vozík s ubohou, bezvládnou Annou. Tonánkovi se 
 Odcházel s jednou rukou za zády – luskal si prsty – druhou si přikrýval ústa. Uvnitř se smál, smál se jako pominutý. Snad měla děvečka Francka přece jen pravdu, když se pokřižovala, kdykoli ho měla potkat. Snad ji nadarmo neděsil jeho bizarní stín.
 
 Obleva byla vystřídána mrazy, po dva dny bylo okolo statku všecko hladké a lesklé jako zrcadlo, pak se opět začal trousit sníh. Slunce se již neukázalo až do konce roku. Kokrháč zmizel za záclonou chumelenice. Na Štědrý večer starý Pěnička slavnostně vytruboval na roh hodinu za hodinou, vypadal v kožiše, s halapartnou a s huňatou čepicí na uši jak ponocný od jesliček. Stromky se rozsvítily a jeden po druhém pomalu hasly. U domovních dveří zadupali koledníčkové. Potom opět nastaly všední dni. Ještě cosi však bylo očekáváno – vzrušený a ponurý hlahol zvonů, jaký zazní vždycky jen jednou za sto let.
+
+</section>
