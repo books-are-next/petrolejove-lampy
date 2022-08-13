@@ -5,16 +5,13 @@
   "title": "Petrolejové lampy",
   "author": "Jaroslav Havlíček",
   "publisher": "Městská knihovna v Praze",
-  "edition": "beletrie",
+  "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "havlicek-petrolejove-lampy-accaf44",
-  "revision": "accaf44",
+  "identifier": "havlicek-petrolejove-lampy-baef9f6",
+  "revision": "baef9f6",
   "readingOrder": [
     "promo.html",
-    "petrolejove_lampy_002.html",
-    "petrolejove_lampy_003.html",
-    "petrolejove_lampy_004.html",
     "petrolejove_lampy_005.html",
     "petrolejove_lampy_006.html",
     "petrolejove_lampy_007.html",
@@ -82,12 +79,11 @@
     "petrolejove_lampy_069.html",
     "petrolejove_lampy_070.html",
     "petrolejove_lampy_071.html",
-    "petrolejove_lampy_072.html",
-    "petrolejove_lampy_073.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Aug 13 2022 09:30:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1660383009821
+    "date": "Sat Aug 13 2022 09:42:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1660383759253
   },
   "documents": [
     {
@@ -99,68 +95,8 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "petrolejove_lampy_002.html",
-      "toc": []
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_002.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 1,
-      "prev": "promo.html",
-      "next": "petrolejove_lampy_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_003.html",
-      "words": 4,
-      "chars": 34,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "petrolejove_lampy_002.html",
-      "next": "petrolejove_lampy_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_004.html",
-      "words": 118,
-      "chars": 902,
-      "ideas": 9,
-      "role": "chapter",
-      "order": 3,
-      "prev": "petrolejove_lampy_003.html",
       "next": "petrolejove_lampy_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Petrolejové lampy",
@@ -169,8 +105,8 @@
       "chars": 51,
       "ideas": 3,
       "role": "chapter",
-      "order": 4,
-      "prev": "petrolejove_lampy_004.html",
+      "order": 1,
+      "prev": "promo.html",
       "next": "petrolejove_lampy_006.html",
       "toc": [
         {
@@ -189,7 +125,7 @@
       "chars": 17,
       "ideas": 1,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "petrolejove_lampy_005.html",
       "next": "petrolejove_lampy_007.html",
       "toc": [
@@ -209,7 +145,7 @@
       "chars": 5015,
       "ideas": 12,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "petrolejove_lampy_006.html",
       "next": "petrolejove_lampy_008.html",
       "toc": [
@@ -229,7 +165,7 @@
       "chars": 6463,
       "ideas": 13,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "petrolejove_lampy_007.html",
       "next": "petrolejove_lampy_009.html",
       "toc": [
@@ -249,7 +185,7 @@
       "chars": 6903,
       "ideas": 17,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "petrolejove_lampy_008.html",
       "next": "petrolejove_lampy_010.html",
       "toc": [
@@ -269,7 +205,7 @@
       "chars": 6275,
       "ideas": 15,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "petrolejove_lampy_009.html",
       "next": "petrolejove_lampy_011.html",
       "toc": [
@@ -289,7 +225,7 @@
       "chars": 9550,
       "ideas": 17,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "petrolejove_lampy_010.html",
       "next": "petrolejove_lampy_012.html",
       "toc": [
@@ -309,7 +245,7 @@
       "chars": 6236,
       "ideas": 13,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "petrolejove_lampy_011.html",
       "next": "petrolejove_lampy_013.html",
       "toc": [
@@ -329,7 +265,7 @@
       "chars": 7275,
       "ideas": 20,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "petrolejove_lampy_012.html",
       "next": "petrolejove_lampy_014.html",
       "toc": [
@@ -349,7 +285,7 @@
       "chars": 8699,
       "ideas": 17,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "petrolejove_lampy_013.html",
       "next": "petrolejove_lampy_015.html",
       "toc": [
@@ -369,7 +305,7 @@
       "chars": 6073,
       "ideas": 9,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "petrolejove_lampy_014.html",
       "next": "petrolejove_lampy_016.html",
       "toc": [
@@ -389,7 +325,7 @@
       "chars": 5648,
       "ideas": 16,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "petrolejove_lampy_015.html",
       "next": "petrolejove_lampy_017.html",
       "toc": [
@@ -409,7 +345,7 @@
       "chars": 7020,
       "ideas": 14,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "petrolejove_lampy_016.html",
       "next": "petrolejove_lampy_018.html",
       "toc": [
@@ -429,7 +365,7 @@
       "chars": 10284,
       "ideas": 22,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "petrolejove_lampy_017.html",
       "next": "petrolejove_lampy_019.html",
       "toc": [
@@ -449,7 +385,7 @@
       "chars": 8917,
       "ideas": 29,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "petrolejove_lampy_018.html",
       "next": "petrolejove_lampy_020.html",
       "toc": [
@@ -469,7 +405,7 @@
       "chars": 8813,
       "ideas": 34,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "petrolejove_lampy_019.html",
       "next": "petrolejove_lampy_021.html",
       "toc": [
@@ -489,7 +425,7 @@
       "chars": 9613,
       "ideas": 18,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "petrolejove_lampy_020.html",
       "next": "petrolejove_lampy_022.html",
       "toc": [
@@ -509,7 +445,7 @@
       "chars": 7232,
       "ideas": 14,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "petrolejove_lampy_021.html",
       "next": "petrolejove_lampy_023.html",
       "toc": [
@@ -529,7 +465,7 @@
       "chars": 7531,
       "ideas": 27,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "petrolejove_lampy_022.html",
       "next": "petrolejove_lampy_024.html",
       "toc": [
@@ -549,7 +485,7 @@
       "chars": 7007,
       "ideas": 10,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "petrolejove_lampy_023.html",
       "next": "petrolejove_lampy_025.html",
       "toc": [
@@ -569,7 +505,7 @@
       "chars": 8409,
       "ideas": 16,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "petrolejove_lampy_024.html",
       "next": "petrolejove_lampy_026.html",
       "toc": [
@@ -589,7 +525,7 @@
       "chars": 11510,
       "ideas": 42,
       "role": "chapter",
-      "order": 25,
+      "order": 22,
       "prev": "petrolejove_lampy_025.html",
       "next": "petrolejove_lampy_027.html",
       "toc": [
@@ -609,7 +545,7 @@
       "chars": 9878,
       "ideas": 28,
       "role": "chapter",
-      "order": 26,
+      "order": 23,
       "prev": "petrolejove_lampy_026.html",
       "next": "petrolejove_lampy_028.html",
       "toc": [
@@ -629,7 +565,7 @@
       "chars": 9353,
       "ideas": 23,
       "role": "chapter",
-      "order": 27,
+      "order": 24,
       "prev": "petrolejove_lampy_027.html",
       "next": "petrolejove_lampy_029.html",
       "toc": [
@@ -649,7 +585,7 @@
       "chars": 10846,
       "ideas": 18,
       "role": "chapter",
-      "order": 28,
+      "order": 25,
       "prev": "petrolejove_lampy_028.html",
       "next": "petrolejove_lampy_030.html",
       "toc": [
@@ -669,7 +605,7 @@
       "chars": 10215,
       "ideas": 22,
       "role": "chapter",
-      "order": 29,
+      "order": 26,
       "prev": "petrolejove_lampy_029.html",
       "next": "petrolejove_lampy_031.html",
       "toc": [
@@ -689,7 +625,7 @@
       "chars": 7388,
       "ideas": 14,
       "role": "chapter",
-      "order": 30,
+      "order": 27,
       "prev": "petrolejove_lampy_030.html",
       "next": "petrolejove_lampy_032.html",
       "toc": [
@@ -709,7 +645,7 @@
       "chars": 7927,
       "ideas": 21,
       "role": "chapter",
-      "order": 31,
+      "order": 28,
       "prev": "petrolejove_lampy_031.html",
       "next": "petrolejove_lampy_033.html",
       "toc": [
@@ -729,7 +665,7 @@
       "chars": 10460,
       "ideas": 17,
       "role": "chapter",
-      "order": 32,
+      "order": 29,
       "prev": "petrolejove_lampy_032.html",
       "next": "petrolejove_lampy_034.html",
       "toc": [
@@ -749,7 +685,7 @@
       "chars": 8762,
       "ideas": 13,
       "role": "chapter",
-      "order": 33,
+      "order": 30,
       "prev": "petrolejove_lampy_033.html",
       "next": "petrolejove_lampy_035.html",
       "toc": [
@@ -769,7 +705,7 @@
       "chars": 10644,
       "ideas": 31,
       "role": "chapter",
-      "order": 34,
+      "order": 31,
       "prev": "petrolejove_lampy_034.html",
       "next": "petrolejove_lampy_036.html",
       "toc": [
@@ -789,7 +725,7 @@
       "chars": 9796,
       "ideas": 15,
       "role": "chapter",
-      "order": 35,
+      "order": 32,
       "prev": "petrolejove_lampy_035.html",
       "next": "petrolejove_lampy_037.html",
       "toc": [
@@ -809,7 +745,7 @@
       "chars": 7576,
       "ideas": 14,
       "role": "chapter",
-      "order": 36,
+      "order": 33,
       "prev": "petrolejove_lampy_036.html",
       "next": "petrolejove_lampy_038.html",
       "toc": [
@@ -829,7 +765,7 @@
       "chars": 10805,
       "ideas": 25,
       "role": "chapter",
-      "order": 37,
+      "order": 34,
       "prev": "petrolejove_lampy_037.html",
       "next": "petrolejove_lampy_039.html",
       "toc": [
@@ -849,7 +785,7 @@
       "chars": 10892,
       "ideas": 62,
       "role": "chapter",
-      "order": 38,
+      "order": 35,
       "prev": "petrolejove_lampy_038.html",
       "next": "petrolejove_lampy_040.html",
       "toc": [
@@ -869,7 +805,7 @@
       "chars": 9163,
       "ideas": 41,
       "role": "chapter",
-      "order": 39,
+      "order": 36,
       "prev": "petrolejove_lampy_039.html",
       "next": "petrolejove_lampy_041.html",
       "toc": [
@@ -889,7 +825,7 @@
       "chars": 6564,
       "ideas": 27,
       "role": "chapter",
-      "order": 40,
+      "order": 37,
       "prev": "petrolejove_lampy_040.html",
       "next": "petrolejove_lampy_042.html",
       "toc": [
@@ -909,7 +845,7 @@
       "chars": 6581,
       "ideas": 30,
       "role": "chapter",
-      "order": 41,
+      "order": 38,
       "prev": "petrolejove_lampy_041.html",
       "next": "petrolejove_lampy_043.html",
       "toc": [
@@ -929,7 +865,7 @@
       "chars": 6556,
       "ideas": 34,
       "role": "chapter",
-      "order": 42,
+      "order": 39,
       "prev": "petrolejove_lampy_042.html",
       "next": "petrolejove_lampy_044.html",
       "toc": [
@@ -949,7 +885,7 @@
       "chars": 12365,
       "ideas": 48,
       "role": "chapter",
-      "order": 43,
+      "order": 40,
       "prev": "petrolejove_lampy_043.html",
       "next": "petrolejove_lampy_045.html",
       "toc": [
@@ -969,7 +905,7 @@
       "chars": 9610,
       "ideas": 34,
       "role": "chapter",
-      "order": 44,
+      "order": 41,
       "prev": "petrolejove_lampy_044.html",
       "next": "petrolejove_lampy_046.html",
       "toc": [
@@ -989,7 +925,7 @@
       "chars": 8466,
       "ideas": 34,
       "role": "chapter",
-      "order": 45,
+      "order": 42,
       "prev": "petrolejove_lampy_045.html",
       "next": "petrolejove_lampy_047.html",
       "toc": [
@@ -1009,7 +945,7 @@
       "chars": 11768,
       "ideas": 25,
       "role": "chapter",
-      "order": 46,
+      "order": 43,
       "prev": "petrolejove_lampy_046.html",
       "next": "petrolejove_lampy_048.html",
       "toc": [
@@ -1029,7 +965,7 @@
       "chars": 11149,
       "ideas": 23,
       "role": "chapter",
-      "order": 47,
+      "order": 44,
       "prev": "petrolejove_lampy_047.html",
       "next": "petrolejove_lampy_049.html",
       "toc": [
@@ -1049,7 +985,7 @@
       "chars": 11324,
       "ideas": 16,
       "role": "chapter",
-      "order": 48,
+      "order": 45,
       "prev": "petrolejove_lampy_048.html",
       "next": "petrolejove_lampy_050.html",
       "toc": [
@@ -1069,7 +1005,7 @@
       "chars": 8622,
       "ideas": 20,
       "role": "chapter",
-      "order": 49,
+      "order": 46,
       "prev": "petrolejove_lampy_049.html",
       "next": "petrolejove_lampy_051.html",
       "toc": [
@@ -1089,7 +1025,7 @@
       "chars": 11933,
       "ideas": 30,
       "role": "chapter",
-      "order": 50,
+      "order": 47,
       "prev": "petrolejove_lampy_050.html",
       "next": "petrolejove_lampy_052.html",
       "toc": [
@@ -1109,7 +1045,7 @@
       "chars": 6791,
       "ideas": 27,
       "role": "chapter",
-      "order": 51,
+      "order": 48,
       "prev": "petrolejove_lampy_051.html",
       "next": "petrolejove_lampy_053.html",
       "toc": [
@@ -1129,7 +1065,7 @@
       "chars": 9700,
       "ideas": 17,
       "role": "chapter",
-      "order": 52,
+      "order": 49,
       "prev": "petrolejove_lampy_052.html",
       "next": "petrolejove_lampy_054.html",
       "toc": [
@@ -1149,7 +1085,7 @@
       "chars": 11915,
       "ideas": 31,
       "role": "chapter",
-      "order": 53,
+      "order": 50,
       "prev": "petrolejove_lampy_053.html",
       "next": "petrolejove_lampy_055.html",
       "toc": [
@@ -1169,7 +1105,7 @@
       "chars": 8381,
       "ideas": 17,
       "role": "chapter",
-      "order": 54,
+      "order": 51,
       "prev": "petrolejove_lampy_054.html",
       "next": "petrolejove_lampy_056.html",
       "toc": [
@@ -1189,7 +1125,7 @@
       "chars": 12332,
       "ideas": 24,
       "role": "chapter",
-      "order": 55,
+      "order": 52,
       "prev": "petrolejove_lampy_055.html",
       "next": "petrolejove_lampy_057.html",
       "toc": [
@@ -1209,7 +1145,7 @@
       "chars": 9032,
       "ideas": 36,
       "role": "chapter",
-      "order": 56,
+      "order": 53,
       "prev": "petrolejove_lampy_056.html",
       "next": "petrolejove_lampy_058.html",
       "toc": [
@@ -1229,7 +1165,7 @@
       "chars": 10737,
       "ideas": 25,
       "role": "chapter",
-      "order": 57,
+      "order": 54,
       "prev": "petrolejove_lampy_057.html",
       "next": "petrolejove_lampy_059.html",
       "toc": [
@@ -1249,7 +1185,7 @@
       "chars": 10040,
       "ideas": 33,
       "role": "chapter",
-      "order": 58,
+      "order": 55,
       "prev": "petrolejove_lampy_058.html",
       "next": "petrolejove_lampy_060.html",
       "toc": [
@@ -1269,7 +1205,7 @@
       "chars": 9162,
       "ideas": 16,
       "role": "chapter",
-      "order": 59,
+      "order": 56,
       "prev": "petrolejove_lampy_059.html",
       "next": "petrolejove_lampy_061.html",
       "toc": [
@@ -1289,7 +1225,7 @@
       "chars": 7597,
       "ideas": 16,
       "role": "chapter",
-      "order": 60,
+      "order": 57,
       "prev": "petrolejove_lampy_060.html",
       "next": "petrolejove_lampy_062.html",
       "toc": [
@@ -1309,7 +1245,7 @@
       "chars": 10753,
       "ideas": 19,
       "role": "chapter",
-      "order": 61,
+      "order": 58,
       "prev": "petrolejove_lampy_061.html",
       "next": "petrolejove_lampy_063.html",
       "toc": [
@@ -1329,7 +1265,7 @@
       "chars": 7372,
       "ideas": 12,
       "role": "chapter",
-      "order": 62,
+      "order": 59,
       "prev": "petrolejove_lampy_062.html",
       "next": "petrolejove_lampy_064.html",
       "toc": [
@@ -1349,7 +1285,7 @@
       "chars": 9715,
       "ideas": 28,
       "role": "chapter",
-      "order": 63,
+      "order": 60,
       "prev": "petrolejove_lampy_063.html",
       "next": "petrolejove_lampy_065.html",
       "toc": [
@@ -1369,7 +1305,7 @@
       "chars": 7888,
       "ideas": 20,
       "role": "chapter",
-      "order": 64,
+      "order": 61,
       "prev": "petrolejove_lampy_064.html",
       "next": "petrolejove_lampy_066.html",
       "toc": [
@@ -1389,7 +1325,7 @@
       "chars": 11795,
       "ideas": 41,
       "role": "chapter",
-      "order": 65,
+      "order": 62,
       "prev": "petrolejove_lampy_065.html",
       "next": "petrolejove_lampy_067.html",
       "toc": [
@@ -1409,7 +1345,7 @@
       "chars": 13228,
       "ideas": 46,
       "role": "chapter",
-      "order": 66,
+      "order": 63,
       "prev": "petrolejove_lampy_066.html",
       "next": "petrolejove_lampy_068.html",
       "toc": [
@@ -1429,7 +1365,7 @@
       "chars": 8021,
       "ideas": 20,
       "role": "chapter",
-      "order": 67,
+      "order": 64,
       "prev": "petrolejove_lampy_067.html",
       "next": "petrolejove_lampy_069.html",
       "toc": [
@@ -1449,7 +1385,7 @@
       "chars": 11502,
       "ideas": 41,
       "role": "chapter",
-      "order": 68,
+      "order": 65,
       "prev": "petrolejove_lampy_068.html",
       "next": "petrolejove_lampy_070.html",
       "toc": [
@@ -1469,7 +1405,7 @@
       "chars": 7905,
       "ideas": 17,
       "role": "chapter",
-      "order": 69,
+      "order": 66,
       "prev": "petrolejove_lampy_069.html",
       "next": "petrolejove_lampy_071.html",
       "toc": [
@@ -1489,9 +1425,9 @@
       "chars": 12342,
       "ideas": 24,
       "role": "chapter",
-      "order": 70,
+      "order": 67,
       "prev": "petrolejove_lampy_070.html",
-      "next": "petrolejove_lampy_072.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1503,40 +1439,20 @@
       ]
     },
     {
-      "title": "11",
-      "file": "petrolejove_lampy_072.html",
-      "words": 1980,
-      "chars": 12052,
-      "ideas": 27,
-      "role": "chapter",
-      "order": 71,
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 163,
+      "chars": 1193,
+      "ideas": 17,
+      "role": "about",
+      "order": null,
       "prev": "petrolejove_lampy_071.html",
-      "next": "petrolejove_lampy_073.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "11",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_073.html",
-      "words": 34,
-      "chars": 207,
-      "ideas": 9,
-      "role": "chapter",
-      "order": 72,
-      "prev": "petrolejove_lampy_072.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -1545,14 +1461,14 @@
   ],
   "totals": {
     "all": {
-      "words": 98839,
-      "chars": 602637,
-      "ideas": 1607
+      "words": 96864,
+      "chars": 590630,
+      "ideas": 1575
     },
     "chapters": {
-      "words": 98832,
-      "chars": 602587,
-      "ideas": 1602
+      "words": 96695,
+      "chars": 589392,
+      "ideas": 1554
     }
   }
 }

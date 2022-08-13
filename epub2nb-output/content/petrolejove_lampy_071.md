@@ -26,7 +26,11 @@ Vyjížděli z jakéhosi nádraží, ztopeného v mlhu, v níž se rozplývala z
 
 Jak jím vlak cloumal ze strany na stranu, ruka s novinami klesala níž a níž. Štěpce padl do očí tučně vytištěný nápis:
 
+<div class="centered">
+
 OBLEŽENÍ PORT ARTHURU
+
+</div>
 
 Válka! Ano, od počátku února je opět válka. Rusové bojující s Japonci. Japonci začali útokem na Port Arthur. Nyní válka trvá. Bylo úplně jasné, proč právě nyní musil umřít její muž: „Všechny veliké události vašeho života se stanou za války.“ Jaká to pravda! Za války se narodila, za války se vdala, za války ovdověla. Viděla se opět v chalupě staré Hanouskové. Karty pleskají o stůl, vrásčitá ruka je rozkládá na hromádky. „To je zlata, to je zlata,“ diví se babka, „až se lekám! Ty peníze nemají dobrý původ, jsou vydřeny z chudých lidí. A tu je dům, prokletý dům, jedno s druhým se váže, pojde z toho mnoho zlého.“ – „Jak by ne,“ trpce si myslí Štěpka, „mnoho zlého, ovšem!“ Jak přišla na Vejrychovsko, stíhalo ji neštěstí za neštěstím. Všechno z karet se do písmene splnilo. „A nakonec se všechno v dobré obrátí!“ Jen jestli, můj ty bože, jen jestli! Ale dvacetiletá, dychtivá dívčina ruka znovu rozkládá hromádky, běda však, o děťátku v nich nic není. A Hanousková umřela, karty už nepromluvily. Nepověděly jí ani, že bude brzy vdovou!
 
