@@ -11,12 +11,20 @@ dal bych si dělat dubovou truhlu.
 Dubovou truhlu a na ni věnec,  
 aby věděli, že jsem mládenec.“_
 
+</section>
+
+<section>
+
 Synáček zpíval, potřásaje svou rusou hřívou, nyvě kroutil očima a usmíval se na obecenstvo, rvavě si tiskl ruku na prsa – zřejmě si tropil šašky z té smutné písničky. Když dozpíval, zahučela bouře potlesku. Hned nato spustila Mourkova kapela břeskný pochod.
 
 Potom vstoupil na scénu Kverka. Nikdo by ho byl nepoznal, kdyby v programu vedle tohoto čísla nebylo vepsáno jeho jméno. Měl na sobě naruby obrácený kožich fiakristy Gründla a obličej schovaný v lepenkové medvědí hlavě s čenichem velmi podobným kachnímu zobáku. Přešlapoval nemotorně na všech čtyřech, mával rukama, ozbrojenýma ohromnými drápy, a pobručoval:
 
 _„Já jsem medvěd huňatý, huňatý, huňatý,  
 mám pazoury chlupatý, chlupatý, chlupatý!“_
+
+</section>
+
+<section>
 
 Štěpka seděla s otcem u panského stolu ve společnosti manželů Bergrových a rodiny radního Trakla. Pekařka s bílými, jakoby neustále pomoučenými pažemi hleděla na ni úkosem, nebylo jí právě příjemné, že má po svém boku tak nevázanou a nespolehlivou osobu. Štěpka se nechovala ani trochu důstojně, zuřivě tleskala, hlasitě se chechtala, upozorňovala na sebe, pila jako chlap z otcova půllitru. Avšak stará paní Bergrová se jen shovívavě usmívala a povzbuzovala ji, pokyvujíc svou rázovitou hlavou:
 
@@ -29,8 +37,16 @@ to já taky dovedu, dovedu, dovedu!“_
 
 Kverka toužebně vztahoval pazoury po nejblíže sedících dámách. Na medu však seděla včela a nešťastného chlupáče bodla do jazyka.
 
+</section>
+
+<section>
+
 _„Teď mě bodla do huby, do huby, do huby,  
 láska, ta mě zahubí, zahubí, zahubí!“_
+
+</section>
+
+<section>
 
 Medvěd se svíjel, lomil rukama, kňučel, těžkopádně tancoval.
 
@@ -44,8 +60,16 @@ se srdci ušlechtilýma.“_
 
 Bylo to strašně ubohé, ale potlesk proto nebyl o nic menší. Dráteníci se upejpali a ukláněli, nakonec musili ještě jednou zopakovat vlastenecký refrén, zamávat čapkami a rozeslat polibky a pozdravy
 
+</section>
+
+<section>
+
 _„… celé naší krásné české vlasti  
 od dráteníčků, kteří nosí pasti.“_
+
+</section>
+
+<section>
 
 Pavel Malina se občas naklonil přes zábradlí a se zájmem si prohlížel dívenky v nadýchaných šatečkách, s načechranými kadeřemi, gardedámy, ověšené všemi svými rodinnými šperky, blahobytně vypadající měšťany, všechny ty hlavy tmavé i světlé, vlasaté i lysé, které se dole vlnily jako makové pole.
 
