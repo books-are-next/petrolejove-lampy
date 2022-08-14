@@ -5,7 +5,7 @@ contentType: prose
 languageCode: cs
 meta:
   languageCode: cs
-  edition: Beletrie
+  edition: beletrie
   publisherShort: mkp
   title: Petrolejové lampy
   identifier: 9a77d930-5457-47dc-82e0-097ff3ac94cd
