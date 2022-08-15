@@ -13,9 +13,9 @@
       "isbn": "978-80-274-2479-5"
     },
     "elements": {
-      "title": "e-booknadpis\ne-booknadpis1\n\n",
-      "subtitle": "",
-      "h2": "e-booknadpis3bezodstrankovani\ne-booknadpis3odsazenipred6b",
+      "title": "e-booknadpis  \ne-booknadpis1\ne-booknadpis3bezodstrankovani\n",
+      "subtitle": "e-booknadpis3odsazenipred6b",
+      "h2": "",
       "h3": "",
       "h4": "",
       "hr": "",
@@ -28,7 +28,7 @@
       "figure": "",
       "centered": "e-booktextvenovanicxspmiddle e-bookprozatextuprostred e-bookprozatextuprostredkurziva ",
       "verse": "",
-      "em": "e-bookprozatextuprostredkurziva\ne-booktirazacitacetextkurzivachar\ne-bookversebezpredsazeni6bzakurziva\ne-booknadpis3bezodstrankovani",
+      "em": "e-bookprozatextuprostredkurziva\ne-booktirazacitacetextkurzivachar\ne-bookversebezpredsazeni6bzakurziva",
       "strong": "e-booktiraztexttucnechar\ne-booktirazautoradilo",
       "remove": "",
       "ignore": ""
@@ -92,8 +92,8 @@
             "title": "Citát",
             "subtitle": "",
             "listType": "plain",
-            "hiddenTitle": true,
-            "children": []
+            "children": [],
+            "hiddenTitle": true
           },
           {
             "filename": "petrolejove_lampy_006.md",
@@ -104,14 +104,14 @@
             "title": "Věnování",
             "subtitle": "",
             "listType": "plain",
-            "hiddenTitle": true,
-            "children": []
+            "children": [],
+            "hiddenTitle": true
           },
           {
             "filename": "petrolejove_lampy_007.md",
             "xhtml": "petrolejove_lampy_007.htm",
             "id": 6,
-            "role": "chapter",
+            "role": "break",
             "inToc": true,
             "title": "ČÁST PRVNÍ LAMPY SVÍTÍ A PROSTÍRÁ SE",
             "subtitle": "1",
@@ -475,7 +475,7 @@
             "filename": "petrolejove_lampy_040.md",
             "xhtml": "petrolejove_lampy_040.htm",
             "id": 39,
-            "role": "chapter",
+            "role": "break",
             "inToc": true,
             "title": "ČÁST DRUHÁ SYTÝ U STOLU",
             "subtitle": "1",
@@ -718,7 +718,7 @@
             "filename": "petrolejove_lampy_062.md",
             "xhtml": "petrolejove_lampy_062.htm",
             "id": 61,
-            "role": "chapter",
+            "role": "break",
             "inToc": true,
             "title": "ČÁST TŘETÍ LAMPY ZHASÍNAJÍ",
             "subtitle": "1",
@@ -1391,6 +1391,6 @@
       "user": "books-are-next",
       "repo": "petrolejove-lampy"
     },
-    "generatedAt": 1660383612069
+    "generatedAt": 1660382909551
   }
 }
