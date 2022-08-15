@@ -1,10 +1,11 @@
 ---
-title: '26'
-subtitle: ''
+title: ''
 contentType: prose
 ---
 
 <section>
+
+## _26_
 
 Potok Jilemka se rozvodňoval každého jara, avšak takové povodně, jaká stihla městečko v roce 1895, nebylo snad pamětníka. Příčina vězela v tom, že zima trvala nekonečně dlouho, sníh ležel skoro do Velikonoc a pak nastalo náhlé a překotné tání. V noci z Velkého pátku na Bílou sobotu se rozječely hasičské trubky, zvěstovaly, že voda stoupá. Domky v povodí nakvap vystěhovali, obyvatele umístili dílem u příbuzných a známých, dílem v obecním chudobinci. Na Boží hod ráno byla již Jilemka rozlita v strašlivý rybník po celé osadě Jilmu. Po hladině plovalo dříví, nábytek, trámy ze stržených chalup, drobné domácí nářadí, utopené kozy a kočky. V Dolení ulici sahala voda až do domovních síní, které vroubily potok po celé jeho délce, stály uprostřed dravého proudu podobné obrovským křovinám, svatý Jan Nepomucký a svatý Václav na kamenném můstku za hospodou „U koníčků“ jako by v němém zoufalství spínali ruce nad vírem, který se točil kolem kovárny. Martinická silnice byla ve svém nejnižším místě přervána, ztrácela se v tůni. V ohybu za Dudovou chalupou mužští lovili z vody háky, co jen se vylovit dalo, všichni lidé dobré vůle měli plné ruce práce. Páni chodili rozčileně po náměstí. Rozcitlivělé slečny se na všechen ten ruch a shon dívaly z oken.
 

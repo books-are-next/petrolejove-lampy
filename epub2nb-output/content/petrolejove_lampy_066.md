@@ -1,6 +1,5 @@
 ---
 title: '5'
-subtitle: ''
 contentType: prose
 ---
 

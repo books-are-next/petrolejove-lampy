@@ -1,6 +1,5 @@
 ---
 title: '22'
-subtitle: ''
 contentType: prose
 ---
 

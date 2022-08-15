@@ -1,10 +1,11 @@
 ---
-title: '11'
-subtitle: ''
+title: ''
 contentType: prose
 ---
 
 <section>
+
+## _11_
 
 Hejtman Malina nebude ležet v nádherné kamenné hrobce, ale v obyčejném hrobě, jako si to přál mistr Kilián, Štěpka však na něho nezapomene. Štěpka mu jeho smutný příbytek ve vlhké hlíně ozdobí, jak jen živí dovedou okrášlit hroby svých mrtvých. Bude mít pomník s nápisem, ne jako Vejrych hrob beze jména, bude mít kvítí, svíčky a to všechno, nebude opomíjen, nebude osiřelý, ne, to nebude! Štěpka si to odpřisáhla. Květiny a světlo, slzy a vzpomínky, všechno bude mít jako ostatní slušní nebožtíci. O Dušičkách papírovou podušku s růžemi, nakadeřenými na vlásence, a stuhy z věnců, které mu dnes darovali.
 
