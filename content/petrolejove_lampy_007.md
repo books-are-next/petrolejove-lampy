@@ -1,10 +1,11 @@
 ---
 title: ČÁST PRVNÍ LAMPY SVÍTÍ A PROSTÍRÁ SE
-subtitle: '1'
 contentType: prose
 ---
 
 <section>
+
+## 1
 
 Uprostřed západní zdi jilemnického hřbitova stávala od nepaměti stará márnice s pokřiveným křížkem na vrcholu prohnilé šindelové střechy. Po obou stranách této márnice, za rezavým železným plotem, se tísnilo několik hrobek, každá byla pokryta těžkým náhrobním kamenem.
 

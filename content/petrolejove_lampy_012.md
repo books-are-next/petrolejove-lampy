@@ -1,10 +1,11 @@
 ---
-title: '6'
-subtitle: ''
+title: ''
 contentType: prose
 ---
 
 <section>
+
+## _6_
 
 Ve škole Štěpka nijak zvlášť nevynikala. Učitel u ní objevil jen jediný skutečný talent: učit se nazpaměť a přednášet. Nedalo jí valnou práci nadřít třeba sebedelší básničku. Přednášela ji pak na výstupku se znamenitým patosem, který byl tehdy v módě. Nejpůsobivějšími čísly jejího programu byly bajky. Za lva mluvila hrozným lvím hlasem, za vlaštovku šveholila jako pták, na konci výstižně odlišila autorovo naučení. Tyto úspěchy jí záviděli všichni spolužáci.
 

@@ -4,14 +4,16 @@ slug: book
 contentType: prose
 languageCode: cs
 meta:
-  edition: beletrie
+  languageCode: cs
+  edition: Beletrie
   publisherShort: mkp
   title: Petrolejové lampy
   identifier: 9a77d930-5457-47dc-82e0-097ff3ac94cd
   author: Jaroslav Havlíček
   publisher: Městská knihovna v Praze
   modified: '2021-09-15T11:19:52.162Z'
-  languageCode: cs
+  contentType: prose
+  isbn: 978-80-274-2479-5
 readingOrder:
   - promo.html
   - petrolejove_lampy_002.html
@@ -222,6 +224,7 @@ tocBase:
       - link: petrolejove_lampy_072.html
         title: '11'
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
