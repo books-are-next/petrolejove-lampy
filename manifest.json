@@ -5,11 +5,11 @@
   "title": "Petrolejové lampy",
   "author": "Jaroslav Havlíček",
   "publisher": "Městská knihovna v Praze",
-  "edition": "beletrie",
+  "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "havlicek-petrolejove-lampy-402c12a",
-  "revision": "402c12a",
+  "identifier": "havlicek-petrolejove-lampy-250ad8d",
+  "revision": "250ad8d",
   "readingOrder": [
     "promo.html",
     "petrolejove_lampy_005.html",
@@ -82,8 +82,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Aug 15 2022 08:16:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1660551391478
+    "date": "Mon Aug 15 2022 08:22:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1660551755415
   },
   "documents": [
     {
