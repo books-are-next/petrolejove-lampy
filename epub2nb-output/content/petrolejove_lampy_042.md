@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '3'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _3_
 
 Dlouho do noci se převaloval na lůžku. Bratrovy urážky, které nemohl smýt, drsná pravda, již nedovedl vyvrátit, rána, která po celé týdny hrozila dopadnout, až nyní konečně dopadla, všechny ty okolnosti způsobily, že nemohl živou mocí usnout. Uvažoval, jak se dostat z pasti, kterou na něho nalíčili. Cítil, že je přiskřípnut a že to s ním dopadne zle, nepřijde-li ještě této noci, pokud možno hned, na nějaký způsob záchrany. Ze všeho nejvíc však přemýšlel o odplatě, o vrácení šlehu, o mstě, která by bratra zdrtila ještě mnohem víc, než byl dnes postižen on.
 

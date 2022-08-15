@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '15'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _15_
 
 Nevyslýchali ji, nepodezírali, spokojili se s jejími nejapnými výmluvami. Štěpce spadl kámen ze srdce. Když pak zkušenost od hlídačské boudy, zbavená první pronikavé příchuti, byla zařaděna mezi všechny dosavadní zkušenosti – nebyla by to ani Štěpka Kiliánová, aby se nedovedla se vším na světě smířit – zbyla jí k přemýšlení již jen jediná nedělní událost, dostaveníčko s Pavlem. Pavel! Po léta se k ní nehlásil a teď k ní byl najednou tak vlídný, choval se k ní tak důvěrně! Jak ji přemlouval, jak s ní trpělivě chodil po mezích a projevoval nepokrytě radost z toho, že ji opět vidí! Vysvětlení bylo nasnadě, ale Štěpka nestála o takové vysvětlení, její snivá bytost v ní nabyla vrchu. Po dvou dnech přišla pošetilá Štěpka na to, že tajemství Pavlových chtivých pohledů, nyvost jeho hlasu a jeho útočnost, to všechno dohromady že není nic jiného než láska! Od toho okamžiku ji nemohlo již nic zadržet, aby neletěla na Vejrychovsko za svým milencem. Příležitost se našla snadno, Kiliánovi potřebovali vejce.
 

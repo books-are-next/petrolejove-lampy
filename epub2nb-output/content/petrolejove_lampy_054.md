@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '15'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _15_
 
 Zrno budoucích rozepří, které tak pečlivě zašil podzim a které tak zdárně klíčilo, přece jen nevzešlo.
 

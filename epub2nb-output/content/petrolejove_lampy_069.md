@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '8'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _8_
 
 Stalo se to brzy po pohřbu Anny Kiliánové, když Jan přišel poprvé s tím návrhem:
 

@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '7'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _7_
 
 Jilemničtí občané, kteří před rokem 1910 studovali v Jičíně na některé z tamějších středních škol, se dobře pamatují na němého čeledína France z Vejrychovska. Méně zámožní bydlili _na půl stravy_; od svých bytných dostávali jen obědy a ranní kávu, večeře a pečivo k snídani si musili opatřovat sami, a proto jim rodiče vždy jednou za čtrnáct dní posílali s prádlem chléb a snad i nějakou tu buchtu. Tyto balíky a bedničky dovážel studentům Franc. Přípojka na hlavní trať do Martinic byla totiž zbudována teprve v roce 1899. Ani potom se však zásilky drahou tak hned nevžily. Ostatně němý, který jezdil tak jako tak skoro každý týden do Jičína se svým vozem, přikrytým plachtou, byl lacinější.
 

@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '5'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _5_
 
 Když přišel stavitel Kilián na staveniště, aby dohlédl na práci svých zedníků, měl ve zvyku se opřít zády o hůl a mlčky se na ně dívat kalným, nepřítomným pohledem. Stejně mlčky a neúčastně, kalným zrakem se díval doma na dcerku. Kdož ví, byla-li v tom pohledu láska. Ostatně býval doma jen málokdy, byl od rána do večera zaměstnán.
 

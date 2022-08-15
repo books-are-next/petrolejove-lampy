@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '28'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _28_
 
 Na martinické nádraží bylo z Jilemnice dobrou hodinu rázné chůze, proto tam zámožnější raději jezdili v kočáře. V kočárech se jezdilo na tu stranu ke krkonošským horám, kde čněl Žalý s rozhlednou a kde se rozsochatil Kokrháč se svými dvěma roklemi. V kočárech se jezdilo do nejbližších měst, do Vrchlabí, do Vysokého, do Semil, do Staré Paky a do Jičína, hlavně však na nádraží do Horek nebo do Libštátu, odkud bylo přímé vlakové spojení na Hradec Králové, na Liberec a na Prahu.
 

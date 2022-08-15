@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '20'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _20_
 
 Ráno na svatého Jana Nepomuckého se vypravil Kilián se Štěpkou na Vejrychovsko s gratulací. Anna neměla tak naspěch, šla tam sama téměř se samým večerem.
 

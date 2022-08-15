@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '14'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _14_
 
 Štěpka šla na své první dostaveníčko s myslí dokonale nevinnou. Namířila si to rovnou k statku, připravena usadit se na lavičce přede dveřmi, ale Pavel měl o tomto večeru své vlastní představy; sotva pojedl, vyšel na toulku kolem dvora, aby ji nepropásl. Když dívku spatřil, běžel jí rozjařené vstříc a vedl si ji podle chlévů k čertově stodole.
 
