@@ -8,80 +8,21 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "havlicek-petrolejove-lampy-07b0576",
-  "revision": "07b0576",
+  "identifier": "havlicek-petrolejove-lampy-fd8e2e9",
+  "revision": "fd8e2e9",
   "readingOrder": [
     "promo.html",
     "petrolejove_lampy_002.html",
-    "petrolejove_lampy_003.html",
-    "petrolejove_lampy_004.html",
     "petrolejove_lampy_005.html",
     "petrolejove_lampy_006.html",
     "petrolejove_lampy_007.html",
-    "petrolejove_lampy_014.html",
-    "petrolejove_lampy_015.html",
-    "petrolejove_lampy_016.html",
-    "petrolejove_lampy_017.html",
-    "petrolejove_lampy_018.html",
-    "petrolejove_lampy_019.html",
-    "petrolejove_lampy_020.html",
-    "petrolejove_lampy_021.html",
-    "petrolejove_lampy_022.html",
-    "petrolejove_lampy_023.html",
-    "petrolejove_lampy_024.html",
-    "petrolejove_lampy_025.html",
-    "petrolejove_lampy_026.html",
-    "petrolejove_lampy_027.html",
-    "petrolejove_lampy_028.html",
-    "petrolejove_lampy_029.html",
-    "petrolejove_lampy_030.html",
-    "petrolejove_lampy_031.html",
-    "petrolejove_lampy_032.html",
-    "petrolejove_lampy_033.html",
-    "petrolejove_lampy_034.html",
-    "petrolejove_lampy_035.html",
-    "petrolejove_lampy_036.html",
-    "petrolejove_lampy_037.html",
-    "petrolejove_lampy_038.html",
-    "petrolejove_lampy_039.html",
     "petrolejove_lampy_040.html",
-    "petrolejove_lampy_041.html",
-    "petrolejove_lampy_042.html",
-    "petrolejove_lampy_043.html",
-    "petrolejove_lampy_044.html",
-    "petrolejove_lampy_045.html",
-    "petrolejove_lampy_046.html",
-    "petrolejove_lampy_047.html",
-    "petrolejove_lampy_048.html",
-    "petrolejove_lampy_049.html",
-    "petrolejove_lampy_050.html",
-    "petrolejove_lampy_051.html",
-    "petrolejove_lampy_052.html",
-    "petrolejove_lampy_053.html",
-    "petrolejove_lampy_054.html",
-    "petrolejove_lampy_055.html",
-    "petrolejove_lampy_056.html",
-    "petrolejove_lampy_057.html",
-    "petrolejove_lampy_058.html",
-    "petrolejove_lampy_059.html",
-    "petrolejove_lampy_060.html",
-    "petrolejove_lampy_061.html",
     "petrolejove_lampy_062.html",
-    "petrolejove_lampy_063.html",
-    "petrolejove_lampy_064.html",
-    "petrolejove_lampy_065.html",
-    "petrolejove_lampy_066.html",
-    "petrolejove_lampy_067.html",
-    "petrolejove_lampy_068.html",
-    "petrolejove_lampy_069.html",
-    "petrolejove_lampy_070.html",
-    "petrolejove_lampy_071.html",
-    "petrolejove_lampy_072.html",
-    "petrolejove_lampy_073.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Aug 15 2022 09:04:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1660554279180
+    "date": "Mon Aug 15 2022 09:21:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1660555285921
   },
   "documents": [
     {
@@ -105,46 +46,6 @@
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
-      "next": "petrolejove_lampy_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_003.html",
-      "words": 4,
-      "chars": 34,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "petrolejove_lampy_002.html",
-      "next": "petrolejove_lampy_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_004.html",
-      "words": 118,
-      "chars": 902,
-      "ideas": 9,
-      "role": "chapter",
-      "order": 3,
-      "prev": "petrolejove_lampy_003.html",
       "next": "petrolejove_lampy_005.html",
       "toc": [
         {
@@ -163,8 +64,8 @@
       "chars": 51,
       "ideas": 3,
       "role": "chapter",
-      "order": 4,
-      "prev": "petrolejove_lampy_004.html",
+      "order": 2,
+      "prev": "petrolejove_lampy_002.html",
       "next": "petrolejove_lampy_006.html",
       "toc": [
         {
@@ -183,7 +84,7 @@
       "chars": 17,
       "ideas": 1,
       "role": "chapter",
-      "order": 5,
+      "order": 3,
       "prev": "petrolejove_lampy_005.html",
       "next": "petrolejove_lampy_007.html",
       "toc": [
@@ -199,13 +100,13 @@
     {
       "title": "ČÁST PRVNÍ LAMPY SVÍTÍ A PROSTÍRÁ SE",
       "file": "petrolejove_lampy_007.html",
-      "words": 7535,
-      "chars": 47718,
-      "ideas": 108,
+      "words": 45084,
+      "chars": 279018,
+      "ideas": 680,
       "role": "chapter",
-      "order": 6,
+      "order": 4,
       "prev": "petrolejove_lampy_006.html",
-      "next": "petrolejove_lampy_014.html",
+      "next": "petrolejove_lampy_040.html",
       "toc": [
         {
           "index": 0,
@@ -261,730 +162,184 @@
               "name": "7",
               "id": "_7_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_014.html",
-      "words": 1409,
-      "chars": 8699,
-      "ideas": 17,
-      "role": "chapter",
-      "order": 7,
-      "prev": "petrolejove_lampy_007.html",
-      "next": "petrolejove_lampy_015.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 8,
               "level": 2,
               "name": "8",
               "id": "_8_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_015.html",
-      "words": 963,
-      "chars": 6073,
-      "ideas": 9,
-      "role": "chapter",
-      "order": 8,
-      "prev": "petrolejove_lampy_014.html",
-      "next": "petrolejove_lampy_016.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 9,
               "level": 2,
               "name": "9",
               "id": "_9_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_016.html",
-      "words": 899,
-      "chars": 5648,
-      "ideas": 16,
-      "role": "chapter",
-      "order": 9,
-      "prev": "petrolejove_lampy_015.html",
-      "next": "petrolejove_lampy_017.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 10,
               "level": 2,
               "name": "10",
               "id": "_10_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_017.html",
-      "words": 1078,
-      "chars": 7020,
-      "ideas": 14,
-      "role": "chapter",
-      "order": 10,
-      "prev": "petrolejove_lampy_016.html",
-      "next": "petrolejove_lampy_018.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 11,
               "level": 2,
               "name": "11",
               "id": "_11_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_018.html",
-      "words": 1665,
-      "chars": 10284,
-      "ideas": 22,
-      "role": "chapter",
-      "order": 11,
-      "prev": "petrolejove_lampy_017.html",
-      "next": "petrolejove_lampy_019.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 12,
               "level": 2,
               "name": "12",
               "id": "_12_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_019.html",
-      "words": 1477,
-      "chars": 8917,
-      "ideas": 29,
-      "role": "chapter",
-      "order": 12,
-      "prev": "petrolejove_lampy_018.html",
-      "next": "petrolejove_lampy_020.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 13,
               "level": 2,
               "name": "13",
               "id": "_13_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_020.html",
-      "words": 1439,
-      "chars": 8813,
-      "ideas": 34,
-      "role": "chapter",
-      "order": 13,
-      "prev": "petrolejove_lampy_019.html",
-      "next": "petrolejove_lampy_021.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 14,
               "level": 2,
               "name": "14",
               "id": "_14_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_021.html",
-      "words": 1543,
-      "chars": 9613,
-      "ideas": 18,
-      "role": "chapter",
-      "order": 14,
-      "prev": "petrolejove_lampy_020.html",
-      "next": "petrolejove_lampy_022.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 15,
               "level": 2,
               "name": "15",
               "id": "_15_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_022.html",
-      "words": 1120,
-      "chars": 7232,
-      "ideas": 14,
-      "role": "chapter",
-      "order": 15,
-      "prev": "petrolejove_lampy_021.html",
-      "next": "petrolejove_lampy_023.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 16,
               "level": 2,
               "name": "16",
               "id": "_16_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_023.html",
-      "words": 1218,
-      "chars": 7531,
-      "ideas": 27,
-      "role": "chapter",
-      "order": 16,
-      "prev": "petrolejove_lampy_022.html",
-      "next": "petrolejove_lampy_024.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 17,
               "level": 2,
               "name": "17",
               "id": "_17_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_024.html",
-      "words": 1211,
-      "chars": 7007,
-      "ideas": 10,
-      "role": "chapter",
-      "order": 17,
-      "prev": "petrolejove_lampy_023.html",
-      "next": "petrolejove_lampy_025.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 18,
               "level": 2,
               "name": "18",
               "id": "_18_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_025.html",
-      "words": 1372,
-      "chars": 8409,
-      "ideas": 16,
-      "role": "chapter",
-      "order": 18,
-      "prev": "petrolejove_lampy_024.html",
-      "next": "petrolejove_lampy_026.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 19,
               "level": 2,
               "name": "19",
               "id": "_19_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_026.html",
-      "words": 1940,
-      "chars": 11510,
-      "ideas": 42,
-      "role": "chapter",
-      "order": 19,
-      "prev": "petrolejove_lampy_025.html",
-      "next": "petrolejove_lampy_027.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 20,
               "level": 2,
               "name": "20",
               "id": "_20_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_027.html",
-      "words": 1674,
-      "chars": 9878,
-      "ideas": 28,
-      "role": "chapter",
-      "order": 20,
-      "prev": "petrolejove_lampy_026.html",
-      "next": "petrolejove_lampy_028.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 21,
               "level": 2,
               "name": "21",
               "id": "_21_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_028.html",
-      "words": 1478,
-      "chars": 9353,
-      "ideas": 23,
-      "role": "chapter",
-      "order": 21,
-      "prev": "petrolejove_lampy_027.html",
-      "next": "petrolejove_lampy_029.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 22,
               "level": 2,
               "name": "22",
               "id": "_22_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_029.html",
-      "words": 1768,
-      "chars": 10846,
-      "ideas": 18,
-      "role": "chapter",
-      "order": 22,
-      "prev": "petrolejove_lampy_028.html",
-      "next": "petrolejove_lampy_030.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 23,
               "level": 2,
               "name": "23",
               "id": "_23_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_030.html",
-      "words": 1629,
-      "chars": 10215,
-      "ideas": 22,
-      "role": "chapter",
-      "order": 23,
-      "prev": "petrolejove_lampy_029.html",
-      "next": "petrolejove_lampy_031.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 24,
               "level": 2,
               "name": "24",
               "id": "_24_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_031.html",
-      "words": 1171,
-      "chars": 7388,
-      "ideas": 14,
-      "role": "chapter",
-      "order": 24,
-      "prev": "petrolejove_lampy_030.html",
-      "next": "petrolejove_lampy_032.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 25,
               "level": 2,
               "name": "25",
               "id": "_25_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_032.html",
-      "words": 1284,
-      "chars": 7927,
-      "ideas": 21,
-      "role": "chapter",
-      "order": 25,
-      "prev": "petrolejove_lampy_031.html",
-      "next": "petrolejove_lampy_033.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 26,
               "level": 2,
               "name": "26",
               "id": "_26_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_033.html",
-      "words": 1782,
-      "chars": 10462,
-      "ideas": 18,
-      "role": "chapter",
-      "order": 26,
-      "prev": "petrolejove_lampy_032.html",
-      "next": "petrolejove_lampy_034.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 27,
               "level": 2,
               "name": "27",
               "id": "27",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_034.html",
-      "words": 1404,
-      "chars": 8762,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 27,
-      "prev": "petrolejove_lampy_033.html",
-      "next": "petrolejove_lampy_035.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 28,
               "level": 2,
               "name": "28",
               "id": "_28_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_035.html",
-      "words": 1740,
-      "chars": 10644,
-      "ideas": 31,
-      "role": "chapter",
-      "order": 28,
-      "prev": "petrolejove_lampy_034.html",
-      "next": "petrolejove_lampy_036.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 29,
               "level": 2,
               "name": "29",
               "id": "_29_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_036.html",
-      "words": 1570,
-      "chars": 9796,
-      "ideas": 15,
-      "role": "chapter",
-      "order": 29,
-      "prev": "petrolejove_lampy_035.html",
-      "next": "petrolejove_lampy_037.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 30,
               "level": 2,
               "name": "30",
               "id": "_30_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_037.html",
-      "words": 1180,
-      "chars": 7576,
-      "ideas": 14,
-      "role": "chapter",
-      "order": 30,
-      "prev": "petrolejove_lampy_036.html",
-      "next": "petrolejove_lampy_038.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 31,
               "level": 2,
               "name": "31",
               "id": "_31_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_038.html",
-      "words": 1757,
-      "chars": 10805,
-      "ideas": 25,
-      "role": "chapter",
-      "order": 31,
-      "prev": "petrolejove_lampy_037.html",
-      "next": "petrolejove_lampy_039.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 32,
               "level": 2,
               "name": "32",
               "id": "_32_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_039.html",
-      "words": 1778,
-      "chars": 10892,
-      "ideas": 62,
-      "role": "chapter",
-      "order": 32,
-      "prev": "petrolejove_lampy_038.html",
-      "next": "petrolejove_lampy_040.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 33,
               "level": 2,
               "name": "33",
               "id": "_33_",
@@ -997,13 +352,13 @@
     {
       "title": "ČÁST DRUHÁ SYTÝ U STOLU",
       "file": "petrolejove_lampy_040.html",
-      "words": 1583,
-      "chars": 9164,
-      "ideas": 42,
+      "words": 34996,
+      "chars": 209784,
+      "ideas": 602,
       "role": "chapter",
-      "order": 33,
-      "prev": "petrolejove_lampy_039.html",
-      "next": "petrolejove_lampy_041.html",
+      "order": 5,
+      "prev": "petrolejove_lampy_007.html",
+      "next": "petrolejove_lampy_062.html",
       "toc": [
         {
           "index": 0,
@@ -1017,546 +372,128 @@
               "name": "1",
               "id": "1",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_041.html",
-      "words": 1154,
-      "chars": 6564,
-      "ideas": 27,
-      "role": "chapter",
-      "order": 34,
-      "prev": "petrolejove_lampy_040.html",
-      "next": "petrolejove_lampy_042.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 2,
               "level": 2,
               "name": "2",
               "id": "_2_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_042.html",
-      "words": 1126,
-      "chars": 6581,
-      "ideas": 30,
-      "role": "chapter",
-      "order": 35,
-      "prev": "petrolejove_lampy_041.html",
-      "next": "petrolejove_lampy_043.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 3,
               "level": 2,
               "name": "3",
               "id": "_3_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "4",
-      "file": "petrolejove_lampy_043.html",
-      "words": 1079,
-      "chars": 6556,
-      "ideas": 34,
-      "role": "chapter",
-      "order": 36,
-      "prev": "petrolejove_lampy_042.html",
-      "next": "petrolejove_lampy_044.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "4",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_044.html",
-      "words": 2135,
-      "chars": 12365,
-      "ideas": 48,
-      "role": "chapter",
-      "order": 37,
-      "prev": "petrolejove_lampy_043.html",
-      "next": "petrolejove_lampy_045.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 4,
               "level": 2,
               "name": "5",
               "id": "_5_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_045.html",
-      "words": 1605,
-      "chars": 9610,
-      "ideas": 34,
-      "role": "chapter",
-      "order": 38,
-      "prev": "petrolejove_lampy_044.html",
-      "next": "petrolejove_lampy_046.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 5,
               "level": 2,
               "name": "6",
               "id": "_6_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_046.html",
-      "words": 1415,
-      "chars": 8466,
-      "ideas": 34,
-      "role": "chapter",
-      "order": 39,
-      "prev": "petrolejove_lampy_045.html",
-      "next": "petrolejove_lampy_047.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 6,
               "level": 2,
               "name": "7",
               "id": "_7_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_047.html",
-      "words": 1940,
-      "chars": 11768,
-      "ideas": 25,
-      "role": "chapter",
-      "order": 40,
-      "prev": "petrolejove_lampy_046.html",
-      "next": "petrolejove_lampy_048.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 7,
               "level": 2,
               "name": "8",
               "id": "_8_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_048.html",
-      "words": 1857,
-      "chars": 11149,
-      "ideas": 23,
-      "role": "chapter",
-      "order": 41,
-      "prev": "petrolejove_lampy_047.html",
-      "next": "petrolejove_lampy_049.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 8,
               "level": 2,
               "name": "9",
               "id": "_9_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_049.html",
-      "words": 1792,
-      "chars": 11324,
-      "ideas": 16,
-      "role": "chapter",
-      "order": 42,
-      "prev": "petrolejove_lampy_048.html",
-      "next": "petrolejove_lampy_050.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 9,
               "level": 2,
               "name": "10",
               "id": "_10_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_050.html",
-      "words": 1416,
-      "chars": 8622,
-      "ideas": 20,
-      "role": "chapter",
-      "order": 43,
-      "prev": "petrolejove_lampy_049.html",
-      "next": "petrolejove_lampy_051.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 10,
               "level": 2,
               "name": "11",
               "id": "_11_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_051.html",
-      "words": 1952,
-      "chars": 11933,
-      "ideas": 30,
-      "role": "chapter",
-      "order": 44,
-      "prev": "petrolejove_lampy_050.html",
-      "next": "petrolejove_lampy_052.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 11,
               "level": 2,
               "name": "12",
               "id": "_12_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_052.html",
-      "words": 1151,
-      "chars": 6791,
-      "ideas": 27,
-      "role": "chapter",
-      "order": 45,
-      "prev": "petrolejove_lampy_051.html",
-      "next": "petrolejove_lampy_053.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 12,
               "level": 2,
               "name": "13",
               "id": "_13_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_053.html",
-      "words": 1567,
-      "chars": 9700,
-      "ideas": 17,
-      "role": "chapter",
-      "order": 46,
-      "prev": "petrolejove_lampy_052.html",
-      "next": "petrolejove_lampy_054.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 13,
               "level": 2,
               "name": "14",
               "id": "_14_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_054.html",
-      "words": 2066,
-      "chars": 11915,
-      "ideas": 31,
-      "role": "chapter",
-      "order": 47,
-      "prev": "petrolejove_lampy_053.html",
-      "next": "petrolejove_lampy_055.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 14,
               "level": 2,
               "name": "15",
               "id": "_15_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_055.html",
-      "words": 1339,
-      "chars": 8381,
-      "ideas": 17,
-      "role": "chapter",
-      "order": 48,
-      "prev": "petrolejove_lampy_054.html",
-      "next": "petrolejove_lampy_056.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 15,
               "level": 2,
               "name": "16",
               "id": "_16_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "17",
-      "file": "petrolejove_lampy_056.html",
-      "words": 2067,
-      "chars": 12332,
-      "ideas": 24,
-      "role": "chapter",
-      "order": 49,
-      "prev": "petrolejove_lampy_055.html",
-      "next": "petrolejove_lampy_057.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "17",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_057.html",
-      "words": 1505,
-      "chars": 9032,
-      "ideas": 36,
-      "role": "chapter",
-      "order": 50,
-      "prev": "petrolejove_lampy_056.html",
-      "next": "petrolejove_lampy_058.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 16,
               "level": 2,
               "name": "18",
               "id": "_18_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_058.html",
-      "words": 1830,
-      "chars": 10737,
-      "ideas": 25,
-      "role": "chapter",
-      "order": 51,
-      "prev": "petrolejove_lampy_057.html",
-      "next": "petrolejove_lampy_059.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 17,
               "level": 2,
               "name": "19",
               "id": "_19_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_059.html",
-      "words": 1677,
-      "chars": 10040,
-      "ideas": 33,
-      "role": "chapter",
-      "order": 52,
-      "prev": "petrolejove_lampy_058.html",
-      "next": "petrolejove_lampy_060.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 18,
               "level": 2,
               "name": "20",
               "id": "_20_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_060.html",
-      "words": 1522,
-      "chars": 9162,
-      "ideas": 16,
-      "role": "chapter",
-      "order": 53,
-      "prev": "petrolejove_lampy_059.html",
-      "next": "petrolejove_lampy_061.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 19,
               "level": 2,
               "name": "21",
               "id": "_21_",
@@ -1567,35 +504,15 @@
       ]
     },
     {
-      "title": "22",
-      "file": "petrolejove_lampy_061.html",
-      "words": 1221,
-      "chars": 7597,
-      "ideas": 16,
-      "role": "chapter",
-      "order": 54,
-      "prev": "petrolejove_lampy_060.html",
-      "next": "petrolejove_lampy_062.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "22",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "ČÁST TŘETÍ LAMPY ZHASÍNAJÍ",
       "file": "petrolejove_lampy_062.html",
-      "words": 1745,
-      "chars": 10754,
-      "ideas": 20,
+      "words": 18582,
+      "chars": 112572,
+      "ideas": 294,
       "role": "chapter",
-      "order": 55,
-      "prev": "petrolejove_lampy_061.html",
-      "next": "petrolejove_lampy_063.html",
+      "order": 6,
+      "prev": "petrolejove_lampy_040.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1609,266 +526,58 @@
               "name": "1",
               "id": "1",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_063.html",
-      "words": 1152,
-      "chars": 7372,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 56,
-      "prev": "petrolejove_lampy_062.html",
-      "next": "petrolejove_lampy_064.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 2,
               "level": 2,
               "name": "2",
               "id": "_2_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_064.html",
-      "words": 1591,
-      "chars": 9715,
-      "ideas": 28,
-      "role": "chapter",
-      "order": 57,
-      "prev": "petrolejove_lampy_063.html",
-      "next": "petrolejove_lampy_065.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 3,
               "level": 2,
               "name": "3",
               "id": "_3_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "4",
-      "file": "petrolejove_lampy_065.html",
-      "words": 1261,
-      "chars": 7888,
-      "ideas": 20,
-      "role": "chapter",
-      "order": 58,
-      "prev": "petrolejove_lampy_064.html",
-      "next": "petrolejove_lampy_066.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "4",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "5",
-      "file": "petrolejove_lampy_066.html",
-      "words": 1960,
-      "chars": 11795,
-      "ideas": 41,
-      "role": "chapter",
-      "order": 59,
-      "prev": "petrolejove_lampy_065.html",
-      "next": "petrolejove_lampy_067.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "5",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_067.html",
-      "words": 2282,
-      "chars": 13228,
-      "ideas": 46,
-      "role": "chapter",
-      "order": 60,
-      "prev": "petrolejove_lampy_066.html",
-      "next": "petrolejove_lampy_068.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 4,
               "level": 2,
               "name": "6",
               "id": "_6_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_068.html",
-      "words": 1306,
-      "chars": 8021,
-      "ideas": 20,
-      "role": "chapter",
-      "order": 61,
-      "prev": "petrolejove_lampy_067.html",
-      "next": "petrolejove_lampy_069.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 5,
               "level": 2,
               "name": "7",
               "id": "_7_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_069.html",
-      "words": 1991,
-      "chars": 11502,
-      "ideas": 41,
-      "role": "chapter",
-      "order": 62,
-      "prev": "petrolejove_lampy_068.html",
-      "next": "petrolejove_lampy_070.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 6,
               "level": 2,
               "name": "8",
               "id": "_8_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_070.html",
-      "words": 1265,
-      "chars": 7905,
-      "ideas": 17,
-      "role": "chapter",
-      "order": 63,
-      "prev": "petrolejove_lampy_069.html",
-      "next": "petrolejove_lampy_071.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 7,
               "level": 2,
               "name": "9",
               "id": "_9_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_071.html",
-      "words": 2051,
-      "chars": 12342,
-      "ideas": 24,
-      "role": "chapter",
-      "order": 64,
-      "prev": "petrolejove_lampy_070.html",
-      "next": "petrolejove_lampy_072.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 8,
               "level": 2,
               "name": "10",
               "id": "_10_",
               "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_072.html",
-      "words": 1980,
-      "chars": 12052,
-      "ideas": 27,
-      "role": "chapter",
-      "order": 65,
-      "prev": "petrolejove_lampy_071.html",
-      "next": "petrolejove_lampy_073.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": [
+            },
             {
-              "index": 1,
+              "index": 9,
               "level": 2,
               "name": "11",
               "id": "_11_",
@@ -1879,20 +588,20 @@
       ]
     },
     {
-      "title": "Petrolejové lampy",
-      "file": "petrolejove_lampy_073.html",
-      "words": 34,
-      "chars": 207,
-      "ideas": 9,
-      "role": "chapter",
-      "order": 66,
-      "prev": "petrolejove_lampy_072.html",
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 163,
+      "chars": 1193,
+      "ideas": 17,
+      "role": "about",
+      "order": null,
+      "prev": "petrolejove_lampy_062.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -1901,14 +610,14 @@
   ],
   "totals": {
     "all": {
-      "words": 98843,
-      "chars": 602642,
-      "ideas": 1611
+      "words": 98844,
+      "chars": 602680,
+      "ideas": 1602
     },
     "chapters": {
-      "words": 98836,
-      "chars": 602592,
-      "ideas": 1606
+      "words": 98675,
+      "chars": 601442,
+      "ideas": 1581
     }
   }
 }
