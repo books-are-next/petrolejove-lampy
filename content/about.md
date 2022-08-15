@@ -9,7 +9,7 @@ Redakce Jaroslava Bednářová
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
 ISBN 978-80-274-2479-5 (webová kniha)  
-V MKP 2. elektronické vydání z 14. 8. 2022.
+V MKP 2. elektronické vydání z 15. 8. 2022.
 
 ***
 
@@ -27,7 +27,7 @@ Vydání (obálka, upoutávka, citační stránka, tiráž a grafická úprava),
 
 Citační záznam této e-knihy:
 
-HAVLÍČEK, Jaroslav. _Petrolejové lampy_ \[online\]. V MKP 2. elektronické vydání z 14. 8. 2022. Praha: Městská knihovna v Praze, 2016 \[cit. 14. 8. 2022]. ISBN 978-80-7532-230-2 (epub). Dostupné z <[books-are-next.github.io/petrolejove-lampy](https://books-are-next.github.io/petrolejove-lampy/)>.
+HAVLÍČEK, Jaroslav. _Petrolejové lampy_ \[online\]. V MKP 2. elektronické vydání z 15. 8. 2022. Praha: Městská knihovna v Praze, 2016 \[cit. 15. 8. 2022]. ISBN 978-80-7532-230-2 (epub). Dostupné z <[books-are-next.github.io/petrolejove-lampy](https://books-are-next.github.io/petrolejove-lampy/)>.
 
 ***
 
