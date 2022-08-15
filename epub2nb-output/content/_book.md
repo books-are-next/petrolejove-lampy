@@ -22,12 +22,6 @@ readingOrder:
   - petrolejove_lampy_005.html
   - petrolejove_lampy_006.html
   - petrolejove_lampy_007.html
-  - petrolejove_lampy_008.html
-  - petrolejove_lampy_009.html
-  - petrolejove_lampy_010.html
-  - petrolejove_lampy_011.html
-  - petrolejove_lampy_012.html
-  - petrolejove_lampy_013.html
   - petrolejove_lampy_014.html
   - petrolejove_lampy_015.html
   - petrolejove_lampy_016.html
@@ -93,18 +87,6 @@ tocBase:
     children:
       - link: petrolejove_lampy_007.html
         title: ČÁST PRVNÍ LAMPY SVÍTÍ A PROSTÍRÁ SE
-      - link: petrolejove_lampy_008.html
-        title: '2'
-      - link: petrolejove_lampy_009.html
-        title: '3'
-      - link: petrolejove_lampy_010.html
-        title: '4'
-      - link: petrolejove_lampy_011.html
-        title: '5'
-      - link: petrolejove_lampy_012.html
-        title: '6'
-      - link: petrolejove_lampy_013.html
-        title: '7'
       - link: petrolejove_lampy_014.html
         title: '8'
       - link: petrolejove_lampy_015.html
@@ -167,8 +149,6 @@ tocBase:
         title: '4'
       - link: petrolejove_lampy_044.html
         title: '5'
-      - link: petrolejove_lampy_045.html
-        title: '6'
       - link: petrolejove_lampy_046.html
         title: '7'
       - link: petrolejove_lampy_047.html
