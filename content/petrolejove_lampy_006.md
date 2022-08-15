@@ -6,6 +6,6 @@ contentType: prose
 
 <section>
 
-_Památce mého otce_
+Památce mého otce
 
 </section>
