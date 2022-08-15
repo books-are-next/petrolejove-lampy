@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '29'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _29_
 
 Před sedmi lety se Anně Kiliánové bratr Jan pranic nelíbil. Ve své selské, poněkud tvrdé mysli si ho již představovala, jak vládu nad statkem odevzdává synovi a jak dohasíná v malé sedničce za kuchyní pod těžkou pruhovanou peřinou. Malina však žil. Jeho tělesný stav se sice nezlepšil, ale také se nehoršil. Žíly na krku mu vystoupily, tvář se ještě víc propadla, ruce se znatelně chvěly, ale nešel na výměnek, syn se neženil, na Vejrychovsku zůstávalo všecko při starém. Zato začala marodit Anna Kiliánová.
 

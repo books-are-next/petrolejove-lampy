@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '7'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _7_
 
 Štěpka zjistila, že se octla v romantickém postavení dívky, která má nehodnou lásku a jíž rodiče zbraňují. Nic jí nemohlo víc lahodit, nic jí nemohlo být vítanější. Mít takovou zakázanou lásku v třiceti letech, není-liž pak to nádherné? A ihned se do této sladké a bojovné skutečnosti vžila.
 

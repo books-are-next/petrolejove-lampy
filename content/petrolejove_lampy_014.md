@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '8'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _8_
 
 Stavitel Kilián vystavěl na rohu Hoření ulice, na místě starého srubového domku poblíž náměstí, dvoupatrový dům. Byla to jeho dosud největší práce. Dokonce to byl první tak vysoký dům v městečku kromě zámku, školy a několika ostatních veřejných budov. Kilián postavil činžák ze spekulace. Státní úřady se už dávno tísnily v staré radnici s podloubím, kde byly kromě toho umístěny i úřady městské. Kilián doufal, že od něho stát najme aspoň jedno poschodí. Nepřepočítal se. Nad domovními dveřmi byl pověšen plechový dvojhlavý orel, do prvního poschodí se nastěhoval berní úřad a puncovní úřad. Kiliánovi se usadili v druhém patře.
 

@@ -1,11 +1,10 @@
 ---
 title: ''
+subtitle: '27'
 contentType: prose
 ---
 
 <section>
-
-## 27
 
 Kilián vystavěl v Hoření ulici vilu pro doktora Hilmara a Štěpka se sblížila s mladou paní doktorovou. Nevzniklo žádné zvláštní přátelství, ty dvě ženy se jen občas sešly na náměstí, promluvily spolu několik letmých slov. Styky byly však přece jen navázány a Štěpka měla aspoň příležitost tu a tam se potěšit s tříletou Helenkou. Byl to opravdu roztomilý brouček! Štěpka se o paní doktorovou ani tuze nezajímala, byla to vlastně obyčejná maloměstská panička, byť v nejlepším smyslu toho slova, zajímala se jen o tu její malou dcerušku. Hned by si přála mít také takovou!
 

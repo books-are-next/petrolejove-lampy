@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '10'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _10_
 
 Nevěsta Štěpka musila mít také družičku, to se rozumí, nebyla jí však dlouhá, vyschlá stará panna Božka Karbanová, ale roztomilá, devítiletá Hilmarova Helenka. Dívenka nemohla jít ovšem k oltáři sama – och, Štěpka dovedla mámit, když jí na tom záleželo, těžko jí bylo odříkat – vedle ní kráčel mládenec, hošík, do kterého byla Štěpka kdysi zamilována, Rittichův Kamil. Ty dvě děti se zasloužily o úspěch její svatby, jen co je pravda! Škoda jen, že byl již mrazivý, plískavičný listopad, že nebylo slunné léto, aby malý pár mohl jít bez teplých plášťů, Helenka v nadýchaných růžových šatečkách, Kamil v černém oděvu, který mu tak slušel a dával vyniknout jeho zlatým kadeřím!
 

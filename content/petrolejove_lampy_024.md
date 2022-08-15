@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '18'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _18_
 
 Štěpce jde na devatenáctý rok. Kam vkročí, všude je jí plno, na náměstí, v krámech, ba i v kostele. Ústa jí neustále drnčí, až uši zaléhají, její smích rachotí jako vůz plný štěrku. Kroutí se v bocích, rozkládá rukama, snad sebou ty ruce cukají, když Štěpka spí. A k tomu ty její bláznivé šaty a klobouky! Můj ty Bože! Už se nadobro vysmekla z rukou modlářské matky a otce, který ji příliš zbožňuje a všechno jí odpouští. Nedá si mluvit do svých věcí, cpe se dopředu, je dravá, hubatá, nezpůsobná. Vyrostla v ní městečku figura, jakých tu ještě nebylo. Dobrá pro pošklebky, pro obveselení zlomyslných lidí.
 

@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '21'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _21_
 
 Prvního září bylo Štěpce dvacet let. Tenkrát nebylo v městečku zvykem slavit narozeniny, jedinou závažnou událostí v roce byl svátek. Přesto Anna Kiliánová podotkla k dceři už zrána:
 

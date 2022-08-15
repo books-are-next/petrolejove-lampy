@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '3'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _3_
 
 Hejtman Malina už nesedá u okna se sklenkou krvavého vína v ruce, neutápí se v blaženém opilství, neprožívá znovu svou dávnou, bujarou mladost, nehoní se za prchlými, vábnými vidinami, pod židlí baterii lahví, v tváři idiotský úsměšek. Opíraje se o hůl, plouží se od rohu k rohu, přidržuje se nábytku, zase se zastavuje, údy se mu třesou, krk je napjat úsilím, oči vytřeštěné šílenou představou. Vyschlá sanice mu poskakuje bezhlasou hrůzou. To smrt strýce Kiliána ho vyšinula z klidu. Opustil křeslo, v němž se oddával sladké nečinnosti, a už nikdy do něho nesedne s bezmračnou pohodou v uspané duši.
 

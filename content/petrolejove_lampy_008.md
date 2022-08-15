@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '2'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _2_
 
 Kilián nebyl obzvlášť znamenitý stavitel. Svědčí o tom celá Hoření ulice, jeho životní dílo, která rozmnožila jeho jmění. Stojí v ní přízemní, nejvýš jednopatrové domy, jeden jako druhý, celá řada papírových domků, jaké se v zimě stavějí v oknech do mechu. Maloměstští stavitelé nemívají zvláštní ambice, patrně proto, že se musí přizpůsobovat vkusu svých zákazníků. Jsou-li velmi dobří, dovedou postavit dům ne-li krásný, tedy aspoň účelný. Ani v tomto směru Kilián nikterak nevynikal. Domy, které vystavěl, nemají sklepy, schody jsou v nich většinou tmavé a strmé, nešťastný obyvatel nebo host na nich snadno uklouzne a pak se neodvratně řítí až do přízemí jako po toboganu. Místnosti jsou obrovské a nedají se vytápět, chodby jsou hotovým bludištěm, bez plánku se v takovém Kiliánově domě vůbec nevyznáš. Zato se však do dvorků táhnou všemožné přístavky, trčí nad nimi kryté i nekryté dřevěné pavlače, dobré jen k tomu, aby se po nich s příšerným skučením proháněl průvan, třískal dveřmi a rozbíjel okenní tabulky.
 

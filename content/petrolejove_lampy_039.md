@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '33'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _33_
 
 _„Kdybych já věděl, že letos umru,  
 dal bych si dělat dubovou truhlu.  

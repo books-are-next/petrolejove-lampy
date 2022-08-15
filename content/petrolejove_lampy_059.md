@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '20'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _20_
 
 Svatá Anna, to byl pro Štěpku den pouti do městečka, k židli matky Kiliánové obložené peřinami, Štěpka bude lhát úsměvy i slovy plnými naděje a nemocná bude obojí odmítat vzdechy a malátným mávnutím ruky: „Milé dítě, to je už jistě můj poslední svátek, napřesrok tu nebudu.“ Bude nutno ji těšit, přesvědčovat, zoufale vymýšlet kdejaké komické příběhy, nepřetržitě mluvit o statku a o polích, jen aby nenastalo zrádné ticho, v němž by se srdce sevřelo zatajovanou bolestí a z očí vytryskly slzy.
 

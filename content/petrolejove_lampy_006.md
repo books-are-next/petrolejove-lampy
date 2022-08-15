@@ -1,5 +1,6 @@
 ---
 title: ''
+subtitle: ''
 hiddenTitle: true
 contentType: prose
 ---

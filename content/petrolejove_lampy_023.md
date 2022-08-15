@@ -1,11 +1,10 @@
 ---
-title: ''
+title: '17'
+subtitle: ''
 contentType: prose
 ---
 
 <section>
-
-## _17_
 
 Každých čtrnáct dní se u Kiliánů v pondělí pralo. Traklová přišla už v neděli dopoledne – obyčejně bez Lojzíka – vysoukala si rukávy, navlekla si přes sváteční šaty záplatovanou zástěru, brala z koše prádlo kus za kusem, v kuchyni je mydlila a namáčela do necek. (Nebyl by to ani dům stavěný Kiliánem, kdyby v něm bylo pamatováno na prádelnu.) Před polednem bylo vše hotovo. Traklová svlekla zástěru a otřela si čelo, mírně ovlhlé potem:
 
