@@ -6,6 +6,8 @@ contentType: prose
 
 <section>
 
-Památce mého otce
+Petrolejové lampy
+
+Jaroslav Havlíček
 
 </section>
