@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "havlicek-petrolejove-lampy-fd8e2e9",
-  "revision": "fd8e2e9",
+  "identifier": "havlicek-petrolejove-lampy-59057b8",
+  "revision": "59057b8",
   "readingOrder": [
     "promo.html",
     "petrolejove_lampy_002.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Aug 15 2022 09:21:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1660555285921
+    "date": "Thu Sep 29 2022 21:31:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487092655
   },
   "documents": [
     {
