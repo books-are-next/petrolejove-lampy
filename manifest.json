@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "havlicek-petrolejove-lampy-e7a4d41",
-  "revision": "e7a4d41",
+  "identifier": "havlicek-petrolejove-lampy-6fd1b8b",
+  "revision": "6fd1b8b",
   "readingOrder": [
     "promo.html",
     "petrolejove_lampy_002.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:01:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640119799
+    "date": "Tue Oct 04 2022 16:49:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902192810
   },
   "documents": [
     {
@@ -590,9 +590,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 163,
+      "words": 161,
       "chars": 1193,
-      "ideas": 17,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "petrolejove_lampy_062.html",
@@ -610,9 +610,9 @@
   ],
   "totals": {
     "all": {
-      "words": 98844,
+      "words": 98842,
       "chars": 602680,
-      "ideas": 1602
+      "ideas": 1600
     },
     "chapters": {
       "words": 98675,
